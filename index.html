@@ -1,8 +1,55 @@
 <html>
 <head>
-  <meta http-equiv="Refresh" content="0; URL=http://rna.rega.kuleuven.be/rnamods" />
+	<title>Read Text File</title>
 </head>
 <body>
-<a href="http://rna.rega.kuleuven.be/rnamods">The RNA Modification Database</a>
+	<pre id="output"></pre>
+	
+	<table id="sampleTable" border="1">
+  <tbody>
+    <!--tr>
+      <td>Row1 cell1</td>
+      <td>Row1 cell2</td>
+    </tr>
+    <tr>
+      <td>Row2 cell1</td>
+      <td>Row2 cell2</td>
+    </tr-->
+  </tbody>
+</table>
+
+<script type="text/javascript">
+function myAddRow() {
+var table = document.getElementById("sampleTable"),
+    tbody = table.getElementsByTagName("tbody")[0];
+
+for (var i=0;i<5;i++) {
+  var row = document.createElement("tr");
+  var cell1 = document.createElement("td");
+  var cell2 = document.createElement("td");
+  cell1.innerHTML = i + "- 1";
+  cell2.innerHTML = i + "- 2";
+  row.appendChild(cell1);
+  row.appendChild(cell2);
+  tbody.appendChild(row);  
+}
+}
+
+function myProcess(t) {
+var a = t.split("\n");
+console.log(a[0]);
+for (const element of a) {
+  console.log(element);
+}
+myAddRow();
+document.getElementById('output').innerHTML ="<h1>" + t + "</h1>";
+}
+
+const fileUrl = 'https://rnamods.github.io/txt/test.txt';
+fetch(fileUrl)
+   .then( r => r.text() )
+   .then( t => myProcess(t) )
+   
+</script>
 </body>
 </html>
