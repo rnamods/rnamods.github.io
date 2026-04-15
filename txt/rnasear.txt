@@ -60,7 +60,7 @@ Output sorted by:<BR>
 </TD><TD>
 <INPUT TYPE='reset' VALUE=' reset form '>
 </TD><TD COLSPAN=2>
-<INPUT TYPE='button' VALUE=' additional help ' onClick='loadShow("txt/rnahelp.txt";)'>
+<INPUT TYPE='button' VALUE=' additional help ' onClick='loadShow("txt/rnahelp.txt");'>
 
 </TD>
 </TR>
