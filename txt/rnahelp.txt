@@ -1,0 +1,36 @@
+<div id='textframe'>
+<div class='orangebar'><div class='llink'><A HREF='rnasear.htm'>&#171; back to the search page</A></div><div class='rlink'>&nbsp;</div>help: search the database</div>
+<div class='thetext'>
+
+In order to reduce and restrict the output, several search options are available.<P>
+
+<UL TYPE='square'>
+<LI><B>base type</B><P>
+
+Checking one of the selections will only output a listing sorted by heterocycle family. For example, 'adenosines' will retrieve all modified nucleosides containing the adenine moiety.
+<P>
+<LI><B>RNA source</B><P>
+Searches can be performed on subgroups containing only one type of RNA, e.g. tRNA. For ribosomal RNA, the origin can be specified more precisely (e.g., 5S rRNA) or checking 'rRNA (all)' will give nucleosides found in any type of rRNA.<P>
+<LI><B>phylogenetic occurrence</B><P>
+Checking one of the phylogenetic domains will restrict the search to nucleosides only found in organisms from that domain.
+<P>
+<LI><B>output options</B><P>
+Output formatting can be controlled by using the 'output options' column.<P>
+<UL>
+<LI>show common name: this option will include the common name in the output list.<P>
+
+<LI>show structures: checking this option will also show the chemical structures of the nucleosides.<P>
+<LI>show mass values: a column of nucleoside masses will be shown.<P>
+<LI>Output can be ordered by base type, common name, or mass.<P>
+</UL>
+<LI><B>partial name</B><P>
+If desired, a part of the common name can be entered here, e.g. 'thio'. More than one feature can be entered if separated by a space (e.g. 'methyl adeno'), but only entries matching the parts in the given order will be considered a 'hit'.
+The searches are not case sensitive.<P>
+<LI><B>reset form</B><P>
+Clicking this button will reset all the options to their defaults and will clear the 'partial name' input.<P>
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='llink'><A HREF='rnasear.htm'>&#171; back to the search page</A></div></div>
+</div> <!-- textframe -->
