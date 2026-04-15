@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF='rnadist.htm'>&#171; phylogenetic distribution</A></div><div class='rlink'>&nbsp;</div>ribosomal RNA</div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnadist.txt");'>&#171; phylogenetic distribution</A></div><div class='rlink'>&nbsp;</div>ribosomal RNA</div>
 <div class='thetext'>
 
 <UL TYPE="square">
@@ -157,5 +157,5 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='llink'><A HREF='rnadist.htm'>&#171; phylogenetic distribution</A></div></div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnadist.txt");'>&#171; phylogenetic distribution</A></div></div>
 </div> <!-- textframe -->
