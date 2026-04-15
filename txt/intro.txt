@@ -1,3 +1,0 @@
-<PRE>this is the intro.txt</PRE>
-
-<A HREF=''>linking here</A>
