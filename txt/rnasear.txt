@@ -56,7 +56,7 @@ Output sorted by:<BR>
 <INPUT TYPE='text' NAME='TXT' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
 </TR><TR BGCOLOR="#EEEEEE" VALIGN='top' ALIGN='center'>
 <TD>
-<INPUT TYPE='button' VALUE=' search ' onClick='loadShow("txt/rnahome.txt");'>
+<INPUT TYPE='button' VALUE=' search ' onClick=';'>
 </TD><TD>
 <INPUT TYPE='reset' VALUE=' reset form '>
 </TD><TD COLSPAN=2>
