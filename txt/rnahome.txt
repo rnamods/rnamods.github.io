@@ -1,0 +1,23 @@
+<div id='textframe'>
+<div class='orangebar'>- a comprehensive listing of post-transcriptionally modified nucleosides from RNA -</div>
+<div class='thetext'>
+
+<TABLE ALIGN="center" CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH="90%">
+<TR>
+<TD VALIGN="top" ALIGN="right" ROWSPAN=2><IMG SRC="images/trna1.gif" BORDER=0 ALT="tRNA" WIDTH=182 HEIGHT=351></TD>
+<TD VALIGN="top" ALIGN="left"><IMG SRC="images/trna2.gif" BORDER=0 ALT="tRNA" WIDTH=160 HEIGHT=140></TD>
+</TR><TR>
+<TD VALIGN="top">
+<SPAN CLASS='thetext'><BR>maintained by<P>
+<B>Paul Agris</B> (North Carolina State University)<BR><B>Pamela F. Crain</B> (University of Utah) and<BR><B>Jef Rozenski</B> (KU Leuven, Belgium)</H2><P>
+</SPAN>
+</TD></TR></TABLE>
+
+<NOSCRIPT>
+<BLINK>Note:</BLINK> <B>JavaScript has to be enabled in order to be able to use all the functions at this web site.</B>
+</NOSCRIPT>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'>&nbsp;</div>
+</div> <!-- textframe -->
