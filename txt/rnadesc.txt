@@ -1,25 +1,5 @@
-<HTML>
-<HEAD>
-<!-- pages designed by Jef Rozenski -->
-<TITLE>The RNA Modification Database</TITLE>
-<META name='TITLE' content='The RNA Modification Database'>
-<META name='AUTHOR' content='Medicinal Chemistry, University of Utah, Salt Lake City'>
-<META name='KEYWORDS' content='modified,modifications,nucleosides,nucleotides,database,mass spectrometry,structure,trna,mrna,rrna,references,literature,science,scientific,bacteria,archaea,eukarya,phylogenetic,RNA,DNA,medicinal chemistry,Utah,Salt Lake City,posttranscriptional,posttranscriptionally,synthesis,McCloskey,Sciex,Micromass,Perceptive,Waters'>
-<META name='DESCRIPTION' content='a comprehensive listing of post-transcriptionally modified nucleosides from RNA'>
-<META name='RESOURCE-TYPE' content='document'>
-<META name='ROBOTS' content='index,follow'>
-<link rel='stylesheet' type='text/css' href='rnamods.css'>
-<link rel='stylesheet' type='text/css' href='rnaprint.css' media='print'>
-<SCRIPT type='text/javascript' src='iehover.js'></SCRIPT>
-</HEAD>
-<BODY>
-
-<div id='wrap'>
-
-<div id='header'><SCRIPT TYPE='text/javascript' SRC='rnahead.js'></SCRIPT><BR CLASS='clearit'></div> <!-- header -->
-
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF='rnaover.htm'>&#171; overview</A></div><div class='rlink'><A HREF='rnadist.htm'>phylogenetic distribution &#187;</A></div>description of the entries</div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnaover.txt")'>&#171; overview</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt")'>phylogenetic distribution &#187;</A></div></div></div>description of the entries</div>
 <div class='thetext'>
 
 <CENTER>
@@ -131,12 +111,5 @@ Additional literature citations, alternate nomenclature, or further comments on 
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='llink'><A HREF='rnaover.htm'>&#171; overview</A></div><div class='rlink'><A HREF='rnadist.htm'>phylogenetic distribution &#187;</A></div></div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnaover.txt")'>&#171; overview</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt")'>phylogenetic distribution &#187;</A></div></div>
 </div> <!-- textframe -->
-
-<div id='footer'><SCRIPT LANGUAGE="JavaScript" SRC='rnafoot.js'></SCRIPT></div>
-
-</div> <!-- wrap -->
-
-</BODY>
-</HTML>
