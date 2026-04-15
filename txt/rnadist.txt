@@ -1,0 +1,71 @@
+<HTML>
+<HEAD>
+<!-- pages designed by Jef Rozenski -->
+<TITLE>The RNA Modification Database</TITLE>
+<META name='TITLE' content='The RNA Modification Database'>
+<META name='AUTHOR' content='Medicinal Chemistry, University of Utah, Salt Lake City'>
+<META name='KEYWORDS' content='modified,modifications,nucleosides,nucleotides,database,mass spectrometry,structure,trna,mrna,rrna,references,literature,science,scientific,bacteria,archaea,eukarya,phylogenetic,RNA,DNA,medicinal chemistry,Utah,Salt Lake City,posttranscriptional,posttranscriptionally,synthesis,McCloskey,Sciex,Micromass,Perceptive,Waters'>
+<META name='DESCRIPTION' content='a comprehensive listing of post-transcriptionally modified nucleosides from RNA'>
+<META name='RESOURCE-TYPE' content='document'>
+<META name='ROBOTS' content='index,follow'>
+<link rel='stylesheet' type='text/css' href='rnamods.css'>
+<link rel='stylesheet' type='text/css' href='rnaprint.css' media='print'>
+<SCRIPT type='text/javascript' src='iehover.js'></SCRIPT>
+</HEAD>
+<BODY>
+
+<div id='wrap'>
+
+<div id='header'><SCRIPT TYPE='text/javascript' SRC='rnahead.js'></SCRIPT><BR CLASS='clearit'></div> <!-- header -->
+
+<div id='textframe'>
+<div class='orangebar'><div class='llink'><A HREF='rnadesc.htm'>&#171; description of the entries</A></div><div class='rlink'><A HREF='rnarrna.htm'>ribosomal RNA &#187;</A></div>phylogenetic distribution</div>
+<div class='thetext'>
+
+The database currently (July 5, 2000) contains <B>96 modified ribonucleoside entries</B>, distributed by RNA type and phylogenetic source as shown in following table:<BR>
+
+<P>
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=500 BGCOLOR='#EEEEEE'>
+<TR><TD COLSPAN=2>
+<PRE><B>_______________________________________________________________
+
+                                           Source
+                           ____________________________________
+
+                              Archaea   (eu)Bacteria   Eukarya
+_______________________________________________________________</B>
+
+ tRNA                             37          42          47
+ rRNA                                          1<SUP>a</SUP>          4<SUP>a</SUP>
+     SSU                          12           8          18
+     LSU                           8          14          12
+     5S                            3                       1
+     5.8S                                                  5
+ mRNA                                                     13
+ tmRNA                                         2
+ snRNA                                                    11
+ chromosomal RNA                                           2
+ other small RNA                                           1
+_______________________________________________________________</PRE>
+
+</TD>
+<TR VALIGN='top'>
+<TD><TT><SUP>a</SUP></TT></TD>
+<TD><TT>Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TT>
+</TD></TR></TABLE>
+</CENTER>
+<P>
+Updated from: Rozenski, J., Crain, P.F. and McCloskey, J.A. <I>Nucleic Acids Res.</I> <B>27</B>, 196-197 (1999).
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='llink'><A HREF='rnadesc.htm'>&#171; description of the entries</A></div><div class='rlink'><A HREF='rnarrna.htm'>ribosomal RNA &#187;</A></div></div>
+</div> <!-- textframe -->
+
+<div id='footer'><SCRIPT LANGUAGE="JavaScript" SRC='rnafoot.js'></SCRIPT></div>
+
+</div> <!-- wrap -->
+
+</BODY>
+</HTML>

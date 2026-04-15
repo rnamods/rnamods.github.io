@@ -1,0 +1,188 @@
+<HTML>
+<HEAD>
+<!-- pages designed by Jef Rozenski -->
+<TITLE>The RNA Modification Database</TITLE>
+<META name='TITLE' content='The RNA Modification Database'>
+<META name='AUTHOR' content='Medicinal Chemistry, University of Utah, Salt Lake City'>
+<META name='KEYWORDS' content='modified,modifications,nucleosides,nucleotides,database,mass spectrometry,structure,trna,mrna,rrna,references,literature,science,scientific,bacteria,archaea,eukarya,phylogenetic,RNA,DNA,medicinal chemistry,Utah,Salt Lake City,posttranscriptional,posttranscriptionally,synthesis,McCloskey,Sciex,Micromass,Perceptive,Waters'>
+<META name='DESCRIPTION' content='a comprehensive listing of post-transcriptionally modified nucleosides from RNA'>
+<META name='RESOURCE-TYPE' content='document'>
+<META name='ROBOTS' content='index,follow'>
+<link rel='stylesheet' type='text/css' href='rnamods.css'>
+<link rel='stylesheet' type='text/css' href='rnaprint.css' media='print'>
+<SCRIPT type='text/javascript' src='iehover.js'></SCRIPT>
+</HEAD>
+<BODY>
+
+<div id='wrap'>
+
+<div id='header'><SCRIPT TYPE='text/javascript' SRC='rnahead.js'></SCRIPT><BR CLASS='clearit'></div> <!-- header -->
+
+<div id='textframe'>
+<div class='orangebar'><div class='llink'><A HREF='rnadist.htm'>&#171; phylogenetic distribution</A></div><div class='rlink'>&nbsp;</div>ribosomal RNA</div>
+<div class='thetext'>
+
+<UL TYPE="square">
+<LI><B>Nucleoside modifications in rRNA</B>
+<P>
+
+Posttranscriptional modification in rRNA was recognized and reported in the early literature, but has received far less attention than for tRNA because of limited sequence studies carried out at the RNA level (which was historically a frequent means of discovery of new nucleosides in tRNA), coupled with considerably less understanding of modification structure-function relationships compared with tRNA.  In compiling a comprehensive and reliable listing of modified nucleosides in rRNA, several problems arose that were common to all of the RNAs but were perhaps more prevalent for rRNAs.
+First, some early work predated an understanding of the structures of rRNAs and of methods to isolate them without cross-contamination from other rRNAs, or from tRNA.  Second, methods of structural identification prior to about 1965 were inadequate in the event that structurally new or unexpected nucleosides were encountered, and some identifications based principally on chromatographic behavior must be regarded as inconclusive even though no outright assignment error is apparent.
+In addition, RNA hydrolysis using acid or base (rather than nucleases) must have inevitably led to some formation of degraded or rearranged products, and loss of labile substituents, which were not readily recognized as such.  As a consequence of these problems, some of the occurrences listed in rRNA are tenuous (as indicated by appropriate Comments in certain files) and should be verified using rigorous experimental methods.
+<P>
+Because of the relatively greater extent to which modifications in <I>E. coli</I> rRNA have been studied, it is possible to compare earlier reports with more recent work (e.g., <A HREF=#refs>1</A>), and thereby exclude one-time or unusual assignments that have not been subsequently verified by independent methods.  On this basis, the following reported nucleoside occurrences in <I>E. coli</I> rRNA are not included in the database: m<SUP>2</SUP><SUB>2</SUB>G [<A HREF="#refs">2</A>], and D [<A HREF="#refs">3</A>] and I [<A HREF="#refs">3</A>] in 16S,
+and I [<A HREF="#refs">3</A>], m<SUP>4</SUP>C [<A HREF="#refs">4</A>] and m<SUP>3</SUP>U [<A HREF="#refs">4</A>] in 23S.
+In spite of the problems outlined above, and because of the absence of any attempt prior to 1994 to compile a comprehensive listing of rRNA modifications, the view has been adopted that some unusual occurrences in rRNA should be included in the database, even though uncertainties remain.
+
+<P>
+<LI><B>Modifications in <I>E. coli</I> 16S and 23S rRNA</B>
+<P>
+
+The sites and identities of posttranscriptional modifications in the <I>E. coli</I> rRNAs are the most extensively studied of any prokaryote.
+A summary of currently known modifications, which is probably complete, is given in the table below. 
+Some earlier assignments proved to be incorrect (as discussed in the section above and in ref. <A HREF="#refs">5</A>),
+sometimes as a consequence of unavailability at that time of the corresponding gene sequences which led to numerous published errors.
+Leading references for the data presented in the table below can be found in refs. <A HREF="#refs">1</A>, <A HREF="#refs">6</A> (16S) and <A HREF="#refs">7-10</A> (23S).
+Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmodified (e.g., ref. <A HREF="#refs">1</A>), a characteristic of most 5 - 5.8S rRNAs.
+<P>
+<TABLE CLASS='outtable'>
+<TR>
+<TH COLSPAN=2>Modifications in <I>E. coli</I> rRNA</B></TH>
+</TR><TR>
+<TD VALIGN="TOP">
+
+<TABLE CLASS='intable'>
+<TR>
+<TH COLSPAN=2>16S</TH>
+</TR><TR>
+
+<TH>Location</TH><TH>Modification</TH>
+</TR><TR>
+<TD>516</TD>
+<TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>527</TD>
+<TD>m<SUP>7</SUP>G</TD>
+</TR><TR>
+<TD>966</TD><TD>m<SUP>2</SUP>G</TD>
+
+</TR><TR >
+<TD>967</TD><TD>m<SUP>5</SUP>C</TD>
+</TR><TR>
+<TD>1207</TD><TD>m<SUP>2</SUP>G</TD>
+</TR><TR>
+<TD>1402</TD><TD>m<SUP>4</SUP>Cm</TD>
+
+</TR><TR>
+<TD>1407</TD><TD>m<SUP>5</SUP>C</TD>
+</TR><TR>
+<TD>1498</TD><TD>m<SUP>3</SUP>U</TD>
+</TR><TR>
+<TD>1516</TD><TD>m<SUP>2</SUP>G</TD>
+
+</TR><TR>
+<TD>1518</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
+</TR><TR>
+<TD>1519</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
+</TR>
+</TABLE>
+
+</TD><TD VALIGN="top">
+
+<TABLE CLASS='intable'>
+<TR>
+<TH COLSPAN=2>23S</TH>
+</TR><TR>
+<TH>Location</TH><TH>Modification</TH>
+</TR><TR>
+<TD>745</TD><TD>m<SUP>1</SUP>G</TD>
+</TR><TR ALIGN="center">
+
+<TD>746</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>747</TD><TD>m<SUP>5</SUP>U (T)</TD>
+</TR><TR>
+<TD>955</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>1618</TD><TD>m<SUP>6</SUP>A</TD>
+
+</TR><TR>
+<TD>1835</TD><TD>m<SUP>2</SUP>G</TD>
+</TR><TR>
+<TD>1911</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>1915</TD><TD>m<SUP>3</SUP><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+
+<TD>1917</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>1939</TD><TD>m<SUP>5</SUP>U (T)</TD>
+</TR><TR>
+<TD>1962</TD><TD>m<SUP>5</SUP>C</TD>
+</TR><TR>
+<TD>2030</TD><TD>m<SUP>6</SUP>A</TD>
+
+</TR><TR>
+<TD>2069</TD><TD>m<SUP>7</SUP>G</TD>
+</TR><TR>
+<TD>2251</TD><TD>Gm</TD>
+</TR><TR>
+<TD>2445</TD><TD>m<SUP>2</SUP>G</TD>
+</TR><TR>
+
+<TD>2449</TD><TD>D</TD>
+</TR><TR>
+<TD>2457</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>2498</TD><TD>Cm</TD>
+</TR><TR>
+<TD>2501</TD><TD>C<SUP>*</SUP> <SUP>(a)</SUP></TD>
+</TR><TR>
+<TD>2503</TD><TD>m<SUP>2</SUP>A</TD>
+
+</TR><TR>
+<TD>2504</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>2552</TD><TD>Um</TD>
+</TR><TR>
+<TD>2580</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR><TR>
+<TD>2605</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+</TR>
+</TABLE>
+<DIV STYLE='margin-left:50px;'><SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].</DIV>
+</TD></TR>
+</TABLE>
+<P>
+<LI><B>References for the Ribosomal RNA section</B><A NAME="refs"></A><P>
+
+<OL> 
+<LI>Kowalak, J.A., Pomerantz, S.C., Crain, P.F., and McCloskey, J.A. (1993) <I>Nucleic Acids Res.</I> <B>21</B>, 4577-4585.
+<LI>Starr, J.F. and Fefferman, R. (1964) <I>J. Biol. Chem.</I> <B>239</B>, 3457-3461.
+
+<LI>Johnson, J.D. and Horowitz, J. (1971) <I>Biochim. Biophys. Acta</I> <B>247</B>, 262-279.
+<LI>Gehrke, C.W. and Kuo, K.C. (1989) <I>J. Chromatogr.</I> <B>471</B>, 3-36.
+<LI>Limbach, P.A., Crain, P.F. and McCloskey, J.A. (1994) <I>Nucleic Acids Res.</I> <B>22</B>, 2183-2196.
+<LI>Bakin, A., Kowalak, J.A., McCloskey, J.A. and Ofengand, J. (1994) <I>Nucleic Acids Res.</I> <B>22</B>, 3681-3684.
+
+<LI>Kowalak, J.A., Bruenger, E. and McCloskey, J.A. (1995) <I>J. Biol. Chem.</I> <B>270</B>, 17758-17764.
+<LI>Branlant, C., Krol, A., Machatt, M., Pouyet, J., Ebel, J.P., Edwards, K. and Kossel, H. (1981) <I>Nucleic Acids Res.</I> <B>9</B>, 4303-4324.
+<LI>Bakin, A. and Ofengand, J. (1993) <I>Biochemistry</I> <B>32</B>, 9754-9762.
+<LI>Andersen, T.E., Porse, B.T. and Kirpekar, F. (2004) <I>RNA</I> <B>10</B>, 907-913.
+
+</OL>
+<P>
+
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='llink'><A HREF='rnadist.htm'>&#171; phylogenetic distribution</A></div></div>
+</div> <!-- textframe -->
+
+<div id='footer'><SCRIPT LANGUAGE="JavaScript" SRC='rnafoot.js'></SCRIPT></div>
+
+</div> <!-- wrap -->
+
+</BODY>
+</HTML>

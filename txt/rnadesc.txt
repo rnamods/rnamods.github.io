@@ -1,0 +1,142 @@
+<HTML>
+<HEAD>
+<!-- pages designed by Jef Rozenski -->
+<TITLE>The RNA Modification Database</TITLE>
+<META name='TITLE' content='The RNA Modification Database'>
+<META name='AUTHOR' content='Medicinal Chemistry, University of Utah, Salt Lake City'>
+<META name='KEYWORDS' content='modified,modifications,nucleosides,nucleotides,database,mass spectrometry,structure,trna,mrna,rrna,references,literature,science,scientific,bacteria,archaea,eukarya,phylogenetic,RNA,DNA,medicinal chemistry,Utah,Salt Lake City,posttranscriptional,posttranscriptionally,synthesis,McCloskey,Sciex,Micromass,Perceptive,Waters'>
+<META name='DESCRIPTION' content='a comprehensive listing of post-transcriptionally modified nucleosides from RNA'>
+<META name='RESOURCE-TYPE' content='document'>
+<META name='ROBOTS' content='index,follow'>
+<link rel='stylesheet' type='text/css' href='rnamods.css'>
+<link rel='stylesheet' type='text/css' href='rnaprint.css' media='print'>
+<SCRIPT type='text/javascript' src='iehover.js'></SCRIPT>
+</HEAD>
+<BODY>
+
+<div id='wrap'>
+
+<div id='header'><SCRIPT TYPE='text/javascript' SRC='rnahead.js'></SCRIPT><BR CLASS='clearit'></div> <!-- header -->
+
+<div id='textframe'>
+<div class='orangebar'><div class='llink'><A HREF='rnaover.htm'>&#171; overview</A></div><div class='rlink'><A HREF='rnadist.htm'>phylogenetic distribution &#187;</A></div>description of the entries</div>
+<div class='thetext'>
+
+<CENTER>
+<A HREF="#RNA_type">RNA types</A><BR>
+<A HREF="#common_name">Common name</A><BR>
+<A HREF="#symbol">Symbol</A><BR>
+<A HREF="#CA_registry_number">Chemical Abstracts registry number</A><BR>
+<A HREF="#CA_index_name">Chemical Abstracts index name</A><BR>
+<A HREF="#mass">Molecular mass and elemental composition</A><BR>
+<A HREF="#source">Source</A><BR>
+<A HREF="#structure">Chemical structure</A><BR>
+<A HREF="#synthesis">Synthesis</A><BR>
+<A HREF="#comment">Comments</A><BR>
+<A HREF="#refs">References</A><P>
+</CENTER>
+
+<HR NOSHADE SIZE=1>
+
+<UL type="square">
+
+<LI><A NAME="RNA_type"></A><B>RNA types</B> have been divided into seven groups, of which tRNA generally contains the greatest structural diversity of modifications.  Some modifications, such as pseudouridine are found in more than one type of RNA.
+<P>
+   <UL type="circle">
+   <LI>tRNA (presently consisting of 92 nucleosides)
+   <LI>rRNA (30)
+   <LI>mRNA (13)
+   <LI>tmRNA (two)
+   <LI>snRNA (11)
+   <LI>chromosomal RNA (two)
+   <LI>other RNAs (one)
+   </UL>
+
+<P>
+<LI><A NAME="common_name"></A><B>Common name</B>
+<P>
+The most commonly used or preferred name is listed. For some nucleosides, additional alternate names are in common use, for example, ribosylthymine in lieu of 5-methyluridine, or "Q nucleoside" instead of queuosine.
+<P>
+<LI><A NAME="symbol"></A><B>Symbol</B>
+<P>
+The symbols listed follow convention and usage in the literature, even though some of the notations are idiosyncratic.
+In general, terms preceding the principal symbol (A, C, G, U) designate modification in the base, while methylation or ribosylation at O-2' of ribose (the only known ribose modifications in RNA) are designated by "m" or "r" respectively,
+following the principal symbol.  Numerous symbols, many of them inconsistent, have been used for the "Y" family of nucleosides and bases (for example, yW, imG).  The recommended symbols for those nucleosides are given in individual files;
+further discussions are given in the Comments entries, including recommended symbols for the corresponding bases.
+<P>
+<LI><A NAME="CA_registry_number"></A><B>Chemical Abstracts registry number</B>
+<P>
+Registry numbers are listed for the ribonucleoside and base (if assigned).
+The registry numbers may be used in combination with other search terms to allow selective computer-based literature retrievals.  For instance, use of registry number 24719-82-2 (for t<SUP>6</SUP>A) in combination with "synthesis" produces eight citations dealing with the chemical synthesis of t<SUP>6</SUP>A.
+<P>
+<LI><A NAME="CA_index_name"></A><B>Chemical Abstracts index name</B>
+<P>
+The name given is that assigned to the ribonucleoside.
+It is noted that in a limited number of cases, stereochemical assignment in the name was (correctly) made based on an early literature report, but was then automatically assigned without verification in all subsequent reports.
+For example the amino acid moiety for <I>N</I><SUP>6</SUP>-threonylcarbamoyladenosine (t<SUP>6</SUP>A) is designated by index name and registry number as L-threonine, 
+with the implication that all later reports of t<SUP>6</SUP>A in tRNA deal specifically with the <TT>L</TT>-enantiomer of threonine.
+<P>
+<LI><A NAME="mass"></A><B>Molecular mass and elemental composition</B>
+<P>
+The elemental composition and molecular mass are given for the nucleoside. The molecular mass represents the sum of the atomic weights of the atoms in the nucleoside and is thus the average molecular weight and not the monoisotopic molecular mass.
+<P>
+<LI><A NAME="source"></A><B>Source</B>
+<P>
+For each file entry the known phylogenetic occurrence for each nucleoside within the type of RNA is listed as: archaea (archaebacteria); bacteria (eubacteria); eukarya (eukaryotes).  Although organelle rRNAs have not been cataloged, mt (mitochondrial) is used when initial characterization was from this source.  V (viral) designations are used in the mRNA section.
+For tRNA, specific literature citations are not given for occurrence in each of the three basic phylogenetic domains because much of this information was earlier cataloged and is readily available.  The tRNA source distributions indicated have been determined from the sequence databank [<A HREF="#refs">1</A>], 
+the Structure category citations, or from specific citations retrieved using registry numbers.
+For all other RNA classes, citations are given to the first reported identification of the nucleoside in the source indicated.  For example, the occurrence of <I>N</I><SUP>2</SUP>-methylguanosine was reported in snRNA in 1972 [<A HREF="#refs">2</A>],
+but the nucleoside structure had been established in 1958 using material isolated from tRNA [<A HREF="#refs">3</A>].
+Therefore, in the snRNA category the Source listing would be "eukarya [<A HREF="#refs">2</A>]" and the Structure listing as "(ref. 3)".
+In the case of rRNA, because only limited attempts have been previously made to catalog such data [<A HREF="#refs">4-7</A>], 
+an effort has been made to subclassify the Source entries in greater detail by providing literature citations for occurrence in specific rRNAs designated by size, if known.
+For example, the entry for nucleoside m<SUP>1</SUP>acp<SUP>3</SUP><FONT FACE="symbol">Y</FONT> reported in eukaryal 17S rRNA [<A HREF="#refs">8</A>] and 18S rRNA [<A HREF="#refs">9</A>] would be listed as "eukarya 17S [8]" and "eukarya 18S [9]".
+The citation given thus corresponds to the first reports of occurrence of m<SUP>1</SUP>acp<SUP>3</SUP><FONT FACE="symbol">Y</FONT> in those RNAs, and subsequent reports of occurrence specifically in other 17S and 18S eukaryal rRNAs are not further tabulated.
+Notations such as "16+23S" indicate that a mixture of 16S and 23S rRNAs, free of 5S and tRNA, was studied.
+<P>
+<LI><A NAME="structure"></A><B>Chemical structure</B>
+<P>
+The structure of the ribonucleoside is given within each file, even though in a minority of cases of structure assignment the principal literature may actually deal with the corresponding base.  Side chain stereochemical assignments are not shown but are indicated in some cases in the Chemical Abstracts Index Name.
+The citation given is usually to the first report of structure assignment for the nucleoside, regardless of RNA source.
+Two primary citations are listed if the second one further refines the structure (e.g., side chain stereochemistry) or addresses ambiguities in the first report.  Citations to incorrect structures, as opposed to incomplete ones, are not listed. 
+Reference to structural characterization of the base rather than the nucleoside has been given in the case of some early studies in which chemical hydrolysis to the base was often employed prior to identification, and for some of the Y nucleosides that were isolated as bases (for example yW, imG) as a consequence of the unusual acid lability of the glycosidic bond.
+<P>
+<LI><A NAME="synthesis"></A><B>Synthesis</B>
+<P>
+In each case the citation listed is to the first reported chemical synthesis of the ribonucleoside, or in limited cases, of the base.  The chemical synthesis literature for many nucleosides is extensive, and no attempt has usually been made to cite additional syntheses even though they often represent improvements over the first reported synthesis.
+Access to the synthesis literature can be made effectively through Chemical Abstracts registry numbers.
+In general, many physical and spectroscopic data of interest (UV and mass spectra, chromatographic properties) are available from the first synthesis and structure characterization citations listed.
+In some instances no chemical synthesis has been reported.
+<P>
+<LI><A NAME="comment"></A><B>Comments</B>
+<P>
+Additional literature citations, alternate nomenclature, or further comments on entries in the individual file are provided when appropriate.
+<P>
+<LI><B>References for Description of Entries</B><A NAME="refs"></A>
+<P>
+<OL>
+<LI>J&uuml;hling, F., M&ouml;rl, M., Hartmann, R.K., Sprinzl, M., Stadler, P.F. and P&uuml;tz, J. (2009) <I>Nucleic Acids Res.</I> <B>37, Database issue</B>, D159-D162.
+<LI>Reddy, R., Ro-Choi, T.S., Henning, D., Shibata, H., Choi, Y.C. and Busch, H. (1972) <I>J. Biol. Chem.</I> <B>247</B>, 7245-7250.
+<LI>Adler, M., Weissmann, B. and Gutman, A.B. (1958) <I>J. Biol.Chem.</I> <B>230</B>, 717-723.
+<LI>Bj&ouml;rk, G. (1984) In Apirion, D. (ed.) Processing of RNA. CRC Press, Boca Raton, FL. pp. 291-330.
+<LI>Maden, B.E.H. (1990) In Gehrke, C.W. and Kuo, K.C. (eds.) Journal of Chromatography Library. Chromatography and Modification of Nucleosides. Elsevier, Amsterdam, Vol. 45B, pp. B265-B301.
+
+<LI>Maden, B.E.H. (1990) <I>Nucleic Acids Res. Mol. Biol.</I> <B>39</B>, 241-303.
+<LI>McCloskey, J.A. and Rozenski J. (2005) <I>Nucleic Acids Res.</I>  <B>33, Database issue</B>, D135-D138.
+<LI>Maden, B.E.H., Forbes, J., de Jonge, P. and Klootwijk, J. (1975) <I>FEBS Lett.</I> <B>59</B>, 60-63.
+<LI>Saponara, A.G. and Enger, M.D. (1974) <I>Biochim. Biophys. Acta</I> <B>349</B>, 61-77.
+</OL>
+
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='llink'><A HREF='rnaover.htm'>&#171; overview</A></div><div class='rlink'><A HREF='rnadist.htm'>phylogenetic distribution &#187;</A></div></div>
+</div> <!-- textframe -->
+
+<div id='footer'><SCRIPT LANGUAGE="JavaScript" SRC='rnafoot.js'></SCRIPT></div>
+
+</div> <!-- wrap -->
+
+</BODY>
+</HTML>
