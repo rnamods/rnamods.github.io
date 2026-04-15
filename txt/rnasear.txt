@@ -1,0 +1,75 @@
+<div id='textframe'>
+<div class='orangebar'>search the database</div>
+<div class='thetext'>
+
+<FORM METHOD="POST" ACTION="/rnamods/rnafind.pl">
+<TABLE BGCOLOR="#EEEEEE" CELLPADDING=0 CELLSPACING=0 ALIGN="center" CLASS="seartable">
+<TR BGCOLOR="#CCCCCC"><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>output options</TH>
+</TR>
+<TR BGCOLOR="#CCCCCC">
+<TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH>
+
+</TR><TR BGCOLOR="#EEEEEE" VALIGN='top'>
+<TD WIDTH="25%">
+<INPUT NAME='NUC' TYPE='radio' VALUE='.' CHECKED>all<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='A'>adenosines<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='I'>inosines<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='C'>cytidines<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='G'>guanosines<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='Q'>7-deazaguanosines<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='U'>uridines<BR>
+</TD><TD WIDTH="25%">
+
+<INPUT NAME='RNA' TYPE='radio' VALUE='.' CHECKED>from all<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='T'>tRNA<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='R'>rRNA (all)<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='1'>rRNA (SSU)<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='2'>rRNA (LSU)<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='3'>rRNA (5S)<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='4'>rRNA (5.8S)<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='M'>mRNA<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='S'>tmRNA<BR>
+
+<INPUT NAME='RNA' TYPE='radio' VALUE='N'>snRNA<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='H'>chromosomal RNA<BR>
+<INPUT NAME='RNA' TYPE='radio' VALUE='O'>other small RNA<BR>
+</TD><TD WIDTH="25%">
+<INPUT NAME='PHY' TYPE='radio' VALUE='.' CHECKED>from all<BR>
+<INPUT NAME='PHY' TYPE='radio' VALUE='a'>from Archaea<BR>
+<INPUT NAME='PHY' TYPE='radio' VALUE='b'>from Bacteria<BR>
+<INPUT NAME='PHY' TYPE='radio' VALUE='e'>from Eukarya<BR>
+</TD><TD>
+<INPUT TYPE='checkbox' NAME='NAM' VALUE='1' CHECKED>show common name<BR>
+
+<INPUT TYPE='checkbox' NAME='FIG' VALUE='1'>show structures<BR>
+<INPUT TYPE='checkbox' NAME='MAS' VALUE='1'>show mass values<BR>
+<P>
+Output sorted by:<BR>
+<INPUT NAME='SRT' TYPE='radio' VALUE='B' CHECKED>base type<BR>
+<INPUT NAME='SRT' TYPE='radio' VALUE='N'>nucleoside name<BR>
+<INPUT NAME='SRT' TYPE='radio' VALUE='M'>nucleoside mass<BR>
+<INPUT NAME='SRT' TYPE='radio' VALUE='.'>entry number<BR>
+</TD>
+</TR><TR BGCOLOR="#EEEEEE">
+
+<TD COLSPAN=4><B>partial name (optional):</B>
+<INPUT TYPE='text' NAME='TXT' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
+</TR><TR BGCOLOR="#EEEEEE" VALIGN='top' ALIGN='center'>
+<TD>
+<INPUT TYPE='submit' VALUE=' search '>
+</TD><TD>
+<INPUT TYPE='reset' VALUE=' reset form '>
+</TD><TD COLSPAN=2>
+<INPUT TYPE='button' VALUE=' additional help ' onClick='document.location="rnahelp.htm"'>
+
+</TD>
+</TR>
+</TABLE>
+</FORM>
+
+&nbsp;
+
+</div> <!-- thetext -->
+
+<div class='orangebar'>&nbsp;</div>
+</div> <!-- textframe -->
