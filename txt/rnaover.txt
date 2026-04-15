@@ -41,7 +41,7 @@ If the heterocyclic moiety is known or assumed, for example from the correspondi
 Likewise "x" is sometimes used in the fashion "x<SUP>5</SUP>s<SUP>2</SUP>U", as to generically designate 5-substituted derivatives of 2-thiouridine.
 The use of "m" for "modified", as in "mA" (occasionally used in the rRNA literature) is strongly discouraged because of the ambiguity associated with use of simply "m" for methylation.
 <P>
-Additional comments are found under <A HREF="rnadesc.htm#symbol">Symbol</A> in the Description of Entries section.
+Additional comments are found under 'Symbol' in the <A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>Description of Entries</A> section.
 <P>
 <A NAME="accur"></A>
 <LI><B>Accuracy of assignments in the early literature</B>
