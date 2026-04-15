@@ -1,0 +1,164 @@
+<div id='textframe'>
+<div class='orangebar'><div class='llink'>&nbsp;</div><div class='rlink'><A HREF='rnadesc.htm'>description of the entries &#187;</A></div>overview</div>
+<div class='thetext'>
+
+<CENTER>
+<A HREF="#comment">Comments on usage of nucleoside symbols</A><BR>
+
+<A HREF="#accur">Accuracy of assignments in the early literature</A><BR>
+<A HREF="#excl">Modifications excluded from the database</A><BR>
+<A HREF="#list">Some other listings and reviews of RNA modification</A><BR>
+<A HREF="#conc">Conclusions</A><BR>
+<A HREF="#refs">Overview references</A><P>
+</CENTER>
+
+<HR NOSHADE SIZE=1>
+
+The RNA modification database provides a comprehensive listing of 
+posttranscriptionally modified nucleosides from RNA and is maintained as 
+an updated version of the initial printed report [<A HREF="#refs">1</A>].
+<!--Initial updates of the database's status were published on a regular basis. [<A HREF="#refs">39-42</A>]--><BR>
+<P>
+Both the chemical and structural diversity and extent of posttranscriptional modification in RNA is remarkable [<A HREF="#refs">1-5</A>],
+with 114 different nucleosides presently known in all types of RNA.
+The discovery of new modified nucleosides as well as increasing knowledge of the array of functional roles of modification,
+based largely on extensive studies of tRNA [<A HREF="#refs">6-11</A>], mandates a need for a comprehensive database of RNA nucleosides. The RNA Modification Database is maintained as an extension of the initial version published in mid-1994 [<A HREF="#refs">1</A>].
+The database consists of all RNA-derived ribonucleosides of known structure, including those from established sequence positions, as well as those detected or characterized from hydrolysates of RNA. The information provided permits access to the modified nucleoside literature through provision of both computer-searchable Chemical Abstracts registry numbers and key literature citations.
+<P>
+This database also provides an historical record of the initial reports of occurrence, characterization and chemical synthesis of modified nucleosides from RNA.
+<P>
+The reader is referred to the earlier publication [<A HREF="#refs">1</A>] and to paragraphs below for discussion of selected topics relevant to the database.
+<P>
+The authors invite comments concerning new entries, errors or omissions and on the format presently used for electronic access to the database. The email address for this purpose is: <A HREF="&#109;ai&#108;to&#058;RNA&#109;ods@&#103;ma&#105;l.&#99;om">RNA&#109;ods@&#103;ma&#105;l.&#99;om</A>
+<P>
+
+<UL type="square">
+<A NAME="comment"></A>
+<LI><B>Comments on usage of nucleoside symbols</B>
+<P>
+In general, the symbol "N" is preferred for modified nucleosides of unknown structure, or "Nm" if ribose methylation of O-2' has been established.
+If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of "X" for an unknown nucleoside is not recommended because of confusion with the nucleoside acp<SUP>3</SUP>U (see comment in the acp<SUP>3</SUP>U file).  The superscript "x" is useful to indicate a form of modification without designation of position; for example "m<SUP>x</SUP>C" for cytidine monomethylated in the base at an unknown or unspecified position.
+Likewise "x" is sometimes used in the fashion "x<SUP>5</SUP>s<SUP>2</SUP>U", as to generically designate 5-substituted derivatives of 2-thiouridine.
+The use of "m" for "modified", as in "mA" (occasionally used in the rRNA literature) is strongly discouraged because of the ambiguity associated with use of simply "m" for methylation.
+<P>
+Additional comments are found under <A HREF="rnadesc.htm#symbol">Symbol</A> in the Description of Entries section.
+<P>
+<A NAME="accur"></A>
+<LI><B>Accuracy of assignments in the early literature</B>
+<P>
+Entries in each file are categorized by type of RNA, although in early work total cellular RNA was often isolated with no clear distinction made between tRNA ("soluble RNA"), the various rRNAs ("microsomal") or others.  In such cases the listing given in the database may correspond to contemporary knowledge of distribution of the nucleoside within certain types of RNA.  Some of the earlier literature concerning modification in rRNA is of questionable accuracy, and this particular problem is addressed in the next section ("Nucleoside modification in ribosomal RNA").
+<P>
+<A NAME="excl"></A>
+<LI><B>Modifications excluded from the database</B>
+<P>
+Excluded from the database are those modifications known to be artifactual, for example as a consequence of degradation, or those having clearly incorrect chemical structures.
+If the basis of structure assignment or identification is considered to be inconclusive, this is indicated under Comments in individual files.
+<P>
+There are several notable examples of modifications that have not been included in the compilation.
+<P>
+<UL>
+<LI>The covalently bonded adduct between the tRNA nucleoside <I>N</I><SUP>6</SUP>-threonylcarbamoyladenosine (t<SUP>6</SUP>A) and the base Tris, is a complex nucleoside isolated and characterized from <I>E.coli</I> tRNA [<A HREF="#refs">12</A>] (Chemical Abstracts registry number 61172-4-6),
+and is presently believed to be formed <I>in vitro</I> during tRNA isolation [<A HREF="#refs">12</A>], and is thus not a fully natural nucleoside.
+<LI>Second, posttranscriptional methylation in some small nuclear RNAs results in a 5'-CH<SUB>3</SUB>pppN... structure, rather than the more common m<SUP>2,2,7</SUP>GpppN... cap in which the terminus is a nucleoside [<A HREF="#refs">13</A>].
+</UL>
+<P>
+In addition, entries have not been made for natural modified nucleosides that have been only partially characterized.  Several examples are as follows:
+<P>
+<UL>
+<LI>An unknown <I>E. coli</I> tRNA nucleoside, initially discovered by S. Yokoyama [<A HREF="#refs">14</A>] Tokyo University, designated t<SUP>6</SUP>A* [<A HREF="#refs">15</A>] with unmodified ribose; M<SUB>r</SUB> 412, elutes before or concominent with adenosine in RPHPLC. 
+<LI>An unknown modified C was reported in <I>E. coli</I> 23S rRNA in very low amounts at position 2501, corresponding in mass to C plus net addition of 16 daltons [<A HREF="#refs">16</A>].  
+<LI>A new derivative of 5-methylaminomethyl-2-thiouridine (mnm<SUP>5</SUP>s<SUP>2</SUP>U), in which a C<SUB>10</SUB>H<SUB>17</SUB> side chain of unknown structure is attached to S-2 [<A HREF="#refs">17</A>].  
+<LI>An unusual derivative of cytidine, designated N-330, was sequenced to position 1404 in SSU rRNA of the bacterium <I>Thermotoga maritima</I>; M<SUB>r</SUB> 330.117, t<SUB>r</SUB> (HPLC) 3.7 min, with unmodified ribose [<A HREF="#refs">18</A>].
+</UL>
+<P>
+<A NAME="list"></A>
+<LI><B>Some other listings and reviews of RNA modification</B>
+<P>
+<UL>
+<LI>general distribution of modifications in RNA [<A HREF="#refs">2,4</A>]
+<LI>distribution of modifications in tRNA by sequence position [<A HREF="#refs">2,5,19</A>]
+<LI>tRNA gene sequences [<A HREF="#refs">2,5,20</A>]
+<LI>mitochondrial tRNA [<A HREF="#refs">21,22</A>]
+<LI>archaeal tRNA [<A HREF="#refs">5,23</A>]
+<LI>eukaryotic mRNA [<A HREF="#refs">24</A>]
+<LI>eukaryotic rRNA [<A HREF="#refs">25,26</A>]
+<LI>distribution of pseudouridine in rRNA [<A HREF="#refs">27-29</A>]
+<LI>rRNA, influence of modification [<A HREF="#refs">30</A>]
+<LI>small subunit rRNA database [<A HREF="#refs">31</A>]
+<LI>mRNA cap structures [<A HREF="#refs">32,33</A>]
+<LI>small nuclear RNA [<A HREF="#refs">33-36</A>]
+<LI>nucleolar "guide" RNAs [<A HREF="#refs">33,36</A>]
+<LI>biophysical consequences of modification [<A HREF="#refs">37,38</A>]
+<LI>extensive reviews and general coverage of modification [<A HREF="#refs">7,39</A>]
+</UL>
+<P>
+<A NAME="conc"></A>
+<LI><B>Conclusions</B>
+<P>
+A total of 114 modified nucleosides for which chemical structures have been assigned have been reported in RNA.
+The largest number, 98, with the greatest structural diversity, are found in tRNA, with 31 in rRNA, 13 in mRNA and 13 in other RNA species, most notably snRNA.  Based on lessons learned primarily from tRNA, it is clear that many modification motifs and their sequence locations tend to be conserved,
+although distinct differences among the three primary phylogenetic domains are observed.
+It is clear that present knowledge of the chemical diversity of RNA nucleosides, and certainly of their distribution, is somewhat narrowly confined to relatively few organisms.
+It is our judgement that the total number of RNA nucleosides listed, and the chemical structures reported, are very accurate.  However, the distributions listed are in some cases a matter of concern, due primarily to the possibility of inhomogeneity of the RNA isolate and the use of methods of nucleoside identification that are not sufficiently rigorous.
+Reinvestigation of some of the unusual or single-report source distributions is warranted, and will likely lead to future refinements in the listings.
+<P>
+This compilation is maintained as a continuously updated database.
+Comments concerning format, omissions or newly published material are solicited.
+<P>
+<LI><B>References for this overview</B><A NAME="refs"></A>
+<P>
+
+<OL> 
+<LI>Limbach, P.A., Crain, P.F. and McCloskey, J.A. (1994) <I>Nucleic Acids Res.</I> <B>22</B>, 2183-2196.
+<LI>Czerwoniec, A., Dunin-Horkawicz, S., Purta, E., Kaminska, K.H., Kasprzak, J.M., Bujnicki, J.M., Grosjean, H. and Rother, K. (2009) <I>Nucleic Acids Res.</I> <B>37, Database issue</B>, D118-D121.
+<LI>McCloskey, J.A. (2001) In S&ouml;ll, D., Nishimura, S. and Moore, P.B. (eds.), RNA. Elsevier, Amsterdam, pp. 309-316.
+<LI>Motorin, Y. and Grosjean, H. (1998)  In Gorsjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, D.C., pp. 543-549.
+<LI>J&uuml;hling, F., M&ouml;rl, M., Hartmann, R.K., Sprinzl, M., Stadler, P.F. and Joern P&uuml;tz (2009) <I>Nucleic Acids Res.</I> <B>37, Database issue</B>, D159-D162.
+
+<LI>Yokoyama, S. and Nishimura, S. (1995) In S&ouml;ll, D. and RajBhandary,U.L. (eds.), tRNA Structure, Biosynthesis, and Function. American Society for Microbiology, Washington, DC, pp. 207-223.
+<LI>Grosjean, H. and Benne, R., eds. (1998) Modification and Editing of RNA. ASM Press, Washington, DC.
+<LI>Curran, J.F. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 493-516.
+<LI>Agris, P.F., (2008) <I>EMBO Rep.</I> <B>9</B>, 629-635.
+<LI>Agris, P.F., Vendeix, F.A. and Graham, W.D. (2007) <I>J Mol Biol.</I> <B>366</B>, 1-13.
+
+<LI>Gustilo, E.M., Vendeix, F.A. and Agris, P.F. (2008) <I>Curr. Opin. Microbiol.</I> <B>11</B>, 134-140.
+<LI>Kasai, H., Murao, K., Liehr, J.G., Crain, P.F., McCloskey, J.A. and Nishimura, S. (1976) <I>Eur. J. Biochem.</I> <B>69</B>, 435-444.
+<LI>Singh, R., and Reddy, R. (1989) <I>Proc. Natl. Acad. Sci. USA</I> <B>86</B>, 8280-8283.
+<LI>Personal communication.
+<LI>t6A*  Coworkers. TH, Peltier, PFC, JAM, DRD
+
+<LI>Andersen, T.E., Porse, B.T. and Kirpekar, F. (2004) <I>RNA</I> <B>10</B>, 907-913.
+<LI>Chen, P., Crain, P.F., N&auml;svall, S.J., Pomerantz, S.C. and Bj&ouml;rk, G.R. (2005) <I>EMBO J.</I> <B>24</B>, 1842-1851.
+<LI>Guymon, R., Pomerantz, S.C., Ison, J.N., Crain, P.F. and McCloskey, J.A. (2007) <I>RNA</I> <B>13</B>, 396-403.
+<LI>Auffinger, P. and Westhof, E. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 569-576.
+<LI>Abe, T., Ikemura, T., Ohara, Y., Uehara, H., Kinouchi, M., Kanaya, S., Yamada, Y., Muto, A. and Inokuchi, H. (2009) <I>Nucleic Acids Res.</I>  <B>37, Database issue</B>, D163-D168.
+
+<LI>Levinger, L., Morl, M. and Florentz C. (2004) <I>Nucleic Acids Res.</I> <B>32</B>, 5430-5441.
+<LI>Kirino, Y. and Suzuki, T. (2005) <I>RNA Biol.</I> <B>2</B>, 41-44.
+<LI>Grosjean, H., Gupta, R., and Maxwell, E.S. (2008) In Blum, P.D. (ed.) New Models for Prokaryotic Biology. Horizon Scientific Press, Norforlk, VA, pp. 171-195.
+<LI>Bokar, J.A. and Rottman, F.M. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 183-200.
+<LI>Maden, B.E.H. (1990) In Gehrke, C.W. and Kuo, K.C. (eds.) Journal of Chromatography Library. Chromatography and Modification of Nucleosides. Elsevier, Amsterdam, Vol. 45B, pp. B265-B301.
+
+<LI>Maden, B.E.H. (1990) <I>Nucleic Acids Res. Mol. Biol.</I> <B>39</B>, 241-303.
+<LI>Ofengand, J., Bakin, A., Wrzesinski, J., Nurse, K., and Lane, B.G. (1995)  <I>Biochem. Cell Biol.</I> <B>73</B>, 915-924.
+<LI>Ofengand, J. and Bakin, A. (1997) <I>J. Mol. Biol.</I> <B>266</B>, 246-268.
+<LI>Ofengand, J. and Fournier, M.J. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 224-253.
+<LI>Chow, C.S., Lamichhane, T.N. and Mahto, S.K. (2007) <I>ACS Chem Biol.</I> <B>2</B> 610-619.
+
+<LI>McCloskey, J.A. and Rozenski J. (2005) <I>Nucleic Acids Res.</I>  <B>33, Database issue</B>, D135-D138.
+<LI>Reddy, R., Singh, R. and Shimba S. (1992) <I>Pharmaceut. Ther.</I> <B>54</B>, 249-267.
+<LI>Ro-Choi, T.S. (1999) <I>Crit. Rev. Eukaryot. Gene Expr.</I> <B>9</B>, 107-158.
+<LI>Reddy, R. and Busch, H. (1988) In Birnstiel, M.L. (ed.) Structure and Function of Major and Minor Small Nuclear Ribonucleoprotein Particles. Springer-Verlag, Berlin, pp. 1-37.
+<LI>Solymosy, F. and Pollak, T. (2002) <I>Crit. Rev. Plant Sci.</I> <B>12</B>, 275-369.
+
+<LI>Massenet, S., Mougin, A. and Branlant, C. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 201-227.
+<LI>Bachellerie, J.-P. and Cavaill&eacute;, J. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 255-272.
+<LI>Agris, P.F. (1996) In Cohn, W. and Moldave, K. (eds.) <I>Prog. Nucleic Acid Res. Mol. Biol.</I> <B>53</B>, 74-129.
+<LI>Davis, D.R. (1998) In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, DC, pp. 85-102.
+</OL>
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='rlink'><A HREF='rnadesc.htm'>description of the entries &#187;</A></div></div>
+</div> <!-- textframe -->
