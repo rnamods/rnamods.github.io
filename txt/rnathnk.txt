@@ -1,0 +1,17 @@
+<div id='textframe'>
+<div class='orangebar'><div CLASS="llink"><A HREF='rnaupda.htm'>&#171; updates</A></div><div CLASS="rlink">&nbsp;</div>thanks</div>
+<div class='thetext'>
+
+<UL TYPE="square">
+<LI>To <B>Jef Rozenski</B> for revision of the database website in 1998, prior to becoming a curator of the database.<P>
+<LI>To <B>Phil Durant</B> for the 3D yeast tRNA<SUP>phe</SUP> graphic on the home page.<P>
+<LI>To <B>Patrick Limbach</B>, who coauthored the initial published compilation, and played a major role in its assembly.<P>
+<LI>To the following individuals who assisted with the original compilation:  <B>Richard Walker</B> (University of Birmingham; deceased), <B>Steven Pomerantz</B> (University of Utah), <B>Byron Bossenbroek</B> (Chemical Abstracts Service).<P>
+<LI>To those who assisted with this electronic version of the database: <B>Di He</B>, <B>Steven Pomerantz</B>, <B>Joe Zhang</B>;  <B>Nancy Lombardo</B> and the Eccles Health Sciences Library at the University of Utah.<P>
+<LI>To the National Institute of General Medical Sciences for support of database maintenance through grant GM29812.
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div CLASS="llink"><A HREF='rnaupda.htm'>&#171; updates</A></div></div>
+</div> <!-- textframe -->

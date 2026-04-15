@@ -1,0 +1,29 @@
+<div id='textframe'>
+<div class='orangebar'><div CLASS='llink'>&nbsp;</div><div CLASS='rlink'><A HREF='rnathnk.htm'>thanks &#187;</A></div>history of the updates</div>
+<div class='thetext'>
+
+<UL TYPE='square'>
+<LI><B>News</B><P>
+
+<UL>
+<LI>January 2009: introduction text updated, addition of new entries to the database<P>
+<LI>May 2009: major layout makeover<P>
+</UL>
+
+<LI>Brief <B>summaries of changes and updates</B> have been published in:
+
+ <BLOCKQUOTE>P.F. Crain, J.A. McCloskey, <I>Nucleic Acids Res.</I> <B>24</B>, 98-99 (1996).</BLOCKQUOTE>
+
+ <BLOCKQUOTE>P.F. Crain, J.A. McCloskey, <I>Nucleic Acids Res.</I> <B>25</B>, 126-127 (1997).</BLOCKQUOTE>
+ <BLOCKQUOTE>J.A. McCloskey, P.F. Crain, <I>Nucleic Acids Res.</I> <B>26</B>, 196-197 (1998).</BLOCKQUOTE>
+
+<LI>Description of the <B>current version</B> can be found in the following paper
+and users of the RNA Modification Database are requested to cite this paper as the source of information:
+
+ <BLOCKQUOTE>J. Rozenski, P.F. Crain, J.A. McCloskey, <I>Nucleic Acids Res.</I> <B>27</B>, 196-197 (1999).</BLOCKQUOTE>
+
+</UL>
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='rlink'><A HREF='rnathnk.htm'>thanks &#187;</A></div></div>
+</div> <!-- textframe -->
