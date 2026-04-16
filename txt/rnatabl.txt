@@ -1,0 +1,8 @@
+<div id='textframe'>
+
+<table id="rnamodsTable" border="1">
+  <tbody>
+  </tbody>
+</table>
+
+</div>
