@@ -11,7 +11,7 @@
 <A HREF="#refs">Overview references</A><P>
 </CENTER>
 
-<!--HR NOSHADE SIZE=1-->
+<HR NOSHADE SIZE=1>
 
 The RNA modification database provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained as 
 an updated version of the initial printed report [<A HREF="#refs">1</A>].
