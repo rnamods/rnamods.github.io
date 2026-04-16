@@ -59,9 +59,10 @@ Output sorted by:<BR>
 <INPUT TYPE='button' VALUE=' search ' onClick=';'>
 </TD><TD>
 <INPUT TYPE='reset' VALUE=' reset form '>
-</TD><TD COLSPAN=2>
+</TD><TD>
+&nbsp;
+</TD><TD>
 <INPUT TYPE='button' VALUE=' additional help ' onClick='loadShow("txt/rnahelp.txt");'>
-
 </TD>
 </TR>
 </TABLE>
