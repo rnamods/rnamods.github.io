@@ -8,12 +8,14 @@
 <UL>
 <LI>January 2009: introduction text updated, addition of new entries to the database<P>
 <LI>May 2009: major layout makeover<P>
+<LI>April 2013 - January 2021: hosted at the RNA Institute (Albany, NY)<P>
+<LI>2022 - 2026: hosted at KU Leuven (Belgium)<P>
+<LI>May 2026: relocated to http://rnamods.github.io<P>
 </UL>
 
 <LI>Brief <B>summaries of changes and updates</B> have been published in:
 
  <BLOCKQUOTE>P.F. Crain, J.A. McCloskey, <I>Nucleic Acids Res.</I> <B>24</B>, 98-99 (1996).</BLOCKQUOTE>
-
  <BLOCKQUOTE>P.F. Crain, J.A. McCloskey, <I>Nucleic Acids Res.</I> <B>25</B>, 126-127 (1997).</BLOCKQUOTE>
  <BLOCKQUOTE>J.A. McCloskey, P.F. Crain, <I>Nucleic Acids Res.</I> <B>26</B>, 196-197 (1998).</BLOCKQUOTE>
 
