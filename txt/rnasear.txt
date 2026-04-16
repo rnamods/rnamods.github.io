@@ -11,7 +11,7 @@
 
 </TR><TR BGCOLOR="#EEEEEE" VALIGN='top'>
 <TD WIDTH="25%">
-<INPUT NAME='NUC' TYPE='radio' VALUE='.' CHECKED>all<BR>
+<INPUT NAME='NUC' TYPE='radio' VALUE='' CHECKED>all<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='A'>adenosines<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='I'>inosines<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='C'>cytidines<BR>
