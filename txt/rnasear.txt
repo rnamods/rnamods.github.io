@@ -19,7 +19,6 @@
 <INPUT NAME='NUC' TYPE='radio' VALUE='Q'>7-deazaguanosines<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='U'>uridines<BR>
 </TD><TD WIDTH="25%">
-
 <INPUT NAME='RNA' TYPE='radio' VALUE='.' CHECKED>from all<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='T'>tRNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='R'>rRNA (all)<BR>
@@ -29,7 +28,6 @@
 <INPUT NAME='RNA' TYPE='radio' VALUE='4'>rRNA (5.8S)<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='M'>mRNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='S'>tmRNA<BR>
-
 <INPUT NAME='RNA' TYPE='radio' VALUE='N'>snRNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='H'>chromosomal RNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='O'>other small RNA<BR>
@@ -40,7 +38,6 @@
 <INPUT NAME='PHY' TYPE='radio' VALUE='e'>from Eukarya<BR>
 </TD><TD>
 <INPUT TYPE='checkbox' NAME='NAM' VALUE='1' CHECKED>show common name<BR>
-
 <INPUT TYPE='checkbox' NAME='FIG' VALUE='1'>show structures<BR>
 <INPUT TYPE='checkbox' NAME='MAS' VALUE='1'>show mass values<BR>
 <P>
@@ -51,12 +48,11 @@ Output sorted by:<BR>
 <INPUT NAME='SRT' TYPE='radio' VALUE='.'>entry number<BR>
 </TD>
 </TR><TR BGCOLOR="#EEEEEE">
-
 <TD COLSPAN=4><B>partial name (optional):</B>
 <INPUT TYPE='text' NAME='TXT' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
 </TR><TR BGCOLOR="#EEEEEE" VALIGN='top' ALIGN='center'>
 <TD>
-<INPUT TYPE='button' VALUE=' search ' onClick=';'>
+<INPUT TYPE='button' VALUE=' search 'showTable();'>
 </TD><TD>
 <INPUT TYPE='reset' VALUE=' reset form '>
 </TD><TD>
@@ -67,7 +63,6 @@ Output sorted by:<BR>
 </TR>
 </TABLE>
 </FORM>
-
 &nbsp;
 
 </div> <!-- thetext -->
