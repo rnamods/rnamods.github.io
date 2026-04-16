@@ -1,8 +1,11 @@
 <div id='textframe'>
 
-<table id="rnamodsTable" border="1">
+<table id="myTable" border="1" width="100%">
   <tbody>
+  <tr><th>header</th></tr>
+  <tr id='empty'></tr>
   </tbody>
 </table>
 
 </div>
+
