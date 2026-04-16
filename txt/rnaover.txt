@@ -4,7 +4,6 @@
 
 <CENTER>
 <A HREF="#comment">Comments on usage of nucleoside symbols</A><BR>
-
 <A HREF="#accur">Accuracy of assignments in the early literature</A><BR>
 <A HREF="#excl">Modifications excluded from the database</A><BR>
 <A HREF="#list">Some other listings and reviews of RNA modification</A><BR>
@@ -12,12 +11,10 @@
 <A HREF="#refs">Overview references</A><P>
 </CENTER>
 
-<HR NOSHADE SIZE=1>
+<!--HR NOSHADE SIZE=1-->
 
-The RNA modification database provides a comprehensive listing of 
-posttranscriptionally modified nucleosides from RNA and is maintained as 
+The RNA modification database provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained as 
 an updated version of the initial printed report [<A HREF="#refs">1</A>].
-<!--Initial updates of the database's status were published on a regular basis. [<A HREF="#refs">39-42</A>]--><BR>
 <P>
 Both the chemical and structural diversity and extent of posttranscriptional modification in RNA is remarkable [<A HREF="#refs">1-5</A>],
 with 114 different nucleosides presently known in all types of RNA.
