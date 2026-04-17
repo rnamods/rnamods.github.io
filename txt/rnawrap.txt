@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='doMenu("outtable","");'>&#171; search results</A></div><div class='mycenter'>|NAME|</div><div class='rlink'>&nbsp;</div></div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='doMenu("outtable","");'>&#171; search results</A></div>|NAME|<div class='rlink'>&nbsp;</div></div>
 <div class='thetext'>
 
 <TABLE BORDER=0 CELLPADDING=5>
