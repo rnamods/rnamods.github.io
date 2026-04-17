@@ -1,0 +1,32 @@
+<div id='textframe'>
+<div class='orangebar'>|NAME|</div>
+<div class='thetext'>
+
+<TABLE BORDER=0 CELLPADDING=5>
+<TR><TD><IMG SRC="/rnamods/images/|ID|.gif" BORDER=1></TD>
+<TD>
+
+<DL CLASS='info'>
+<DT>common name:</DT><DD>|NAME|</DD>
+<DT>symbol:</DT><DD>|SYMB|</DD>
+<DT>CA index name:</DT><DD>|CANAM|</DD>
+<DT>CA registry numbers:</DT><DD>ribonucleoside |CANUR|<BR>base |CANUB|</DD>
+<DT>elemental composition:</DT><DD>|COMPO|</DD>
+<DT>nucleoside mass:</DT><DD>|MASS|</DD>
+</DL>
+
+</TD></TR></TABLE>
+<P>
+<TABLE WIDTH=675 class='phylotable'>
+<TR class='dark'>
+<TH ROWSPAN=2>RNA</TH><TH COLSPAN=3>phylogenetic source</TH>
+</TR><TR class='dark'>
+<TH>archaea</TH><TH>bacteria</TH><TH>eukarya</TH>
+</TR>
+|FILE|
+
+</div> <!-- thetext -->
+
+<div class='orangebar'>[|ID|]</div>
+
+</div> <!-- textframe -->
