@@ -3,7 +3,7 @@
 <div class='thetext'>
 
 <TABLE BORDER=0 CELLPADDING=5>
-<TR><TD><IMG SRC="/rnamods/images/|ID|.gif" BORDER=1></TD>
+<TR><TD><IMG SRC="images/|ID|.gif" BORDER=1></TD>
 <TD>
 
 <DL CLASS='info'>
