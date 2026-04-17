@@ -1,0 +1,19 @@
+<div id='textframe'>
+<div class='orangebar'><div class='rlink'>&nbsp;</div><div class='llink'><A HREF="#" onClick="loadShow('txt/rnadata.txt');">&#171; RNA databases</A></div>other links</div>
+<div class='thetext'>
+
+<UL TYPE="square">
+<LI><A HREF='http://www.cas.org/' CLASS='bb'>CAS - Chemical Abstracts Service</A><P>
+This service provides access to extensive databases of chemical structures and reactions.<P>
+
+<LI><A HREF='https://www.cas.org/cas-data/cas-registry' CLASS='bb'>CAS Registry</A><P>
+Substance database, part of the Chemical Abstract Service.<P>
+
+<LI><A HREF='https://scifinder-n.cas.org/' CLASS='bb'>SciFinder</A><P>
+A tool for accessing journal and patent literature.<P>
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='llink'><A HREF="#" onClick="loadShow('txt/rnadata.txt');">&#171; RNA databases</A></div></div>
+</div> <!-- textframe -->

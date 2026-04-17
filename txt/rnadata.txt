@@ -1,0 +1,40 @@
+<div id='textframe'>
+<div class='orangebar'><div class='llink'>&nbsp;</div><div class='rlink'><A HREF="#" onClick="loadShow('txt/rnaothr.txt');">other links &#187;</A></div>related RNA databases</div>
+<div class='thetext'>
+
+<!--UL TYPE='square'>
+<LI><A HREF='http://rna.rega.kuleuven.be/ssu' CLASS='bb'>the SSU rRNA modification database</A><P>
+A compilation of posttranscriptional modification sites in RNA from the small ribosomal subunit.
+Includes identities of modified nucleosides if known, and provision for comparison of modifications in aligned sequences from Bacteria, Archaea and Eukarya.<P-->
+
+<!--LI><A HREF='http://trnadb.bioinf.uni-leipzig.de/' CLASS='bb'>tRNAdb: Compilation of tRNA sequences and tRNA genes</A><P>
+This extensively revised collection contains 623 tRNA sequences and 12,000 tRNA genes, classified by amino acid specificity.  Provisions include graphical representations of their secondary structures, a customizable output of aligned or unaligned sequences, and a variety of search criteria.<P-->
+
+<!--LI><A HREF='http://www.webring.com/hub?ring=rna' CLASS='bb'>RNA WebRing</A><P>
+Web sites, including databases, dealing with RNA transcription, processing, editing and other aspects of RNA metabolism.<P-->
+
+<!--LI><A HREF='http://ozone3.chem.wayne.edu:8080/Modifieds/jsps/move.jsp' CLASS='bb'>AMBER parameters</A><P>
+The website from John Santalucia's group (Wayne State University) contains AMBER parameters for all 103 modifications known to exist in RNA.
+The links to each one of the modifications contain downloadable AMBER parameter files and the input and output files used in developing the parameters.<P-->
+
+<!--LI><A HREF='http://www.indiana.edu/~tmrna/' CLASS='bb'>tmRNA website</A><P>
+The tmRNA website was established in 1997 as a resource for phylogenetic considerations of
+tmRNA structure and function. Since then, three partial tmRNA sequences have been completed, and sequences from 13 more species have been identified.
+Forty-six species from 10 bacterial phyla and chloroplasts are now represented in the database. Provisional sequence alignments and predicted proteolysis tag
+sequences are provided, as well as a literature review and a guide to searching for new tmRNA sequences.<P-->
+
+<LI><A HREF='https:/combio.pl/rrna/' CLASS='bb'>5S rRNA database</A><P>
+Information on nucleotide sequences of 5S rRNAs and their genes.<P>
+
+<LI><A HREF='https://people.biochem.umass.edu/fournierlab/snornadb/main.php' CLASS='bb'>Yeast snoRNA Database</A><P>
+Small Nucleolar RNAs (snoRNAs) from the Yeast <I>Saccharomyces cerevisiae</I>. A comprehensive database of S. cerevisiae H/ACA and C/D box snoRNAs, with numerous links to snoRNA and other databases.<P>
+
+<LI><A HREF='http://people.biochem.umass.edu/fournierlab/3dmodmap/' CLASS='bb'>The 3D rRNA modification maps database</A><P>
+The 3D maps database allows visualization of modification sites in the five ribosome and mRNA and tRNAs for several model organisms and permits users  construction of 3D maps for other organisms.<P>
+
+</UL>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='rlink'><A HREF="#" onClick="loadShow('txt/rnaothr.txt');">other links &#187;</A></div></div>
+</div> <!-- textframe -->
