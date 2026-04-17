@@ -3,7 +3,7 @@
 <div class='thetext'>
 
 <FORM METHOD="POST" ACTION="/rnamods/rnafind.pl">
-<TABLE BGCOLOR="#EEEEEE" CELLPADDING=0 CELLSPACING=0 ALIGN="center" CLASS="seartable">
+<TABLE BGCOLOR="#EEEEEE" CELLPADDING=0 CELLSPACING=0 ALIGN="center" ID="seartable">
 <TR BGCOLOR="#CCCCCC"><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>output options</TH>
 </TR>
 <TR BGCOLOR="#CCCCCC">
