@@ -4,7 +4,7 @@
 
 <FORM METHOD="POST" ACTION="/rnamods/rnafind.pl">
 <TABLE BGCOLOR="#EEEEEE" CELLPADDING=0 CELLSPACING=0 ALIGN="center" ID="seartable">
-<TR BGCOLOR="#CCCCCC"><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>output options</TH>
+<TR BGCOLOR="#CCCCCC"><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH>
 </TR>
 <TR BGCOLOR="#CCCCCC">
 <TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH>
@@ -37,15 +37,12 @@
 <INPUT NAME='PHY' TYPE='radio' VALUE='b'>from Bacteria<BR>
 <INPUT NAME='PHY' TYPE='radio' VALUE='e'>from Eukarya<BR>
 </TD><TD>
-<INPUT TYPE='checkbox' NAME='NAM' VALUE='1' CHECKED>show common name<BR>
-<INPUT TYPE='checkbox' NAME='FIG' VALUE='1'>show structures<BR>
-<INPUT TYPE='checkbox' NAME='MAS' VALUE='1'>show mass values<BR>
 <P>
 Output sorted by:<BR>
-<INPUT NAME='SRT' TYPE='radio' VALUE='B' CHECKED>base type<BR>
+<INPUT NAME='SRT' TYPE='radio' VALUE='.' CHECKED>entry number<BR>
+<INPUT NAME='SRT' TYPE='radio' VALUE='B'>base type<BR>
 <INPUT NAME='SRT' TYPE='radio' VALUE='N'>nucleoside name<BR>
 <INPUT NAME='SRT' TYPE='radio' VALUE='M'>nucleoside mass<BR>
-<INPUT NAME='SRT' TYPE='radio' VALUE='.'>entry number<BR>
 </TD>
 </TR><TR BGCOLOR="#EEEEEE">
 <TD COLSPAN=4><B>partial name (optional):</B>
