@@ -2,7 +2,7 @@
 <div class='orangebar'>- a comprehensive listing of post-transcriptionally modified nucleosides from RNA -</div>
 <div class='thetext'>
 
-<div><IMG src='trna.gif' border=0></div>
+<div><IMG src='images/trna.gif' border=0></div>
 
 
 <TABLE ALIGN="center" CELLPADDING=0 CELLSPACING=0 BORDER=1 WIDTH="90%" style="background-image: images/trna.gif;">
