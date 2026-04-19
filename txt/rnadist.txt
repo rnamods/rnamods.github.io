@@ -6,15 +6,17 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 
 <P>
 <CENTER>
-<TABLE CLASS="phylotable">
-<TR><TD>
-<PRE><B>
+<TABLE WIDTH="675px" CLASS="phylotable">
+<TR><TH CLASS='dark'>
+<PRE>
                                           Source
                            ____________________________________
 
                               Archaea   (eu)Bacteria   Eukarya
-_______________________________________________________________</B>
-
+_______________________________________________________________
+</PRE></TH></TR>
+<TR><TD>
+<PRE>
  tRNA                             37          42          47
  rRNA                                          1<SUP>a</SUP>          4<SUP>a</SUP>
      SSU                          12           8          18
