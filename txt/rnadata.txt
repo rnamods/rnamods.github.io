@@ -2,8 +2,8 @@
 <div class='orangebar'><div class='llink'>&nbsp;</div><div class='rlink'><A HREF="#" onClick="loadShow('txt/rnaothr.txt');">other links &#187;</A></div>related RNA databases</div>
 <div class='thetext'>
 
-<!--UL TYPE='square'>
-<LI><A HREF='http://rna.rega.kuleuven.be/ssu' CLASS='bb'>the SSU rRNA modification database</A><P>
+<UL TYPE='square'>
+<!--LI><A HREF='http://rna.rega.kuleuven.be/ssu' CLASS='bb'>the SSU rRNA modification database</A><P>
 A compilation of posttranscriptional modification sites in RNA from the small ribosomal subunit.
 Includes identities of modified nucleosides if known, and provision for comparison of modifications in aligned sequences from Bacteria, Archaea and Eukarya.<P-->
 
