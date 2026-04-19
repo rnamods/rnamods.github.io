@@ -2,9 +2,9 @@
 <div class='orangebar'>- a comprehensive listing of post-transcriptionally modified nucleosides from RNA -</div>
 <div class='thetext'>
 
-<div style='margin:20px;'>
+<div style='margin:25px;'>
 <div><IMG src='images/trna.gif' border=0></div>
-<div style='top:300px;left:300px;position:absolute;'><SPAN CLASS='thetext'><BR>maintained by<P>
+<div style='top:400px;left:300px;position:absolute;'><SPAN CLASS='thetext'><BR>maintained by<P>
 <B>Paul Agris</B> (North Carolina State University)<BR>
 <B>Pamela F. Crain</B> (University of Utah) and<BR>
 <B>Jef Rozenski</B> (KU Leuven, Belgium)</H2><P>
