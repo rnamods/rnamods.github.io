@@ -6,34 +6,6 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 
 <P>
 <CENTER>
-<TABLE WIDTH="575px" CLASS="phylotable">
-<TR CLASS='dark'><TH>
-<PRE>
-                                  Source
-                             ____________________________________
-
-                               Archaea   (eu)Bacteria   Eukarya
-</PRE></TH></TR>
-<TR><TD>
-<PRE>
- tRNA                             37          42          47
- rRNA                                          1<SUP>a</SUP>          4<SUP>a</SUP>
-     SSU                          12           8          18
-     LSU                           8          14          12
-     5S                            3                       1
-     5.8S                                                  5
- mRNA                                                     13
- tmRNA                                         2            
- snRNA                                                    11
- chromosomal RNA                                           2
- other small RNA                                           1
-</PRE>
-</TD>
-<TR>
-<TD><SUP>a</SUP> Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TD>
-</TR></TABLE>
-
-
 <TABLE WIDTH='575px' class='phylotable'>
 <TR class='dark'>
 <TH ROWSPAN=2>RNA</TH><TH COLSPAN=3>Source</TH>
@@ -54,8 +26,6 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 <TR valign='top'><TD style="text-align:left;">other small RNA</TD><TD></TD><TD></TD><TD>1</TD></TR>
 <TR><TD COLSPAN=4 style="text-align:left;"><SUP>a</SUP> Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TD></TR>
 </TABLE>
-
-
 </CENTER>
 <P>
 Updated from: Rozenski, J., Crain, P.F. and McCloskey, J.A. <I>Nucleic Acids Res.</I> <B>27</B>, 196-197 (1999).
