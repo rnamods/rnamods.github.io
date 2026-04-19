@@ -13,8 +13,7 @@
 
 <HR NOSHADE SIZE=1>
 
-The RNA modification database provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained as 
-an updated version of the initial printed report [<A HREF="#refs">1</A>].
+The RNA modification database was created by prof. James McCLoskey and coworkers and provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained here as an updated version of the initial printed report [<A HREF="#refs">1</A>].
 <P>
 Both the chemical and structural diversity and extent of posttranscriptional modification in RNA is remarkable [<A HREF="#refs">1-5</A>],
 with 114 different nucleosides presently known in all types of RNA.
