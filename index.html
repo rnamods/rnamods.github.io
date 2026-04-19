@@ -1,63 +1,91 @@
 <html>
 <head>
-	<title>Read Text File</title>
+<TITLE>RNAmods - The RNA Modification Database</TITLE>
+<META name='TITLE' content='The RNA Modification Database'>
+<META name='AUTHOR' content='Medicinal Chemistry, University of Utah, Salt Lake City and KU Leuven, Begium'>
+<META name='KEYWORDS' content='modified,modifications,nucleosides,nucleotides,database,mass spectrometry,structure,trna,mrna,rrna,references,literature,science,scientific,bacteria,archaea,eukarya,phylogenetic,RNA,DNA,medicinal chemistry,Utah,Salt Lake City,posttranscriptional,posttranscriptionally,synthesis,James McCloskey,Jef Rozenski'>
+<META name='DESCRIPTION' content='a comprehensive listing of post-transcriptionally modified nucleosides from RNA'>
+<META name='RESOURCE-TYPE' content='document'>
+<META name='ROBOTS' content='index,follow'>
+<link rel="stylesheet" href="css/rnamods.css">
 </head>
-<body>
-	<div id="header">menu: search - info - (links)</div>
-	<div id="input">[search]</div>
-	<div id="output">
-		<table id="sampleTable" border="1">
-  <tbody>
-    <!--tr>
-      <td>Row1 cell1</td>
-      <td>Row1 cell2</td>
-    </tr>
-    <tr>
-      <td>Row2 cell1</td>
-      <td>Row2 cell2</td>
-    </tr-->
-  </tbody>
-</table>
-		
-	</div>
-	<div id="detail">[detail]</div>	
-	<div id="footer"></div>
-	
-	RNAMODS DATABASE (soon...)
 
+<body onLoad="loadInit();")>
+<div id='wrap'>
 
-<script type="text/javascript">
-function myAddRow() {
-var table = document.getElementById("sampleTable"),
-    tbody = table.getElementsByTagName("tbody")[0];
+<div id='header'>
+<div id='banner'>&nbsp;<IMG SRC='images/rnamods.gif' CLASS='printonly'></div>
+<DIV class='gr'>
+<UL id='nav'>
+<LI><A HREF="#" onClick="loadShow('txt/rnahome.txt');" TITLE='homepage'>HOME</A></LI>
+<LI><A HREF="#" onClick="loadShow('txt/rnaover.txt');" TITLE='more information about the database'>INTRODUCTION</A>
+ <UL>
+ <LI><A HREF="#" onClick="loadShow('txt/rnaover.txt');">overview</A></LI>
+ <LI><A HREF="#" onClick="loadShow('txt/rnadesc.txt');">description of the entries</A></LI>
+ <LI><A HREF="#" onClick="loadShow('txt/rnadist.txt');">phylogenetic distribution</A></LI>
+ <LI><A HREF="#" onClick="loadShow('txt/rnarrna.txt');">ribosomal RNA</A></LI>
+ <LI>-------------</LI>
+ <LI><A HREF="#" onClick="loadShow('txt/rnaupda.txt');">updates</A></LI>
+ <LI><A HREF="#" onClick="loadShow('txt/rnathnk.txt');">thanks</A></LI>
+ </UL>
+</LI>
+<LI><A HREF="#" onClick="doMenu('input','');">SEARCH</A></LI>
+<LI><A HREF="#" onClick="loadShow('txt/rnadata.txt');">LINKS</A>
+ <UL>
+ <LI><A HREF="#" onClick="loadShow('txt/rnadata.txt');">RNA databases</A></LI>
+ <LI><A HREF="#" onClick="loadShow('txt/rnaothr.txt');">other links</A></LI>
+ </UL>
+</LI>
+<LI><A HREF='https://mstoolbox.github.io' TITLE='mass spectrometry tools'>MASSPEC TOOLBOX</A>
+ <UL>
+ <LI><A HREF='https://mstoolbox.github.io/mole'>molecular mass calculator</A></LI>
+ <LI><A HREF='https://mstoolbox.github.io/mongo'>Mongo Oligo</A></LI>
+ <LI>-------------</LI>
+ <LI><A HREF='https://mstoolbox.github.io/sos'>SOS oligo sequencer</A></LI>
+  <LI>-------------</LI>
+ <LI><A HREF='https://mstoolbox.github.io/tubecalc'>tube volume calculator</A></LI>
+ <LI><A HREF='https://mstoolbox.github.io/conccalc'>concentration calculator</A></LI>
+ <LI><A HREF='https://mstoolbox.github.io/unitconv'>unit converter</A></LI>
+ </UL>
+</LI>
+<LI><A HREF="#" onClick="loadShow('txt/rnacont.txt');">CONTACT US</A></LI>
+</UL>
+</DIV>
+</div>
 
-for (var i=0;i<5;i++) {
-  var row = document.createElement("tr");
-  var cell1 = document.createElement("td");
-  var cell2 = document.createElement("td");
-  cell1.innerHTML = i + "- 1";
-  cell2.innerHTML = i + "- 2";
-  row.appendChild(cell1);
-  row.appendChild(cell2);
-  tbody.appendChild(row);  
-}
-}
+<div id="input" class="divs" hidden>input</div>
+<div id="output" class="divs" hidden></div>
+<div id="outtable" class="divs" hidden>
+ <div id='textframe'>
+ <div class='orangebar'>search results</div>
+ <div class='thetext'>
+ <table id="myTable">
+   <thead>
+     <tr bgcolor="#CCCCCC">
+     <th><A HREF="#" onClick="sortTable('.');">id</A></th>
+	 <th><A HREF="#" onClick="sortTable('B');">symbol</th>
+	 <th><A HREF="#" onClick="sortTable('N');">name</th>
+	 <th><A HREF="#" onClick="sortTable('M');">mass</A></th>
+	 </tr>   
+   </thead>
+   <tbody>
+   </tbody>
+ </table>
+ <div id="numresults"></div>
+ </div>
+ <div class='orangebar'>&nbsp;</div>
+ </div>
+</div>
+<div id="detail" class="divs" hidden></div>
+<div id="footer">&copy; RNAmods - <A HREF='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en' STYLE='color:#999;'>some rights reserved</A></div>
+<div id="data" hidden></div>
 
-function myProcess(t) {
-var a = t.split("\n");
-console.log(a[0]);
-for (const element of a) {
-  console.log(element);
-}
-myAddRow();
-document.getElementById('output').innerHTML ="<h1>" + t + "</h1>";
-}
+</div> <!-- end wrap -->
 
-const fileUrl = 'https://rnamods.github.io/txt/test.txt';
-fetch(fileUrl)
-   .then( r => r.text() )
-   .then( t => myProcess(t) )
-   
-</script>
+<NOSCRIPT>
+<BLINK>Note:</BLINK> <B>JavaScript has to be enabled in order to be able to use all the functions at this web site.</B>
+</NOSCRIPT>
+
+<script type="text/javascript" src="js/rnamods.js"></script>
 </body>
 </html>
