@@ -2,7 +2,7 @@
 <div class='orangebar'>search the database</div>
 <div class='thetext'>
 
-<FORM METHOD="POST" ACTION="/rnamods/rnafind.pl">
+<FORM METHOD="GET" ACTION="javascript:void(0);">
 <TABLE BGCOLOR="#EEEEEE" CELLPADDING=0 CELLSPACING=0 ALIGN="center" ID="seartable">
 <TR BGCOLOR="#CCCCCC"><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH>
 </TR>
