@@ -46,7 +46,7 @@ Output sorted by:<BR>
 </TD>
 </TR><TR BGCOLOR="#EEEEEE">
 <TD COLSPAN=4><B>partial name (optional):</B>
-<INPUT TYPE='text' NAME='TXT' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
+<INPUT TYPE='text' NAME='TXT' ID='searchtxt' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
 </TR><TR BGCOLOR="#EEEEEE" VALIGN='top' ALIGN='center'>
 <TD>
 <INPUT TYPE='button' VALUE=' search ' onClick='showTable();'>
