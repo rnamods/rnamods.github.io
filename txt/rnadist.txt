@@ -38,7 +38,7 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 <TR class='dark'>
 <TH ROWSPAN=2>RNA</TH><TH COLSPAN=3>source</TH>
 </TR><TR class='dark'>
-<TH>archaea</TH><TH>(eu)bacteria</TH><TH>eukarya</TH>
+<TH>Archaea</TH><TH>Bacteria</TH><TH>Eukarya</TH>
 </TR>
 <TR><TD>tRNA</TD><TD>37</TD><TD>42</TD><TD>47</TD></TR>
 </TABLE>
