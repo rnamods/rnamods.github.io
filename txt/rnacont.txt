@@ -10,4 +10,3 @@ For more information, permission to use or other requests, contact the curators:
 
 <div class='orangebar'></div>
 </div> <!-- textframe -->
-<script>makeMail();</script>
