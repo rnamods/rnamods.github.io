@@ -49,7 +49,7 @@ Output sorted by:<BR>
 <INPUT TYPE='text' NAME='TXT' ID='searchtxt' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
 </TR><TR BGCOLOR="#EEEEEE" VALIGN='top' ALIGN='center'>
 <TD>
-<INPUT TYPE='button' VALUE=' search ' onClick='showTable();'>
+<INPUT TYPE='submit' VALUE=' search ' onClick='showTable();'>
 </TD><TD>
 <INPUT TYPE='reset' VALUE=' reset form '>
 </TD><TD>
