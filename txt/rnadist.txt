@@ -29,8 +29,8 @@ _______________________________________________________________</B>
 </PRE>
 </TD>
 <TR>
-<TD><TT><SUP>a</SUP> Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TT>
-</TD></TR></TABLE>
+<TD><PRE><SUP>a</SUP> Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</PRE></TD>
+</TR></TABLE>
 </CENTER>
 <P>
 Updated from: Rozenski, J., Crain, P.F. and McCloskey, J.A. <I>Nucleic Acids Res.</I> <B>27</B>, 196-197 (1999).
