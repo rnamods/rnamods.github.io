@@ -42,7 +42,7 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 </TR>
 <TR valign='top'><TD style="text-align:left;margin-left:10px">tRNA</TD><TD>37</TD><TD>42</TD><TD>47</TD></TR>
 <TR valign='top'>
-  <TD style="text-align:left;">rRNA2<BR><SPAN style="display:inline-block;margin-left:1em;">SSU<BR>&nbsp;LSU<BR>&nbsp;5S<BR>&nbsp;5.8S</SPAN></TD>
+  <TD style="text-align:left;">rRNA<SPAN style="display:inline-block;margin-left:1em;"><BR>SSU<BR>&nbsp;LSU<BR>&nbsp;5S<BR>&nbsp;5.8S</SPAN></TD>
    <TD>&nbsp;<BR>12<BR>8<BR>3<BR>&nbsp;</TD>
    <TD>1<SUP>a</SUP><BR>8<BR>14<BR>&nbsp;<BR>&nbsp;</TD>
    <TD>4<SUP>a</SUP><BR>18<BR>12<BR>1<BR>5</TD>
