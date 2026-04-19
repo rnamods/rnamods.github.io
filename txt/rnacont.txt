@@ -8,5 +8,7 @@ For more information, permission to use or other requests, contact the curators:
 <A HREF='&#109;ai&#108;to&#058;RNA&#109;ods@&#103;ma&#105;l.&#99;om&subject=the RNA Modification Database'>RNA&#109;ods@&#103;ma&#105;l.&#99;om</A><P>
 </center>
 
+</div> <!-- thetext -->
+
 <div class='orangebar'></div>
 </div> <!-- textframe -->
