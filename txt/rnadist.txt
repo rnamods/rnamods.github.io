@@ -7,7 +7,7 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 <P>
 <CENTER>
 <TABLE ID="phylotable">
-<TR><TD COLSPAN=2>
+<TR><TD>
 <PRE><B>
                                            Source
                            ____________________________________
@@ -27,11 +27,9 @@ _______________________________________________________________</B>
  chromosomal RNA                                           2
  other small RNA                                           1
 </PRE>
-
 </TD>
-<TR VALIGN='top'>
-<TD><TT><SUP>a</SUP></TT></TD>
-<TD><TT>Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TT>
+<TR>
+<TD><TT><SUP>a</SUP> Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TT>
 </TD></TR></TABLE>
 </CENTER>
 <P>
