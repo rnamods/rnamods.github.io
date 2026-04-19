@@ -13,10 +13,6 @@
 </SPAN>
 </TD></TR></TABLE>
 
-<NOSCRIPT>
-<BLINK>Note:</BLINK> <B>JavaScript has to be enabled in order to be able to use all the functions at this web site.</B>
-</NOSCRIPT>
-
 </div> <!-- thetext -->
 
 <div class='orangebar'>&nbsp;</div>
