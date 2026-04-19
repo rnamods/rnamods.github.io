@@ -8,8 +8,7 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 <CENTER>
 <TABLE ID="phylotable">
 <TR><TD COLSPAN=2>
-<PRE><B>_______________________________________________________________
-
+<PRE><B>
                                            Source
                            ____________________________________
 
