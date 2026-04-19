@@ -1,0 +1,12 @@
+<div id='textframe'>
+<div class='orangebar'><div CLASS='llink'>&nbsp;</div><div CLASS='rlink'><A HREF='rnathnk.htm'>thanks &#187;</A></div>history of the updates</div>
+<div class='thetext'>
+
+For more information, permission to use, contact the curators:<P>
+
+<div id="mycontact"></div>
+
+</div> <!-- thetext -->
+
+<div class='orangebar'><div class='rlink'><A HREF='rnathnk.htm'>thanks &#187;</A></div></div>
+</div> <!-- textframe -->
