@@ -163,8 +163,9 @@ fetch(fn)
 	else {		
 	  doDetail(nr,t);
 	  }
-    );
-}//------------------------------------------
+  });
+}
+//------------------------------------------
 function showTable() {
 thesele = thedata.slice(); // make copy of the data
 // read search form
