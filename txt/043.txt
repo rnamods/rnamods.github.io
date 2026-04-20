@@ -1,0 +1,26 @@
+UPDAT=1998.10.15
+CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one, 2-amino- 5-[[(4,5-dihydroxy-2-cyclopenten-1-yl)amino]methyl]- 1,7-dihydro- 7-!b-&D-ribofuranosyl-, [1?S-(1!a,4!b,5!b>)]-
+CANUR=57072-36-3
+CANUB=72496-59-4
+COMPO=C17H23N5O7
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Characterization of queuine, the base of queuosine, is reported in [<A HREF="#3">3</A>]. Biosynthesis of qeuosine has recently been reviewed [<A HREF="#4">4</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kasai, H., Ohashi, Z., Harada, F., Nishimura, S., Oppenheimer, N.J., Crain, P.F., Liehr, J.G., von Minden, D.L. and McCloskey, J.A. (1975) <I>Biochemistry</I>, <B>14</B>, 4198-4208.
+<LI><A NAME="2"></A>Ohgi, T., Kondo, T. and Goto, T. (1977) <I>Tetrahedron Lett.</I>, 4051-4054.
+<LI><A NAME="3"></A>Crain, P.F., Sethi, S.K., Katze, J.R. and McCloskey, J.A. (1980) <I>J. Biol. Chem.</I>, <B>255</B>, 8405-8407. 
+<LI><A NAME="4"></A>Iwata-Reuyl, D. (2003) <I>Bioorg. Chem.</I>, <B>31</B>, 24-43. 
+</OL>
+

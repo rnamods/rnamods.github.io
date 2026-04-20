@@ -1,0 +1,39 @@
+UPDAT=1998.12.15
+CANAM=Guanosine, 2'-?O-methyl-
+CANUR=2140-71-8
+CANUB=73-40-5
+COMPO=C11H15N5O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>rRNA</TH><TD>16, 23S [<A HREF="#1">1</A>]</TD><TD>23S [<A HREF="#2">2</A>]</TD><TD>[<A HREF="#3">3</A>]<BR>5.8S [<A HREF="#4">4</A>, <A HREF="#5">5</A>, [<A HREF="#6">6</A>]<BR>18+28S [<A HREF="#7">7</A>]</TD>
+</TR><TR ALIGN="center">
+<TH>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#8">8</A>]</TD>
+</TR><TR ALIGN="center">
+<TH>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#9">9</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#3">3</A>, <A HREF="#10">10</A>, <A HREF="#11">11</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#12">12</A>]
+<P>
+<B>Comment:</B> First characterized as an O-2' or O-3' methyl derivative [<A HREF="#10">10</A>], and subsequently shown to be O-2' [<A HREF="#11">11</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Noon, K.R., Bruenger, E. and McCloskey, J.A. (1998) <I>J. Bacteriol.</I>, <B>180</B>, 2883-2888.
+<LI><A NAME="2"></A>Nichols, J.L. and Lane, B.G. (1966) <I>Can. J. Biochem.</I>, <B>44</B>, 1633-1645.
+<LI><A NAME="3"></A>Morisawa, S. and Chargaff, E. (1963) <I>Biochim. Biophys. Acta</I>, <B>68</B>, 147-149.
+<LI><A NAME="4"></A>Lau, R.Y., Kennedy, T.D. and Lane, B.G. (1974) <I>Can. J. Biochem.</I>, <B>52</B>, 1110-1122.
+<LI><A NAME="5"></A>Maden, B.E.H. and Robertson, J.S. (1974) <I>J. Mol. Biol.</I>, <B>87</B>, 227-235.
+<LI><A NAME="6"></A>Nazar, R., Sitz, T.O. and Busch, H. (1974) <I>FEBS Lett.</I>, <B>45</B>, 206-212.
+<LI><A NAME="7"></A>Singh, H. and Lane, B.G. (1964) <I>Can. J. Biochem.</I>, <B>42</B>, 1011-1021.
+<LI><A NAME="8"></A>Desrosiers, R., Friderici, K. and Rottman, F. (1974) <I>Proc. Natl. Acad. Sci. USA</I>, <B>71</B>, 3971-3975.
+<LI><A NAME="9"></A>Busch, H., Ro-Choi, T.S., Prestayko, A.W., Shibata, H., Crooke, S.T., El-Khatib, S.M., Choi, Y.C. and Mauritzen, C.M. (1971) <I>Perspect.  Biol. Med.</I>, <B>15</B>, 117-139.
+<LI><A NAME="10"></A>Smith, J.D. and Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>31</B>, 573-575.
+<LI><A NAME="11"></A>Hall, R.H. (1963) <I>Biochim. Biophys. Acta</I>, <B>68</B>, 278-283.
+<LI><A NAME="12"></A>Khwaja, T.A. and Robins, R.K. (1966) <I>J. Am. Chem. Soc.</I>, <B>88</B>, 3640-3643.
+</OL>

@@ -1,0 +1,22 @@
+UPDAT=1998.10.15
+CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one-, 2-amino-5-[[[5-(!b-&D-galactopyranosyloxy) -4-hydroxy-2-cyclopenten-1-yl]amino]methyl]- 1,7-dihydro-7-!b-&D-ribofuranosyl-, [1?S-(1!a,4!b,5!b)]
+CANUR=60426-58-6
+CANUB=90581-15-0
+COMPO=C23H33N5O12
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P>
+<B>Comment:</B> Symbol Q* is also used for either manQ, galQ, or a mixture of the two.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kasai, H., Nakanishi, K., Macfarlane, R.D., Torgerson, D.F., Ohashi, Z., McCloskey, J.A., Gross, H.J. and Nishimura, S. (1976) <I>J. Am. Chem. Soc.</I>, <B>98</B>, 5044-5046. 
+</OL>

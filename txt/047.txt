@@ -1,0 +1,23 @@
+UPDAT=1998.10.15
+CANAM=1?H-Pyrrolo[2,3-?d]pyrimidin-5-carbonitrile, 2-amino-4,7-dihydro-4-oxo- 7-!b-&D-ribofuranosyl-
+CANUR=61210-21-7
+CANUB=69205-79-4
+COMPO=C12H13N5O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> preQ<SUB>0</SUB> and preQ<SUB>1</SUB> are undermodified Q nucleosides isolated from methyl-deficient mutant <I>E. coli</I> tRNA.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Noguchi, S., Yamaizumi, Z., Ohgi, T., Goto, T., Nishimura, Y., Hirota, Y. and Nishimura, S. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 4215-4223.
+<LI><A NAME="2"></A>Cheng, C.S., Hinshaw, B.C., Panzica, R.P. and Townsend, L.B. (1976) <I>J. Am. Chem. Soc.</I>, <B>98</B>, 7870-7872.
+</OL>
