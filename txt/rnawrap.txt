@@ -6,7 +6,7 @@
 <TR><TD><IMG SRC="images/|ID|.gif" BORDER=1></TD>
 <TD>
 
-<DL CLASS='info'>
+<DL CLASS='info' ID='thedata'>
 <DT>common name:</DT><DD>|NAME|</DD>
 <DT>symbol:</DT><DD>|SYMB|</DD>
 <DT>CA index name:</DT><DD>|CANAM|</DD>
