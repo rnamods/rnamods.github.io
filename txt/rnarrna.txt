@@ -51,9 +51,9 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TR CLASS='dark'>
 <TH COLSPAN=2>Modifications in <I>E. coli</I> rRNA</B></TH>
 </TR><TR>
-<TD VALIGN="TOP">
+<TD VALIGN="TOP" WIDTH="50%">
 
-<TABLE CLASS='intable'>
+<TABLE>
 <TR CLASS='dark'>
 <TH COLSPAN=2>16S</TH>
 </TR><TR CLASS='dark'>
@@ -89,10 +89,10 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR>
 </TABLE>
 
-</TD><TD VALIGN="top">
+</TD><TD VALIGN="top" WIDTH="50%">
 
-<TABLE CLASS='intable'>
-<TR>
+<TABLE>
+<TR CLASS='dark'>
 <TH COLSPAN=2>23S</TH>
 </TR><TR>
 <TH>Location</TH><TH>Modification</TH>
