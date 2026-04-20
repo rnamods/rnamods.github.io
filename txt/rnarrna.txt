@@ -53,11 +53,10 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD VALIGN="TOP" WIDTH="50%">
 
-<TABLE>
+<TABLE WIDTH="100%">
 <TR CLASS='dark'>
 <TH COLSPAN=2>16S</TH>
 </TR><TR CLASS='dark'>
-
 <TH>Location</TH><TH>Modification</TH>
 </TR><TR>
 <TD>516</TD>
@@ -67,21 +66,18 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>m<SUP>7</SUP>G</TD>
 </TR><TR>
 <TD>966</TD><TD>m<SUP>2</SUP>G</TD>
-
 </TR><TR >
 <TD>967</TD><TD>m<SUP>5</SUP>C</TD>
 </TR><TR>
 <TD>1207</TD><TD>m<SUP>2</SUP>G</TD>
 </TR><TR>
 <TD>1402</TD><TD>m<SUP>4</SUP>Cm</TD>
-
 </TR><TR>
 <TD>1407</TD><TD>m<SUP>5</SUP>C</TD>
 </TR><TR>
 <TD>1498</TD><TD>m<SUP>3</SUP>U</TD>
 </TR><TR>
 <TD>1516</TD><TD>m<SUP>2</SUP>G</TD>
-
 </TR><TR>
 <TD>1518</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
 </TR><TR>
@@ -91,7 +87,7 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 
 </TD><TD VALIGN="top" WIDTH="50%">
 
-<TABLE>
+<TABLE WIDTH="100%">
 <TR CLASS='dark'>
 <TH COLSPAN=2>23S</TH>
 </TR><TR>
@@ -99,7 +95,6 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD>745</TD><TD>m<SUP>1</SUP>G</TD>
 </TR><TR ALIGN="center">
-
 <TD>746</TD><TD><FONT FACE="symbol">Y</FONT></TD>
 </TR><TR>
 <TD>747</TD><TD>m<SUP>5</SUP>U (T)</TD>
@@ -107,7 +102,6 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>955</TD><TD><FONT FACE="symbol">Y</FONT></TD>
 </TR><TR>
 <TD>1618</TD><TD>m<SUP>6</SUP>A</TD>
-
 </TR><TR>
 <TD>1835</TD><TD>m<SUP>2</SUP>G</TD>
 </TR><TR>
@@ -115,7 +109,6 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD>1915</TD><TD>m<SUP>3</SUP><FONT FACE="symbol">Y</FONT></TD>
 </TR><TR>
-
 <TD>1917</TD><TD><FONT FACE="symbol">Y</FONT></TD>
 </TR><TR>
 <TD>1939</TD><TD>m<SUP>5</SUP>U (T)</TD>
@@ -123,7 +116,6 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>1962</TD><TD>m<SUP>5</SUP>C</TD>
 </TR><TR>
 <TD>2030</TD><TD>m<SUP>6</SUP>A</TD>
-
 </TR><TR>
 <TD>2069</TD><TD>m<SUP>7</SUP>G</TD>
 </TR><TR>
@@ -131,7 +123,6 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD>2445</TD><TD>m<SUP>2</SUP>G</TD>
 </TR><TR>
-
 <TD>2449</TD><TD>D</TD>
 </TR><TR>
 <TD>2457</TD><TD><FONT FACE="symbol">Y</FONT></TD>
@@ -141,7 +132,6 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>2501</TD><TD>C<SUP>*</SUP> <SUP>(a)</SUP></TD>
 </TR><TR>
 <TD>2503</TD><TD>m<SUP>2</SUP>A</TD>
-
 </TR><TR>
 <TD>2504</TD><TD><FONT FACE="symbol">Y</FONT></TD>
 </TR><TR>
@@ -152,122 +142,10 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>2605</TD><TD><FONT FACE="symbol">Y</FONT></TD>
 </TR>
 </TABLE>
-<DIV STYLE='margin-left:50px;'><SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].</DIV>
+<DIV STYLE='margin-left:5px;'><SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].</DIV>
 </TD></TR>
 </TABLE>
 
-
-
-
-
-<TABLE CLASS='phylotable'>
-<TR>
-<TH COLSPAN=2>Modifications in <I>E. coli</I> rRNA</B></TH>
-</TR><TR>
-<TD VALIGN="TOP">
-
-<TABLE CLASS='intable'>
-<TR>
-<TH COLSPAN=2>16S</TH>
-</TR><TR>
-
-<TH>Location</TH><TH>Modification</TH>
-</TR><TR>
-<TD>516</TD>
-<TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>527</TD>
-<TD>m<SUP>7</SUP>G</TD>
-</TR><TR>
-<TD>966</TD><TD>m<SUP>2</SUP>G</TD>
-
-</TR><TR >
-<TD>967</TD><TD>m<SUP>5</SUP>C</TD>
-</TR><TR>
-<TD>1207</TD><TD>m<SUP>2</SUP>G</TD>
-</TR><TR>
-<TD>1402</TD><TD>m<SUP>4</SUP>Cm</TD>
-
-</TR><TR>
-<TD>1407</TD><TD>m<SUP>5</SUP>C</TD>
-</TR><TR>
-<TD>1498</TD><TD>m<SUP>3</SUP>U</TD>
-</TR><TR>
-<TD>1516</TD><TD>m<SUP>2</SUP>G</TD>
-
-</TR><TR>
-<TD>1518</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
-</TR><TR>
-<TD>1519</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
-</TR>
-</TABLE>
-
-</TD><TD VALIGN="top">
-
-<TABLE CLASS='intable'>
-<TR>
-<TH COLSPAN=2>23S</TH>
-</TR><TR>
-<TH>Location</TH><TH>Modification</TH>
-</TR><TR>
-<TD>745</TD><TD>m<SUP>1</SUP>G</TD>
-</TR><TR ALIGN="center">
-
-<TD>746</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>747</TD><TD>m<SUP>5</SUP>U (T)</TD>
-</TR><TR>
-<TD>955</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>1618</TD><TD>m<SUP>6</SUP>A</TD>
-
-</TR><TR>
-<TD>1835</TD><TD>m<SUP>2</SUP>G</TD>
-</TR><TR>
-<TD>1911</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>1915</TD><TD>m<SUP>3</SUP><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-
-<TD>1917</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>1939</TD><TD>m<SUP>5</SUP>U (T)</TD>
-</TR><TR>
-<TD>1962</TD><TD>m<SUP>5</SUP>C</TD>
-</TR><TR>
-<TD>2030</TD><TD>m<SUP>6</SUP>A</TD>
-
-</TR><TR>
-<TD>2069</TD><TD>m<SUP>7</SUP>G</TD>
-</TR><TR>
-<TD>2251</TD><TD>Gm</TD>
-</TR><TR>
-<TD>2445</TD><TD>m<SUP>2</SUP>G</TD>
-</TR><TR>
-
-<TD>2449</TD><TD>D</TD>
-</TR><TR>
-<TD>2457</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>2498</TD><TD>Cm</TD>
-</TR><TR>
-<TD>2501</TD><TD>C<SUP>*</SUP> <SUP>(a)</SUP></TD>
-</TR><TR>
-<TD>2503</TD><TD>m<SUP>2</SUP>A</TD>
-
-</TR><TR>
-<TD>2504</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>2552</TD><TD>Um</TD>
-</TR><TR>
-<TD>2580</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR><TR>
-<TD>2605</TD><TD><FONT FACE="symbol">Y</FONT></TD>
-</TR>
-</TABLE>
-<DIV STYLE='margin-left:50px;'><SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].</DIV>
-</TD></TR>
-</TABLE>
 <P>
 <LI><B>References for the Ribosomal RNA section</B><A NAME="refs"></A><P>
 
