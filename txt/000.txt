@@ -1,9 +1,14 @@
-UPDAT=1999.11.22
-
-</TABLE>
+<div id='textframe'>
+<div class='orangebar'>not found</div>
+<div class='thetext'>
 
 <CENTER><H2><FONT COLOR='red'>
 unknown or unmodified nucleoside,<BR>
 no entry found in the RNA Modification Database
 </CENTER></FONT></H2>
 
+</div> <!-- thetext -->
+
+<div class='orangebar'>&nbsp;</div>
+
+</div> <!-- textframe -->
