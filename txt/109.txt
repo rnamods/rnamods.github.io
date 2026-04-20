@@ -1,1 +1,22 @@
-UPDAT=2010.09.15CANAM=(2R,3R,4S,5R)-2-(6-amino-8-methyl-9-purinyl)-5-hydroxymethyl)oxolane-3,4-diolCANUR=56973-12-7CANUB=22387-37-7COMPO=C11H15N5O4<TR ALIGN="center"><TH>rRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD></TR></TABLE><P><B>Structure:</B> [<A HREF="#1">1</A>]<P><B>Synthesis:</B> [<A HREF="#2">2</A>]<P><HR><B>References</B><OL><LI><A NAME="1"></A>Giessing A.M., Jensen S.S., Rasmussen A., Hansen L.H., Gondela A., Long K., Vester B. and Kirpekar F. (2009) <I>RNA</I>, <B>15</B>, 327-336. <A HREF='https:/dx.doi.org/10.1261/rna.1371409'> doi:10.1261/rna.1371409</A><LI><A NAME="2"></A>Van Aerschot A.A., Mamos P., Weyns N.J., Ikeda S., De Clercq E. and Herdewijn P. (1993) <I>J. Med. Chem.</I>, <B>36</B>, 2938-2942. <A HREF='https://dx.doi.org/10.1021/jm00072a013'>doi:10.1021/jm00072a013</A></OL>
+UPDAT=2010.09.15
+CANAM=(2R,3R,4S,5R)-2-(6-amino-8-methyl-9-purinyl)-5-hydroxymethyl)oxolane-3,4-diol
+CANUR=56973-12-7
+CANUB=22387-37-7
+COMPO=C11H15N5O4
+
+<TR ALIGN="center">
+<TH>rRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Giessing A.M., Jensen S.S., Rasmussen A., Hansen L.H., Gondela A., Long K., Vester B. and Kirpekar F. (2009) <I>RNA</I>, <B>15</B>, 327-336. <A HREF='https:/dx.doi.org/10.1261/rna.1371409'> doi:10.1261/rna.1371409</A>
+<LI><A NAME="2"></A>Van Aerschot A.A., Mamos P., Weyns N.J., Ikeda S., De Clercq E. and Herdewijn P. (1993) <I>J. Med. Chem.</I>, <B>36</B>, 2938-2942. <A HREF='https://dx.doi.org/10.1021/jm00072a013'>doi:10.1021/jm00072a013</A>
+</OL>
+
