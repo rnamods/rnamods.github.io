@@ -80,6 +80,18 @@ for (const element of thedata) {
 thedata = mydata.sort(); // copy to global array, sorted by id
 }
 //------------------------------------------
+function formatCompo(compo) { // format elemental composition
+return compo.replace(/(\d+)/g,"<SUB>$1</SUB>");
+}
+//------------------------------------------
+function formatName(name) { // format name with html
+name = name.replace(/\#(.)/g,"<SUP>$1</SUP>");
+name = name.replace(/\_(.)/g,"<SUB>$1</SUB>");
+name = name.replace(/\?(.)/g,"<I>$1</I>");
+name = name.replace(/\!Y/g,"<SYMBOL>$1</SYMBOL>");
+return name;
+}
+//------------------------------------------
 function getRadioVal(radioName) { // get value for the selected radiobutton
 var rads = document.getElementsByName(radioName);
 for(var rad in rads) {
@@ -91,19 +103,6 @@ return '.';
 function getSearchtxt() {
 var textInput = document.getElementById('searchtxt');
 return textInput.value;
-}
-//------------------------------------------
-function formatCompo(compo) { // format elemental composition
-return compo.replace(/(\d+)/g,"<SUB>$1</SUB>");
-}
-//------------------------------------------
-function formatName(name) { // format name with html
-name = name.replace(/\#(.)/g,"<SUP>$1</SUP>");
-name = name.replace(/\_(.)/g,"<SUB>$1</SUB>");
-name = name.replace(/\?(.)/g,"<I>$1</I>");
-name = name.replace(/\!Y/g,"&Psi;");
-name = name.replace(/\!t/g,"&tau;");
-return name;
 }
 //------------------------------------------
 function genTable() { // generate search list table
