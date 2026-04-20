@@ -1,0 +1,9 @@
+UPDAT=1999.11.22
+
+</TABLE>
+
+<CENTER><H2><FONT COLOR='red'>
+unknown nucleoside:<BR>
+no entry found in the RNA Modification Database
+</CENTER></FONT></H2>
+

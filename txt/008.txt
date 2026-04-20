@@ -1,0 +1,24 @@
+UPDAT=1998.12.16
+CANAM=Adenosine, ?N-(4-hydroxy- 3-methyl-2-butenyl)-, (?Z)
+CANUR=15896-46-5
+CANUB=32771-64-5
+COMPO=C15H21N5O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Also known as <I>cis-</I>zeatin riboside (symbol cZ).
+The name zeatin riboside refers to the <I>trans</I>-isomer, a cytokinin (registry number 6025-53-2).
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Hall, R.H., Csonka, L., David, H. and McLennan, B. (1967) <I>Science</I>, <B>156</B>, 69-70.
+<LI><A NAME="2"></A>Playtis, A.J. and Leonard, N.J. (1971) <I>Biochem. Biophys. Res. Commun.</I>, <B>45</B>, 1-5. 
+</OL>

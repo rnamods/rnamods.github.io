@@ -1,0 +1,20 @@
+UPDAT=1998.10.14
+CANAM=Adenosine, ?N-(4-hydroxy-3-methyl-2-butenyl)- 2-(methylthio)-, (?Z)
+CANUR=52049-48-6
+CANUB=52020-11-8
+COMPO=C16H23N5O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Hecht, S.M., Leonard, N.J., Burrows, W.J., Armstrong, D.J., Skoog, F. and Occolowitz, J. (1969) <I>Science</I>, <B>166</B>, 1272-1274. 
+</OL>

@@ -1,0 +1,23 @@
+UPDAT=2006.10.23
+CANAM=Adenosine, ?N-methyl-2-(methylthio)-
+CANUR=13406-51-4
+CANUB=102170-15-0
+COMPO=C12H17N5O4S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Structure assigment is reported as a preliminary communication, without details [<A HREF="#1">1</A>]. Source of tRNA: <I>Thermodesulfobacterium commune</I>.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Crain, P.F., Hashizume, T., Reddy, D.M. and McCloskey, J.A. (1991) <I>Nippon Iyo Masu Supekutoru Gakkai Koenshu</I>, <B>16</B>, 15-26.
+<LI><A NAME="2"></A>Gough, G. and Maguire, M.H. (1967) <I>J. Med. Chem.</I>, <B>10</B>, 475-478. 
+</OL>
