@@ -138,15 +138,7 @@ fetch(fn)
 if (window.location.href.search(/\?\d\d\d/) > 0) {
   var nr = window.location.href.match(/\?\d\d\d/)[0];
   nr = nr.replace(/\?/,"");
-if (nr == "000") {
-  fn = baseurl + "txt/rnawrap.txt"; // load detail wrap
-  fetch(fn)
-    .then( r => r.text() )
-    .then( t => {
-		let outtext = t;
-		outtext = outtext.replaceAll("|ID|", nr);
-	    outtext = outtext.replaceAll("|NAME|", "not found");
-		doMenu('output',t) );
+  showDetail(nr);
   }
 else {
   loadShow('txt/rnahome.txt'); // load homepage and show
@@ -164,7 +156,14 @@ function showDetail(nr) {
 fn = baseurl + "txt/" + nr + ".txt";
 fetch(fn)
   .then( r => r.text() )
-  .then( t => doDetail(nr,t) );
+  .then( t => {
+	if (nr == "000") {
+	  doMenu('detail',t);
+	  }
+	else {		
+	  doDetail(nr,t);
+	  }
+    );
 }//------------------------------------------
 function showTable() {
 thesele = thedata.slice(); // make copy of the data
