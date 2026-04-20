@@ -121,8 +121,11 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>2605</TD><TD><FONT FACE="symbol">Y</FONT></TD>
 </TR>
 </TABLE>
-<DIV STYLE='margin-left:5px;'><SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].</DIV>
-</TD></TR>
+</TD>
+<TD COLSPAN=2>
+<SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].
+</TD>
+</TR>
 </TABLE>
 <P>
 <LI><B>References for the Ribosomal RNA section</B><A NAME="refs"></A><P>
