@@ -27,7 +27,7 @@ tr.appendChild(cell4);
 tbody.appendChild(tr);
 }
 //------------------------------------------
-function doDetail(txt,nr) {
+function doDetail(nr,txt) {
 var txtarr = txt.split("\n");
 var i = txtarr.length;
 while (i--) {
@@ -57,7 +57,7 @@ fetch(fn)
 	outtext = outtext.replaceAll("|SYMB|", formatName(rc[2]));
 	outtext = outtext.replaceAll("|MASS|", rc[4]);
 	doMenu('output',outtext);
-	})
+	});
 }
 //------------------------------------------
 function doMenu(thediv,txt) {
@@ -129,11 +129,11 @@ var fn;
 fn = baseurl + "txt/rnabase.txt"; // load database
 fetch(fn)
   .then( r => r.text() )
-  .then( t => fillData(t) ) 
+  .then( t => fillData(t) );
 fn = baseurl + "txt/rnasear.txt"; // load search page
 fetch(fn)
   .then( r => r.text() )
-  .then( t => doMenu('input',t) )
+  .then( t => doMenu('input',t) );
 if (window.location.href.search(/\?\d\d\d/) > 0) {
   var nr = window.location.href.match(/\?\d\d\d/)[0];
   nr = nr.replace(/\?/,"");
@@ -148,14 +148,14 @@ function loadShow(fn) { // read file and show in output window
 fn = baseurl + fn;
 fetch(fn)
   .then( r => r.text() )
-  .then( t => doMenu('output',t) )
+  .then( t => doMenu('output',t) );
 }
 //------------------------------------------
 function showDetail(nr) {
 fn = baseurl + "txt/" + nr + ".txt";
 fetch(fn)
   .then( r => r.text() )
-  .then( t => doDetail(t,nr) )
+  .then( t => doDetail(nr,t) );
 }//------------------------------------------
 function showTable() {
 thesele = thedata.slice(); // make copy of the data
