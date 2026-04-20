@@ -1,1 +1,23 @@
-UPDAT=2024.01.22CANAM=CANUR=CANUB=COMPO=C11H13N3O5S<TR ALIGN="center"><TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD></TR></TABLE><P><B>Structure:</B> [<A HREF="#1">1</A>]<P><B>Synthesis:</B> none reported<P><B>Comments:</B> Structure was determined by comparison of the MS/MS spectra with those of cnm<sup>5</SUP>U.<HR><B>References</B><OL><LI><A NAME="1"></A>Yu N., Jora M., Solivio B., Thakur P., Acevedo-Rocha C.G., Randau L.,de Cr&eacute;cy-Lagard V., Addepalli B. and Limbach P.A.. (2019) <I>J Bacteriol.</I>, <B>201</B> e00690-18. <A HREF='https://dx.doi.org/10.1128/JB.00690-18'>doi:10.1128/JB.00690-18</A></OL>
+UPDAT=2024.01.22
+CANAM=
+CANUR=
+CANUB=
+COMPO=C11H13N3O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P>
+<B>Comments:</B> Structure was determined by comparison of the MS/MS spectra with those of cnm<sup>5</SUP>U.
+<HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Yu N., Jora M., Solivio B., Thakur P., Acevedo-Rocha C.G., Randau L.,de Cr&eacute;cy-Lagard V., Addepalli B. and Limbach P.A.. (2019) <I>J Bacteriol.</I>, <B>201</B> e00690-18. <A HREF='https://dx.doi.org/10.1128/JB.00690-18'>doi:10.1128/JB.00690-18</A>
+</OL>
+
