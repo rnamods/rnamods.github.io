@@ -89,7 +89,7 @@ name = name.replace(/\#(.)/g,"<SUP>$1</SUP>");
 name = name.replace(/\_(.)/g,"<SUB>$1</SUB>");
 name = name.replace(/\?(.)/g,"<I>$1</I>");
 name = name.replace(/\!(.)/g,"<SYMBOL>$1</SYMBOL>");
-name = name.replace(/\&(.)/g,"<FONT SIZE="-1">$1</FONT>");
+name = name.replace(/\&(.)/g,"<FONT SIZE='-1'>$1</FONT>");
 return name;
 }
 //------------------------------------------
