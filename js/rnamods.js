@@ -47,7 +47,7 @@ fetch(fn)
   .then( t => {
 	let outtext = t;
     outtext = outtext.replace("|COMPO|", formatCompo(mycompo));
-	outtext = outtext.replace("|CANAM|", mycanam);
+	outtext = outtext.replace("|CANAM|", formatName(mycanam));
 	outtext = outtext.replace("|CANUR|", mycanur);
 	outtext = outtext.replace("|CANUB|", mycanub);
 	outtext = outtext.replace("|UPDAT|", myupdat);
