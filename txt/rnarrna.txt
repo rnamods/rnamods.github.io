@@ -25,27 +25,6 @@ sometimes as a consequence of unavailability at that time of the corresponding g
 Leading references for the data presented in the table below can be found in refs. <A HREF="#refs">1</A>, <A HREF="#refs">6</A> (16S) and <A HREF="#refs">7-10</A> (23S).
 Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmodified (e.g., ref. <A HREF="#refs">1</A>), a characteristic of most 5 - 5.8S rRNAs.
 <P>
-<TABLE WIDTH='575px' class='phylotable'>
-<TR class='dark'>
-<TH ROWSPAN=2>RNA</TH><TH COLSPAN=3>Source</TH>
-</TR><TR class='dark'>
-<TH>Archaea</TH><TH>Bacteria</TH><TH>Eukarya</TH>
-</TR>
-<TR valign='top'><TD style="text-align:left;margin-left:10px">tRNA</TD><TD>37</TD><TD>42</TD><TD>47</TD></TR>
-<TR valign='top'>
-  <TD style="text-align:left;"><SPAN style=" style="display:inline-block;">rRNA</SPAN><BR><DIV style="display:inline-block;margin-left:1em;">SSU<BR>&nbsp;LSU<BR>&nbsp;5S<BR>&nbsp;5.8S</DIV></TD>
-  <TD>&nbsp;<BR>12<BR>8<BR>3<BR>&nbsp;</TD>
-  <TD>1<SUP>a</SUP><BR>8<BR>14<BR>&nbsp;<BR>&nbsp;</TD>
-  <TD>4<SUP>a</SUP><BR>18<BR>12<BR>1<BR>5</TD>
-</TR>
-<TR valign='top'><TD style="text-align:left;">mRNA</TD><TD></TD><TD></TD><TD>13</TD></TR>
-<TR valign='top'><TD style="text-align:left;">tmRNA</TD><TD></TD><TD>2</TD><TD></TD></TR>
-<TR valign='top'><TD style="text-align:left;">snRNA</TD><TD></TD><TD></TD><TD>11</TD></TR>
-<TR valign='top'><TD style="text-align:left;">chromosomal RNA</TD><TD></TD><TD></TD><TD>2</TD></TR>
-<TR valign='top'><TD style="text-align:left;">other small RNA</TD><TD></TD><TD></TD><TD>1</TD></TR>
-<TR><TD COLSPAN=4 style="text-align:left;"><SUP>a</SUP> Subunit origin not designated, or is reported in a mixture of SSU and LSU rRNAs.</TD></TR>
-</TABLE>
-
 
 <TABLE CLASS='phylotable'>
 <TR CLASS='dark'>
@@ -90,7 +69,7 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TABLE WIDTH="100%">
 <TR CLASS='dark'>
 <TH COLSPAN=2>23S</TH>
-</TR><TR>
+</TR><TR CLASS='dark'>
 <TH>Location</TH><TH>Modification</TH>
 </TR><TR>
 <TD>745</TD><TD>m<SUP>1</SUP>G</TD>
@@ -145,24 +124,20 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <DIV STYLE='margin-left:5px;'><SUP>(a)</SUP> C<SUP>*</SUP> is a substoichiometric<BR>modification [<A HREF="#refs">10</A>].</DIV>
 </TD></TR>
 </TABLE>
-
 <P>
 <LI><B>References for the Ribosomal RNA section</B><A NAME="refs"></A><P>
 
 <OL> 
 <LI>Kowalak, J.A., Pomerantz, S.C., Crain, P.F., and McCloskey, J.A. (1993) <I>Nucleic Acids Res.</I> <B>21</B>, 4577-4585.
 <LI>Starr, J.F. and Fefferman, R. (1964) <I>J. Biol. Chem.</I> <B>239</B>, 3457-3461.
-
 <LI>Johnson, J.D. and Horowitz, J. (1971) <I>Biochim. Biophys. Acta</I> <B>247</B>, 262-279.
 <LI>Gehrke, C.W. and Kuo, K.C. (1989) <I>J. Chromatogr.</I> <B>471</B>, 3-36.
 <LI>Limbach, P.A., Crain, P.F. and McCloskey, J.A. (1994) <I>Nucleic Acids Res.</I> <B>22</B>, 2183-2196.
 <LI>Bakin, A., Kowalak, J.A., McCloskey, J.A. and Ofengand, J. (1994) <I>Nucleic Acids Res.</I> <B>22</B>, 3681-3684.
-
 <LI>Kowalak, J.A., Bruenger, E. and McCloskey, J.A. (1995) <I>J. Biol. Chem.</I> <B>270</B>, 17758-17764.
 <LI>Branlant, C., Krol, A., Machatt, M., Pouyet, J., Ebel, J.P., Edwards, K. and Kossel, H. (1981) <I>Nucleic Acids Res.</I> <B>9</B>, 4303-4324.
 <LI>Bakin, A. and Ofengand, J. (1993) <I>Biochemistry</I> <B>32</B>, 9754-9762.
 <LI>Andersen, T.E., Porse, B.T. and Kirpekar, F. (2004) <I>RNA</I> <B>10</B>, 907-913.
-
 </OL>
 <P>
 
