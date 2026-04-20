@@ -1,0 +1,23 @@
+UPDAT=1998.10.14
+CANAM=&L-Threonine, ?N-[[methyl(9-!b-&D-ribofuranosyl- 9?H-purin-6-yl)amino]carbonyl]-
+CANUR=39667-81-7
+CANUB=132603-03-3
+COMPO=C16H22N6O8
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B>  Previously used symbol is mt<SUP>6</SUP>A.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kimura-Harada, F., von Minden, D.L., McCloskey, J.A. and Nishimura, S. (1972) <I>Biochemistry</I>, <B>11</B>, 3910-3915.
+<LI><A NAME="2"></A>Dutta, S.P., Hong, C.I., Murphy, G.P., Mittelman, A. and Chheda, G.B. (1975) <I>Biochemistry</I>, <B>14</B>, 3131-3144.
+</OL>

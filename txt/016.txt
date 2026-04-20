@@ -1,0 +1,33 @@
+UPDAT=1998.10.14
+CANAM=Adenosine, 2'-?O-(5-?O-phosphono-!b-&D-ribofuranosyl)-
+CANUR=28050-13-7
+CANUB=73-24-5
+COMPO=C11H16N2O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>,<A HREF="#2">2</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#3">3</A>,<A HREF="#4">4</A>]
+<P>
+<B>Comment:</B>  A nucleoside component of yeast tRNA was isolated and tentatively
+characterized as 2'(3')-<I>O</I>-ribosyladenosine by Hall [<A HREF="#5">5</A>], but 
+whether the source material was tRNA was later concluded to be uncertain [<A HREF="#6">6</A>].
+Substitution at O-2' <I>vs.</I> O-3' was not established in an early reported synthesis [<A HREF="#3">3</A>].
+A recent and more detailed synthesis is given in [<A HREF="#4">4</A>].
+Ar registry number: 28269-89-8, Chemical Abstracts Index Name: Adenosine, 
+2'-<I>O</I>-<FONT FACE="symbol">b</FONT>-<TT>D</TT>-ribofuranosyl-.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Desgr&egrave;s, J., Keith, G., Kuo, K.C. and Gehrke, C.W. (1989) <I>Nucleic Acids Res.</I>, <B>17</B>, 865-882.
+<LI><A NAME="2"></A>Keith, G., Glasser, A.-L., Desgr&egrave;s, J., Kuo, K.C. and Gehrke, C.W. (1990) <I>Nucleic Acids Res.</I>, <B>18</B>, 5989-5993.
+<LI><A NAME="3"></A>Lis, A.W. and Passarge, W.E. (1969) <I>Physiol. Chem. Phys.</I>, <B>1</B>, 68-71.
+<LI><A NAME="4"></A>Rodionov, A.A., Efimtseva, E.V., Mikhailov, S.M., Rozenski, J., Luyten, I. and Herdewijn, P. (2000) <I>Nucleosides, Nucleotides Nucleic Acids</I>, <B>19</B>, 1847-1859.
+<LI><A NAME="5"></A>Hall, R.H. (1965) <I>Biochemistry</I>, <B>4</B>, 661-670.
+<LI><A NAME="6"></A>Hall, R.H. (1971) The Modified Nucleosides in Nucleic Acids. Columbia University Press, New York, p. 111.
+</OL>

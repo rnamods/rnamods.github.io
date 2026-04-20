@@ -1,0 +1,20 @@
+UPDAT=1998.10.14
+CANAM=Norvaline, 3-hydroxy-?N-[[[2-(methylthio)-9-!b-&D-ribofuranosyl-<BR>9?H-purin-6-yl]amino]carbonyl]-
+CANUR=146426-21-3
+CANUB=
+COMPO=C17H24N6O8S1
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Reddy, D.M., Crain, P.F., Edmonds, C.G., Gupta, R., Hashizume, T., Stetter, K.O., Widdell, F. and McCloskey, J.A. (1992) <I>Nucleic Acids Res.</I>, <B>20</B>, 5607-5615.
+</OL>

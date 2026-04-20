@@ -1,0 +1,28 @@
+UPDAT=1998.10.14
+CANAM=Inosine
+CANUR=58-63-9
+CANUB=68-94-0
+COMPO=C10H12N4O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> The presence of I in mRNA had been implied earlier from discrepencies between genomic and cDNA sequences,
+but [<A HREF="#3">3</A>] provides the first direct evidence for its occurrence.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Hall, R.H. (1963) <I>Biochem. Biophys. Res. Commun.</I>, <B>13</B>, 394-398.
+<LI><A NAME="2"></A>Levene, P.A. and Tipson, R.S. (1935) <I>J. Biol. Chem.</I>, <B>111</B>, 313-323.
+<LI><A NAME="3"></A>Morse, D.P. and Bass, B.L. (1997) <I>Biochemistry</I>, <B>36</B>, 8429-8434.
+</OL>
+ 

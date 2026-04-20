@@ -1,0 +1,20 @@
+UPDAT=1998.10.14
+CANAM=Glycine, ?N-[[(9-!b-&D-ribofuranosyl- 9?H-purin-6-yl) amino]carbonyl]-
+CANUR=29902-55-4
+CANUB=32459-91-9
+COMPO=C13H16N6O7
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Schweizer, M.P., McGrath, K. and Baczynskyj, L. (1970) <I>Biochem. Biophys. Res. Commun.</I>, <B>40</B>, 1046-1052. 
+</OL>
