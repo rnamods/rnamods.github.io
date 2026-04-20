@@ -1,0 +1,21 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 5-hydroxy-
+CANUR=957-77-7
+CANUB=20636-41-3
+COMPO=C9H12N2O7
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Lis, A.W. and Passarge, W.E. (1966) <I>Arch. Biochem. Biophys.</I>, <B>114</B>, 593-595.
+<LI><A NAME="2"></A>Roberts, M. and Visser, D.W. (1952) <I>J. Am. Chem. Soc.</I>, <B>74</B>, 668-669.
+</OL>

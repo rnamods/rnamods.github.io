@@ -1,0 +1,20 @@
+UPDAT=1998.10.15
+CANAM=5-Pyrimidineacetic acid, 1,2,3,4-tetrahydro-!a-hydroxy-2,4-dioxo- 1-!b-&D-ribofuranosyl-, methyl ester, (?S)-
+CANUR=89665-83-8
+CANUB=
+COMPO=C12H16N2O9
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kawakami, M., Takemura, S., Kondo, T., Fukami, T. and Goto, T. (1988) <I>J. Biochem. (Tokyo)</I>, <B>104</B>, 108-111.
+</OL>

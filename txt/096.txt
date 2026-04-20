@@ -1,0 +1,21 @@
+UPDAT=2002.08.02
+CANAM=Guanosine, 1-methyl-2'-?O-methyl-
+CANUR=73667-71-7
+CANUB=938-85-2
+COMPO=C12H17N5O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>McCloskey, J.A., Liu, X.H., Crain, P.F., Bruenger, E., Guymon, R., Hashizume, T. and Stetter, K.O. (2000) <I>Nucleic Acids Symp. Ser.</I>, <B>44</B>, 267-268.
+<LI><A NAME="2"></A>Pettit, G.R., Yamauchi, K. and Einck, J.J. (1980) <I>Synth. Commun.</I>, <B>10</B>, 25-35.
+</OL>

@@ -1,0 +1,30 @@
+UPDAT=1998.12.15
+CANAM=Hydrouracil, 5-methyl-1-!b-&D-ribofuranosyl-
+CANUR=23067-10-9
+CANUB=696-04-8
+COMPO=C10H16N2O6
+
+<TR ALIGN="center">
+<TH>chromosomal RNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> This RNA is reported as a chromatin-associated 3.2-3.8S species,
+with an unusual concentration of dihydropyrimidine nucleosides, 
+but its occurrence as a separate class of RNA remains controversial.
+For review, see [<A HREF="#3">3</A>]. Characterization of this nucleoside, not otherwise reported in RNA,
+was based on detection of 2-amino-isobutyric acid following treatment with alkali [<A HREF="#1">1</A>].
+Direct comparison with the authentic nucleoside was not made.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Jacobson, R.A. and Bonner, J. (1968) <I>Biochem. Biophys. Res. Commun.</I>, <B>33</B>, 716-720.
+<LI><A NAME="2"></A>Cline, R.E., Fink, R.M. and Fink, K. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 2521-2527.
+<LI><A NAME="3"></A>Naora, H. (1977) In Stewart, P.R. and Letham, D.S. (eds.) The Ribonucleic Acids. Springer-Verlag, Berlin, pp. 43-80.
+</OL>
+  

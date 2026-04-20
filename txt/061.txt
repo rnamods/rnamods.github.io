@@ -1,0 +1,29 @@
+UPDAT=2002.08.02
+CANAM=1(2?H)-Pyrimidinebutanoic acid, !a-amino-3,6-dihydro-2,6-dioxo- 3-!b-&D-ribofuranosyl-
+CANUR=52745-94-5
+CANUB=
+COMPO=C13H19N3O8
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+<TR ALIGN="center">
+<TH>rRNA</TH><TD>16S [<A HREF="#1">1</A>]</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#2">2</A>,<A HREF="#3">3</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Earlier symbols used were 4abu<SUP>3</SUP>U and X.
+Symbol X for acp<SUP>3</SUP>U has been confused in the literature with &quot;unknown nucleoside&quot; and its use is therefore discouraged.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kowalak, J.A., Bruenger, E., Crain, P.F. and McCloskey, J.A. (2000) <I>J. Biol. Chem.</I>, <B>275</B>, 24484-24489.
+<LI><A NAME="2"></A>Ohashi, Z., Maeda, M., McCloskey, J.A. and Nishimura, S. (1974) <I>Biochemistry</I>, <B>13</B>, 2620-2625.
+<LI><A NAME="3"></A>Friedman, S., Li, H.J., Nakanishi, K. and Van Lear, G. (1974) <I>Biochemistry</I>, <B>13</B>, 2932-2937. 
+</OL>
+

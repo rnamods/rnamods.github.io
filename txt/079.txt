@@ -1,0 +1,23 @@
+UPDAT=1998.10.15
+CANAM=Glycine, ?N-[(1,2,3,4-tetrahydro-4-oxo- 1-!b-&D-ribofuranosyl- 2-thioxo-5-pyrimidinyl)methyl]-
+CANUR=78173-95-2
+CANUB=not assigned
+COMPO=C12H17N3O7S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Alternate symbol is cmam<SUP>5</SUP>s<SUP>2</SUP>U.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Yamada, Y., Murao, K. and Ishikura, H. (1981) <I>Nucleic Acids Res.</I>, <B>9</B>, 1933-1939.
+<LI><A NAME="2"></A>Reese, C.B. and Sanghvi, Y.S. (1984) <I>J. Chem. Soc., Chem. Commun.</I>, 62-63.
+</OL>

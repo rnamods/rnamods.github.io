@@ -1,0 +1,22 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 5-methoxy-
+CANUR=35542-01-9
+CANUB=6623-81-0
+COMPO=C10H14N2O7
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Murao, K., Hasegawa, T. and Ishikura, H. (1976) <I>Nucleic Acids Res.</I>, <B>3</B>, 2851-2860.
+<LI><A NAME="2"></A>Stout, M.G. and Robins, R.K. (1972) <I>J. Heterocycl. Chem.</I>, <B>9</B>, 545-549.
+</OL>

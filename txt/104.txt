@@ -1,0 +1,24 @@
+UPDAT=2006.05.11
+CANAM=Uridine, 5-[[(3-methyl- 2-butenyl)amino]methyl]-2-thio-
+CANUR=872710-78-6
+CANUB=
+COMPO=C15H23N3O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Comment:</B> Preparation of conventional manuscript is in progress.
+Source of tRNA: <I>Thermodesulfobacterium commune</I>. 
+Coautors for this work: Phillips, D.R., Hashizume, T., Crain, P.F., Widdel, F.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>McCloskey, J.A. <I>et al.</I> 20th International tRNA workshop, Banz, Germany, October 2-7, 2003, Abstract II-15 p41.
+</OL>

@@ -1,0 +1,21 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 5-(2-amino-2-oxoethyl)-
+CANUR=29569-30-0
+CANUB=
+COMPO=C11H15N3O7
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Dunn, D.B. and Trigg, M.D. (1975) <I>Biochem. Soc. Trans</I>, <B>3</B>, 656-659.
+<LI><A NAME="2"></A>Fissekis, J.D. and Sweet, F. (1970) <I>Biochemistry</I>, <B>9</B>, 3136-3142. 
+</OL>

@@ -1,0 +1,23 @@
+UPDAT=1999.03.03
+CANAM=Uridine, 5-(aminomethyl)-2-thio-
+CANUR=109666-14-0
+CANUB=
+COMPO=C10H15N3O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P>
+<B>Comment</B>: Observed as a component of unfractionated tRNA from <I>E. coli</I> mutants, as a biosynthetic precursor to mnm<SUP>5</SUP>s<SUP>2</SUP>U [<A HREF="#1">1</A>];
+not rigorously characterized by conventional means. No chemical synthesis reported.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Hagervall, T.G., Edmonds, C.G., McCloskey, J.A. and Bj&ouml;rk, G.R. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 8488-8495. 
+</OL>

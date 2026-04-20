@@ -1,0 +1,22 @@
+UPDAT=1998.10.15
+CANAM=Acetic acid, [(1,2,3,4-tetrahydro-2,4-dioxo- 1-!b-&D-ribofuranosyl-5-pyrimidinyl)oxy]-
+CANUR=28144-25-4
+CANUB=
+COMPO=C11H14N2O9
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Comment:</B> Alternate commonly used symbols are o<SUP>5</SUP>U and V.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Murao, K., Saneyoshi, M., Harada, F. and Nishimura, S. (1969) <I>Biochem. Biophys. Res. Commun.</I>, <B>38</B>, 657-662.
+</OL>

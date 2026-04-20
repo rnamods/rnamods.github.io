@@ -1,0 +1,38 @@
+UPDAT=1998.10.15
+CANAM=1?H-Purinium, 2-(dimethylamino)- 6,9-dihydro-7-methyl-6-oxo- 9-!b-&D-ribofuranosyl-
+CANUR=40027-70-1
+CANUB=not assigned
+COMPO=C13H19N5O5
+
+<TR ALIGN="center">
+<TH ROWSPAN=2>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]<BR>viral [<A HREF="#2">2</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3>Comment: This 5'-cap nucleoside is joined to the RNA through
+a unique triphosphate bridge [Gp(5'-5')ppNp...]. This nucleoside is rare in mRNA.</TD>
+</TR><TR ALIGN="center">
+<TH ROWSPAN=2>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3>Comment: The m<SUP>2,2,7</SUP>G cap nucleoside is also found in U3 RNA from the nucleolus.<BR>
+For review of the trimethylguanosine cap structures see [<A HREF="#6">6</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#3">3</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#3">3</A>]
+<P>
+<B>Comment:</B> The structure was first assigned using material from 2-10S RNA from Chinese hamster ovary cells [<A HREF="#3">3</A>],
+and later from snRNA from Novikoff hepatoma ascites cells [<A HREF="#4">4</A>].
+More rigorous characterization of the synthetic nucleoside used for comparison is given in [<A HREF="#5">5</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Liou, R. and Blumenthal, T. (1990) <I>Mol. Cell Biol.</I>, <B>10</B>, 1764-1768.
+<LI><A NAME="2"></A>Hsu-Chen, C.C. and Dubin, D.T. (1976) <I>Nature</I>, <B>264</B>, 190-191.
+<LI><A NAME="3"></A>Saponara, A.G. and Enger, M.D. (1969) <I>Nature</I>, <B>223</B>, 1365-1366.
+<LI><A NAME="4"></A>Reddy, R., Ro-Choi, T.S., Henning, D., Shibata, H., Choi, Y.C. and Busch, H. (1972) <I>J. </I> <I>Biol. Chem.</I>, <B>247</B>, 7245-7250.
+<LI><A NAME="5"></A>Ro-Choi, T.S., Choi, Y.C., Henning, D., McCloskey, J.A. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3921-3928.
+<LI><A NAME="6"></A>Ro-Choi, T.S. (1999) <I>Crit. Rev. Eukaryot. Gene Expr.</I>, <B>9</B>, 107-158.
+</OL>
+  

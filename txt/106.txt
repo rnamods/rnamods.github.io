@@ -1,0 +1,25 @@
+UPDAT=2006.05.11
+CANAM=Guanosine, ?N,7-dimethyl-2'-?O-methyl-, inner salt
+CANUR=872710-82-2
+CANUB=
+COMPO=C13H19N5O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Comment:</B> Sources of tRNA: <I>Aeropyrum pernix</I>, <I>Stetteria hydrogenophila</I>.
+See also: Noon, K.R. <I>et al.</I> (2003) <I>J. Bacteriol.</I>, <B>185</B>, 5483-5490.
+Coauthors for this work: Van Wagoner, R.M., Hashizume, T., Nomura, M., Sako, Y.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>McCloskey, J.A. <I>et al.</I> 20th International tRNA workshop, Banz, Germany, October 2-7, 2003, Abstract II-15 p41.
+</OL>
+

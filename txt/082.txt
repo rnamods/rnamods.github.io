@@ -1,0 +1,26 @@
+UPDAT=1998.12.16
+CANAM=Cytidine, ?N-methyl
+CANUR=10578-79-7
+CANUB=6220-47-9
+COMPO=C10H15N3O5
+
+<TR ALIGN="center">
+<TH>rRNA</TH>
+<TD>&nbsp;</TD><TD>&nbsp;</TD><TD>13S mt [<A HREF="#1">1</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> The base (m<SUP>4</SUP>Cyt) was previously reported in acid-treated HeLa rRNA,
+and was presumed to have originated from <I>N</I><SUP>4</SUP>,2'-<I>O</I>-dimethylcytidine [<A HREF="#3">3</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Dubin, D.T., Taylor, R.H. and Davenport, L.W. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 4385-4397.
+<LI><A NAME="2"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187.
+<LI><A NAME="3"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15.
+</OL>

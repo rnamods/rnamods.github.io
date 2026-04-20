@@ -1,0 +1,23 @@
+UPDAT=2003.10.27
+CANAM=Uridine, 5-methyl-2-thio-
+CANUR=32738-09-3
+CANUB=636-26-0
+COMPO=C10H14N2O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Alternate symbol is s<SUP>2</SUP>T. The occurrence of m<SUP>5</SUP>s<SUP>2</SUP>U in archaeal tRNA is unusual.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kimura-Harada, F., Saneyoshi, M. and Nishimura, S. (1971) <I>FEBS Lett.</I>, <B>13</B>, 335-338.
+<LI><A NAME="2"></A>Shaw, G., Warrener, R.N., Maguire, M.H. and Ralph, R.K. (1958) <I>J. Chem. Soc.</I>, 2294-2299.
+</OL>

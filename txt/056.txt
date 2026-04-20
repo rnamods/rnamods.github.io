@@ -1,0 +1,30 @@
+UPDAT=1998.10.15
+CANAM=2,4(1?H,3?H)-Pyrimidinedione, 5-(2-?O-methyl-!b-&D-ribofuranosyl)-
+CANUR=2140-68-3
+CANUB=66-22-8
+COMPO=C10H14N2O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>rRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>18+26S [<A HREF="#1">1</A>]<BR>28S [<A HREF="#2">2</A>]</TD>
+</TR><TR ALIGN="center">
+<TH ROWSPAN=2>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3>Comment: Evidence for characterization of N-36 as <FONT FACE="symbol">Y</FONT>m in plant snRNA is inconclusive.</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#4">4</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#5">5</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Gray, M.W. and Keddy, G.M. (1974) <I>Biochemistry</I>, <B>13</B>, 5453-5463.
+<LI><A NAME="2"></A>Maden, B.E.H. and Salim, M. (1974) <I>J. Mol. Biol.</I>, <B>88</B>, 133-164.
+<LI><A NAME="3"></A>Kiss, T., Antal, M. and Solymosy, F. (1987) <I>Nucleic Acids Res.</I>, <B>15</B>, 543-560.
+<LI><A NAME="4"></A>Hall, R.H. (1964) <I>Biochemistry</I>, <B>3</B>, 876-880.
+<LI><A NAME="5"></A>Robins, M.J., Naik, S.R. and Alan, S.K. (1974) <I>J. Org. Chem.</I>, <B>39</B>, 1891-1899.
+</OL>

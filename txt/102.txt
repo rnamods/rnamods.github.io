@@ -1,0 +1,22 @@
+UPDAT=2005.05.12
+CANAM=Adenosine, ?N-acetyl-
+CANUR=16265-37-5
+CANUB=6034-68-0
+COMPO=C12H15N5O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Sauerwald, A., Sitaramaiah, D., McCloskey, J.A., S&ouml;ll, D. and Crain, P.F. (2005) <I>FEBS Lett.</I>, <B>579</B> 2807-2810.
+<LI><A NAME="2"></A>Aritomo, K., Wada, T. and Sekine, M. (1995) <I>J. Chem. Soc., Perkin Trans. 1</I>, 1837-1844.
+</OL>
+

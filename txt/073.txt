@@ -1,0 +1,23 @@
+UPDAT=2002.08.02
+CANAM=Uridine, 5-[(methylamino)methyl]-2-thio-
+CANUR=32860-54-1
+CANUB=21263-85-4
+COMPO=C11H17N3O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Alternate symbol is mam<SUP>5</SUP>s<SUP>2</SUP>U.
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Carbon, J., David, H. and Studier, M.H. (1968) <I>Science</I>, <B>161</B>, 1146-1147.
+<LI><A NAME="2"></A>Vorbruggen, H. and Kr&oacute;likiewicz, K. (1975) <I>Angew. Chem.</I>, <B>14</B>, 225-256.
+</OL>

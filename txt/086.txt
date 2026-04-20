@@ -1,0 +1,21 @@
+UPDAT=1998.10.15
+CANAM=1(2?H)-Pyrimidinebutanoic acid, !a-amino-3,6-dihydro-3-methyl-2,6-dioxo- 5-!b-&D-ribofuranosyl-
+CANUR=52777-29-4
+CANUB=not assigned
+COMPO=C14H21N3O8
+
+<TR ALIGN="center">
+<TH>rRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>17S [<A HREF="#1">1</A>]<BR>18S [<A HREF="#2">2</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Maden, B.E.H., Forbes, J., de Jonge, P. and Klootwijk, J. (1975) <I>FEBS Lett.</I>, <B>59</B>, 60-63.
+<LI><A NAME="2"></A>Saponara, A.G. and Enger, M.D. (1974) <I>Biochim. Biophys. Acta</I>, <B>349</B>, 61-77.
+</OL>

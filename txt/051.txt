@@ -1,0 +1,41 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 5,6-dihydro-
+CANUR=5627-05-4
+CANUB=34283-02-8
+COMPO=C9H14N2O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>rRNA</TH><TD>&nbsp;</TD><TD>16S [<A HREF="#8">8</A>]<BR>23S [<A HREF="#1">1</A>, <A HREF="#2">2</A>]</TD><TD>&nbsp;</TD>
+</TR><TR ALIGN="center">
+<TH ROWSPAN=2>sn RNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3>Comment:  Dihydrouridine is reported in a total enzymatic digest of nuclear 5S RNA from rat [<A HREF="#3">3</A>].
+However, this sole report of D in snRNA was not verified by sequencing of the RNA because pD could not be distinguished from pU [<A HREF="#3">3</A>].</TD>
+
+</TR><TR ALIGN="center">
+<TH ROWSPAN=2>chromosomal RNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#4">4</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3>Comment:  This RNA is reported as a chromatin-associated 3.2-3.8S species,
+with an unusual concentration of dihydropyrimidine nucleosides, but its occurrence as a separate class of RNA remains controversial. For review, see [<A HREF="#5">5</A>].</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#6">6</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#7">7</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Kowalak, J.A., Bruenger, E., McCloskey, J.A. (1995) <I>J. Biol. Chem.</I> <B>270</B>, 17758-17764.
+<LI><A NAME="2"></A>Johnson, J.D. and Horowitz, J. (1971) <I>Biochim. Biophys. Acta</I>, <B>247</B>, 262-279.
+<LI><A NAME="3"></A>Krol, A., Gallinaro, H., Lazar, E., Jacob, M. and Branlant, C. (1981) <I>Nucleic Acids Res.</I>, <B>9</B>, 769-787.
+<LI><A NAME="4"></A>Huang, R.C.C. and Bonner, J. (1965) <I>Proc. Natl. Acad. Sci. USA</I>, <B>54</B>, 960-967.
+<LI><A NAME="5"></A>Naora, H. (1977) In Stewart, P.R. and Letham, D.S. (eds.) The Ribonucleic Acids. Springer-Verlag, Berlin, pp. 43-80.
+<LI><A NAME="6"></A>Madison, J.T. and Holley, R.W. (1965) <I>Biochem. Biophys. Res. Commun.</I>, <B>18</B>, 153-157.
+<LI><A NAME="7"></A>Green, M. and Cohen, S.S. (1957) <I>J. Biol. Chem.</I>, <B>225</B>, 397-407.
+<LI><A NAME="8"></A>Emmerechts, G., Barb&eacute;, S., Herdewijn, P., Ann&eacute;, J. and Rozenski, J. (2007) <I>Nucleic Acids Res.</I>, <B>35</B>, 3494-3503.
+</OL>
+

@@ -1,0 +1,24 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 5-[(methylamino)methyl]-
+CANUR=72667-55-1
+CANUB=37454-51-6
+COMPO=C11H17N3O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comment:</B> Alternate symbol is mam<SUP>5</SUP>U. More thorough characterization in [<A HREF="#3">3</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Yokoyama, S., Sakamoto, K., Muramatsu, T., Yamaizumi, Z., Nishimura, S. and Miyazawa, T. (1988) <I>Nucleic Acids Symp. Ser.</I>, <B>20</B>, 49-50.
+<LI><A NAME="2"></A>Sierzputowska-Gracz, H., Sochacka, E., Malkiewicz, A., Kuo, K., Gehrke, C.W. and Agris, P.F. (1987) <I>J. Am. Chem. Soc.</I>, <B>109</B>, 7171-7177.
+<LI><A NAME="3"></A>Sakamoto, K., Kawai, G., Niimi, T., Satoh, T., Sekine, M., Yamaizumi, Z., Nishimura, S., Miyazawa, T. and Yokoyama, S. (1993) <I>Eur. J. Biochem.</I>, <B>216</B>, 369-375.
+</OL>

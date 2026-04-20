@@ -1,0 +1,27 @@
+UPDAT=1998.10.15
+CANAM=Adenosine, ?N-methyl-2'-?O-methyl-
+CANUR=57817-83-1
+CANUB=443-72-1
+COMPO=C12H17N5O4
+
+<TR ALIGN="center">
+<TH ROWSPAN=2>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3>Comment:  The structure was announced in [<A HREF="#2">2</A>] without data for characterization.</TD>
+</TR><TR ALIGN="center">
+<TH>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#2">2</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#3">3</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#4">4</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Wei, C.-M., Gershowitz, A. and Moss, B. (1975) <I>Cell</I>, <B>4</B>, 379-386.
+<LI><A NAME="2"></A>Shibata, H., Ro-Choi, T.S., Reddy, R., Choi, Y.C., Henning, D. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3909-3920.
+<LI><A NAME="3"></A>Crain, P.F., Choi, Y.C., Busch, H. and McCloskey, J.A. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 771-778.
+<LI><A NAME="4"></A>Robins, M.J., MacCoss, M. and Lee, A.S.K. (1976) <I>Biochem. Biophys. Res. Commun.</I>, <B>70</B>, 356-363.
+</OL>

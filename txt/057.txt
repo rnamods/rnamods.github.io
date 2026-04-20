@@ -1,0 +1,21 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 2-thio-
+CANUR=20235-78-3
+CANUB=141-90-2
+COMPO=C9H12N2O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Chackalaparampil, I. and Cherayil, J.D. (1981) <I>Biochem. Int.</I>, <B>2</B>, 121-128.
+<LI><A NAME="2"></A>Shaw, G., Warrener, R.N., Maguire, M.H. and Ralph, R.K. (1958) <I>J. Chem. Soc.</I>, 2294-2299.
+</OL>

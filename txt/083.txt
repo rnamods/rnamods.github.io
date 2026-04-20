@@ -1,0 +1,24 @@
+UPDAT=1998.12.16
+CANAM=Cytidine, ?N-methyl-2'-?O-methyl-
+CANUR=13048-95-8
+CANUB=6220-47-9
+COMPO=C11H17N3O5
+
+<TR ALIGN="center">
+<TH>rRNA</TH>
+<TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P>
+<B>Comment:</B> More thorough characterization is reported in [<A HREF="#2">2</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Nichols, J.L. and Lane, B.G. (1966) <I>Biochim. Biophys. Acta</I>, <B>119</B>, 649-651.
+<LI><A NAME="2"></A>Nichols, J.L. and Lane, B.G. (1966) <I>Can. J. Biochem.</I>, <B>44</B>, 1633-1645.
+</OL>

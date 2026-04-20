@@ -1,0 +1,24 @@
+UPDAT=2003.10.24
+CANAM=Adenosine, 1-methyl-2'-?O-methyl
+CANUR=91101-00-7
+CANUB=5124-22-3
+COMPO=C12H17N5O4
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P>
+<B>Comments:</B> This compound is also listed under CA registry number 59867-24-2 as the monohydriodide salt,
+reflecting the form in which the first reported synthesis was carried out [<A HREF="#2">2</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Raviprakash, K.S. and Cherayil, J.D. (1984) <I>Biochem. Biophys. Res. Commun.</I>, <B>121</B>, 243-248.
+<LI><A NAME="2"></A>Robins, M.J., MacCoss, M. and Lee, A.S.K. (1976) <I>Biochem. Biophys. Res. Commun.</I>, <B>70</B>, 356-363.
+</OL>

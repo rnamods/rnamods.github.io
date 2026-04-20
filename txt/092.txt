@@ -1,0 +1,23 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 3-methyl-2'-?O-methyl-
+CANUR=7103-27-7
+CANUB=608-34-4
+COMPO=C11H16N2O6
+
+<TR ALIGN="center">
+<TH>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Bangs, J.D., Crain, P.F., Hashizume, T., McCloskey, J.A. and Boothroyd, J.C. (1992) <I>J. Biol. Chem.</I>, <B>267</B>, 9805-9815.
+<LI><A NAME="2"></A>Furukawa, Y., Kobayashi, K., Kanai, Y. and Honjo, M. (1965) <I>Chem. Pharm. Bull.</I>, <B>13</B>, 1273-1278.
+</OL>
+
+  

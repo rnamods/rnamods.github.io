@@ -1,0 +1,21 @@
+UPDAT=1998.10.15
+CANAM=Uridine, 4-thio-
+CANUR=13957-31-8
+CANUB=591-28-6
+COMPO=C9H12N2O5S
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#2">2</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Lipsett, M.N. (1965) <I>J. Biol. Chem.</I>, <B>240</B>, 3975-3978.
+<LI><A NAME="2"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187.
+</OL>
