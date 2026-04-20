@@ -1,1 +1,23 @@
-UPDAT=2024.01.22CANAM=CANUR=58479-73-5CANUB=COMPO=C11H13N3O6<TR ALIGN="center"><TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD></TR></TABLE><P><B>Structure:</B> [<A HREF="#1">1</A>]<P><B>Synthesis:</B> none reported<P><B>Comments:</B> Base structure was confirmed based on comparison of pseudo MS3 data with the deoxyribonucleoside analog.<HR><B>References</B><OL><LI><A NAME="1"></A>Mandal D., K&ouml;hrer C., Su D., Babu I.R., Chan C.T.Y., Liu Y., S&ouml;ll D., Blum P., Kuwahara M., Dedon P.C. and Rajbhandary U.L. (2014) <I>RNA</I>, <B>20</B>, 177-188. <A HREF='https://dx.doi.org/10.1261/rna.042358.113'>doi:10.1261/rna.042358.113</A></OL>
+UPDAT=2024.01.22
+CANAM=
+CANUR=58479-73-5
+CANUB=
+COMPO=C11H13N3O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> none reported
+<P>
+<B>Comments:</B> Base structure was confirmed based on comparison of pseudo MS3 data with the deoxyribonucleoside analog.
+<HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Mandal D., K&ouml;hrer C., Su D., Babu I.R., Chan C.T.Y., Liu Y., S&ouml;ll D., Blum P., Kuwahara M., Dedon P.C. and Rajbhandary U.L. (2014) <I>RNA</I>, <B>20</B>, 177-188. <A HREF='https://dx.doi.org/10.1261/rna.042358.113'>doi:10.1261/rna.042358.113</A>
+</OL>
+
