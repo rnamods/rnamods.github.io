@@ -41,8 +41,11 @@ while (i--) {
   if (thevar == "UPDAT=") {myupdat = txtarr[i].substring(6);txtarr.splice(i,1);}
   }
 var fn = baseurl + "txt/rnawrap.txt";
-var rc = thedata.filter(option => option.startsWith(nr));
-rc = rc[0].split("|");
+var rc = [];
+if (nr > 0) {
+  rc = thedata.filter(option => option.startsWith(nr));
+  rc = rc[0].split("|");
+  }
 fetch(fn)
   .then( r => r.text() )
   .then( t => {
