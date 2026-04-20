@@ -89,7 +89,7 @@ name = name.replace(/\#(.)/g,"<SUP>$1</SUP>");
 name = name.replace(/\_(.)/g,"<SUB>$1</SUB>");
 name = name.replace(/\?(.)/g,"<I>$1</I>");
 name = name.replace(/\!(.)/g,"<FONT face='symbol'>$1</FONT>");
-name = name.replace(/\&(.)/g,"SPAN style='font-family:monospace'>$1</SPAN>");
+name = name.replace(/\&(.)/g,"<SPAN style='font-family:monospace'>$1</SPAN>");
 return name;
 }
 //------------------------------------------
