@@ -1,4 +1,5 @@
-// rnamods
+//
+// RNAMODS
 // JavaScript functions
 // written by Jef Rozenski 2026
 //
