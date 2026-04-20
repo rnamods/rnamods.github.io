@@ -30,12 +30,6 @@ tbody.appendChild(tr);
 //------------------------------------------
 function doDetail(nr,txt) {
 var fn = baseurl + "txt/rnawrap.txt";
-if (nr == "000") {
-  fetch(fn)
-    .then( r => r.text() )
-    .then( t => doMenu('output',t) );
-  return;
-  }
 var txtarr = txt.split("\n");
 var i = txtarr.length;
 while (i--) {
@@ -144,7 +138,15 @@ fetch(fn)
 if (window.location.href.search(/\?\d\d\d/) > 0) {
   var nr = window.location.href.match(/\?\d\d\d/)[0];
   nr = nr.replace(/\?/,"");
-  showDetail(nr);
+if (nr == "000") {
+  fn = baseurl + "txt/rnawrap.txt"; // load detail wrap
+  fetch(fn)
+    .then( r => r.text() )
+    .then( t => {
+		let outtext = t;
+		outtext = outtext.replaceAll("|ID|", nr);
+	    outtext = outtext.replaceAll("|NAME|", "not found");
+		doMenu('output',t) );
   }
 else {
   loadShow('txt/rnahome.txt'); // load homepage and show
