@@ -1,0 +1,29 @@
+UPDAT=1998.10.14
+CANAM=Cytidine, 3-methyl-
+CANUR=2140-64-9
+CANUB=4776-08-3
+COMPO=C10H15N3O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH ROWSPAN=2>rRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>17S [<A HREF="#1">1</A>]<BR>18, 28S [<A HREF="#2">2</A>]</TD>
+</TR><TR>
+<TD COLSPAN=3 class='comment'>Comment: This nucleoside is not reported in the sequence of 18S rRNA from HeLa cells [<A HREF="#3">3</A>].</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#4">4</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#5">5</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Klootwijk, J. and Planta, R.J. (1973) <I>Eur. J. Biochem.</I>, <B>39</B>, 325-333.
+<LI><A NAME="2"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15.
+<LI><A NAME="3"></A>Maden, B.E.H. and Salim, M. (1974) <I>J. Mol. Biol.</I>, <B>88</B>, 133-164.
+<LI><A NAME="4"></A>Hall, R.H. (1963) <I>Biochem. Biophys. Res. Commun.</I>, <B>12</B>, 361-364.
+<LI><A NAME="5"></A>Brookes, P. and Lawley, P.D. (1962) <I>J. Chem. Soc.</I>, 1348-1351.
+</OL>

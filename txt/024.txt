@@ -1,0 +1,26 @@
+UPDAT=1998.12.16
+CANAM=Cytidine, ?N-acetyl-
+CANUR=3768-18-1
+CANUB=14631-20-0
+COMPO=C11H15N3O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>rRNA</TH><TD>5S [<A HREF="#1">1</A>]<BR>16, 23S [<A HREF="#2">2</A>]</TD><TD>&nbsp;</TD><TD>17, 18S [<A HREF="#3">3</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#4">4</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#5">5</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Bruenger, E., Kowalak, J.A., Kuchino, Y., McCloskey, J.A., Mizushima, H., Stetter, K.O. and Crain, P.F. (1993) <I>FASEB J.</I>, <B>7</B>, 196-200.
+<LI><A NAME="2"></A>Noon, K.R., Bruenger, E. and McCloskey, J.A. (1998) <I>J. Bacteriol.</I>, <B>180</B>, 2883-2888.
+<LI><A NAME="3"></A>Thomas, G., Gordon, J. and Rogg, H. (1978) <I>J. Biol. Chem.</I>, <B>253</B>, 1101-1105.
+<LI><A NAME="4"></A>Feldmann, H., Dutting, D. and Zachau, H.G. (1966) <I>Hoppe-Seylers Z. Physiol. Chem.</I>, <B>347</B>, 236-248.
+<LI><A NAME="5"></A>Michelson, A.M. (1959) <I>J. Chem. Soc.</I>, 3655-3669. 
+</OL>

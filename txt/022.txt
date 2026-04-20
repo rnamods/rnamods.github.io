@@ -1,0 +1,44 @@
+UPDAT=1998.12.16
+CANAM=Cytidine, 2'-?O-methyl-
+CANUR=2140-72-9
+CANUB=71-30-7
+COMPO=C10H15N3O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>+</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>rRNA</TH><TD>5S [<A HREF="#1">1</A>]<BR>16, 23S [<A HREF="#2">2</A>]</TD>
+<TD>16S [<A HREF="#13">13</A>]<BR>23S [<A HREF="#3">3</A>]</TD>
+<TD>[<A HREF="#4">4</A>]<BR>5.8S [<A HREF="#5">5</A>]<BR>18, 28S [<A HREF="#6">6</A>]<BR>17S [<A HREF="#7">7</A>]</TD>
+</TR><TR ALIGN="center">
+<TH>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>[<A HREF="#8">8</A>]</TD>
+</TR><TR ALIGN="center">
+<TH>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>[<A HREF="#9">9</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#10">10</A>,<A HREF="#11">11</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#12">12</A>]
+<P>
+<B>Comment:</B> Cm was first characterized as an O-2' or O-3' methyl derivative [<A HREF="#10">10</A>], and subsequently shown to be O-2' [<A HREF="#11">11</A>].
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Bruenger, E., Kowalak, J.A., Kuchino, Y., McCloskey, J.A., Stetter, K.O. and Crain, P.F. (1993) <I>FASEB J.</I>, <B>7</B>, 196-200.
+<LI><A NAME="2"></A>Noon, K.R., Bruenger, E. and McCloskey, J.A. (1998) <I>J. Bacteriol.</I>, <B>180</B>, 2883-2888.
+<LI><A NAME="3"></A>Nichols, J.L. and Lane, B.G. (1966) <I>Can. J. Biochem.</I>, <B>44</B>, 1633-1645.
+<LI><A NAME="4"></A>Morisawa, S. and Chargaff, E. (1963) <I>Biochim. Biophys. Acta</I>, <B>68</B>, 147-149.
+<LI><A NAME="5"></A>MacKay, R.M. and Doolittle, W.F. (1981) <I>Nucleic Acids Res.</I>, <B>9</B>, 3321-3334.
+<LI><A NAME="6"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15.
+<LI><A NAME="7"></A>Thomas, G., Gordon, J. and Rogg, H. (1978) <I>J. Biol. Chem.</I>, <B>253</B>, 1101-1105.
+<LI><A NAME="8"></A>Desrosiers, R., Friderici, K. and Rottman, F. (1974) <I>Proc. Natl. Acad. Sci. USA</I>, <B>71</B>, 3971-3975.
+<LI><A NAME="9"></A>Shibata, H., Ro-Choi, T.S., Reddy, R., Choi, Y.C., Henning, D. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3909-3920.
+<LI><A NAME="10"></A>Smith, J.D. and Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>31</B>, 573-575.
+<LI><A NAME="11"></A>Biswas, B.B. and Myers, J. (1960) <I>Nature</I>, <B>186</B>, 238-239.
+<LI><A NAME="12"></A>Furukawa, Y., Kobayashi, K., Kanai, Y. and Honjo, M. (1965) <I>Chem. Pharm. Bull.</I>, <B>13</B>, 1273-1278.
+<LI><A NAME="13"></A>Guymon, R., Pomerantz, S.C., Ison, J.N., Crain, P.F. and McCloskey, J.A. (2007) <I>RNA</I>, <B>13</B>, 396-403.
+</OL>

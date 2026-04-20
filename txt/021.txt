@@ -1,0 +1,34 @@
+UPDAT=1998.12.15
+CANAM=Cytidine, 5-methyl-
+CANUR=2140-61-6
+CANUB=554-01-8
+COMPO=C10H15N3O5
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>+</TD><TD>&nbsp;</TD><TD>+</TD>
+</TR><TR ALIGN="center">
+<TH>rRNA</TH><TD>16, 23S [<A HREF="#1">1</A>]</TD><TD>16,23S [<A HREF="#2">2</A>]</TD>
+<TD>[<A HREF="#3">3</A>]<BR>17,18,25,28S [<A HREF="#4">4</A>]</TD>
+</TR><TR ALIGN="center">
+<TH>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD>
+<TD>[<A HREF="#5">5</A>]<BR>viral [<A HREF="#6">6</A>]</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#7">7</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#8">8</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Noon, K.R., Bruenger, E. and McCloskey, J.A. (1998) <I>J. Bacteriol.</I>, <B>180</B>, 2883-2888.
+<LI><A NAME="2"></A>Hayashi, Y., Osawa, S. and Miura, K. (1966) <I>Biochim. Biophys. Acta</I>, <B>129</B>, 519-531.
+<LI><A NAME="3"></A>Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>34</B>, 286-287.
+<LI><A NAME="4"></A>Klagsbrun, M. (1973) <I>J. Biol. Chem.</I>, <B>248</B>, 2612-2620.
+<LI><A NAME="5"></A>Dubin, D.T., Stollar, V., Hsu-Chen, C.C., Timko, K. and Guild, G.M. (1977) <I>Virology</I>, <B>77</B>, 457-470.
+<LI><A NAME="6"></A>Sommer, S., Salditt-Georgieff, M., Bachenheimer, S., Darnell, J.E., Furuichi, Y., Morgan, M. and Shatkin, A.J. (1976) <I>Nucleic Acids Res.</I>, <B>3</B>, 749-765.
+<LI><A NAME="7"></A>Amos, H. and Korn, M. (1958) <I>Biochim. Biophys. Acta</I>, <B>29</B>, 444-445.
+<LI><A NAME="8"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187.
+</OL>
+  

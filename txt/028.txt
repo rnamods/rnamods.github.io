@@ -1,0 +1,25 @@
+UPDAT=1999.12.15
+CANAM=Pyrimidinium, 4-amino-2-[(5-amino-5-carboxypentyl)amino]- 1-!b-&D-ribofuranosyl-, chloride, (?S)-
+CANUR=116120-47-9
+CANUB=
+COMPO=C15H25N5O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>+</TD><TD>&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Comment:</B> The registry number and Chemical Abstracts Index Name listed are for the chloride salt. The registry number (144796-96-3) and
+Chemical Abstracts Index Name (<TT>L</TT>-Lysine, <I>N</I><SUP>6</SUP>-(1,4-dihydro-4-imino- 1-<FONT FACE="symbol">b</FONT>-<TT>D</TT>-ribofuranosyl-2-pyrimidinyl)-) assigned to the 
+neutral nucleoside are less effective in retrieval of lysidine literature. Alternate symbols are L and acp<SUP>2</SUP>C. The latter symbol is not recommended because the notation acp has a different 
+structural definition, and is more commonly used in nucleoside acp<SUP>3</SUP>U. The common name &quot;lysidine&quot; was previously assigned to 4,5-dihydro-2-methyl-1<I>H</I>-imidazole (registry number 534-26-9).
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Muramatsu, T., Yokoyama, S., Horie, N., Matsuda, A., Ueda, T., Yamaizumi, Z., Kuchino, Y., Nishimura, S. and Miyazawa, T. (1988) <I>J. Biol. Chem.</I>, <B>263</B>, 9261-9267.
+</OL>

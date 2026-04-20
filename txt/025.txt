@@ -1,0 +1,20 @@
+UPDAT=1998.10.14
+CANAM=Cytidine, 5-formyl-
+CANUR=148608-53-1
+CANUB=
+COMPO=C10H13N3O6
+
+<TR ALIGN="center">
+<TH>tRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>mitochondria</TD>
+</TR>
+</TABLE>
+
+<P>
+<B>Structure:</B> [<A HREF="#1">1</A>]
+<P>
+<B>Synthesis:</B> [<A HREF="#1">1</A>]
+<P><HR>
+<B>References</B>
+<OL>
+<LI><A NAME="1"></A>Moriya, J., Yokogawa, T., Wakita, K., Ueda, T., Nishikawa, K., Crain, P.F., Hashizume, T., Pomerantz, S.C., McCloskey, J.A., Kawai, G., Hayashi, N., Yokoyama, S. and Watanabe, K. (1994) <I>Biochemistry</I>, <B>33</B>, 2234-2239.
+</OL>
