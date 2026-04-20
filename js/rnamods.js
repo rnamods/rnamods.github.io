@@ -29,6 +29,13 @@ tbody.appendChild(tr);
 }
 //------------------------------------------
 function doDetail(nr,txt) {
+var fn = baseurl + "txt/rnawrap.txt";
+if (nr == "000") {
+  fetch(fn)
+    .then( r => r.text() )
+    .then( t => doMenu('output',t) );
+  return;
+  }
 var txtarr = txt.split("\n");
 var i = txtarr.length;
 while (i--) {
@@ -40,12 +47,8 @@ while (i--) {
   if (thevar == "CANUB=") {mycanub = txtarr[i].substring(6);txtarr.splice(i,1);}
   if (thevar == "UPDAT=") {myupdat = txtarr[i].substring(6);txtarr.splice(i,1);}
   }
-var fn = baseurl + "txt/rnawrap.txt";
-var rc = [];
-if (nr > 0) {
-  rc = thedata.filter(option => option.startsWith(nr));
-  rc = rc[0].split("|");
-  }
+var rc = thedata.filter(option => option.startsWith(nr));
+rc = rc[0].split("|");
 fetch(fn)
   .then( r => r.text() )
   .then( t => {
