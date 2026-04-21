@@ -205,17 +205,13 @@ br.clearit {
 	padding:5px;
 	}
 
-.phylotable tr.dark {
+tr.dark {
 	background:#CCC;
 	}
 
 .phylotable tr, .phylotable td, .phylotable th {
 	text-align:center;
 	font-size:10pt;
-	}
-
-.phylotable td.comment {
-	text-align:left;
 	}
 
 .comment {
