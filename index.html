@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <TITLE>RNAmods - The RNA Modification Database</TITLE>
 <META name='TITLE' content='The RNA Modification Database'>
@@ -12,11 +13,11 @@
 <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 
-<body onLoad="loadInit();")>
+<body onLoad="loadInit();")> 
 <div id='wrap'>
 
 <div id='header'>
-<div id='banner'>&nbsp;<IMG SRC='images/rnamods.gif' CLASS='printonly'></div>
+<div id='banner'>&nbsp;<IMG SRC='images/rnamods.gif' CLASS='printonly' ALT='banner'></div>
 <DIV class='gr'>
 <UL id='nav'>
 <LI><A HREF="#" onClick="loadShow('txt/rnahome.txt');">HOME</A></LI>
@@ -65,8 +66,8 @@
    <thead>
      <tr bgcolor="#CCCCCC">
      <th><A HREF="#" onClick="sortTable('.');">id</A></th>
-	 <th><A HREF="#" onClick="sortTable('B');">symbol</th>
-	 <th><A HREF="#" onClick="sortTable('N');">name</th>
+	 <th><A HREF="#" onClick="sortTable('B');">symbol</A></th>
+	 <th><A HREF="#" onClick="sortTable('N');">name</A></th>
 	 <th><A HREF="#" onClick="sortTable('M');">mass</A></th>
 	 </tr>   
    </thead>
@@ -85,9 +86,9 @@
 </div> <!-- end wrap -->
 
 <NOSCRIPT>
-<BLINK>Note:</BLINK> <B>JavaScript has to be enabled in order to be able to use all the functions at this web site.</B>
+Note: <B>JavaScript has to be enabled in order to be able to use all the functions at this web site.</B>
 </NOSCRIPT>
 
-<script type="text/javascript" src="js/rnamods.min.js"></script>
+<script src="js/rnamods.min.js"></script>
 </body>
 </html>
