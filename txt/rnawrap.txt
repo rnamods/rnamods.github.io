@@ -17,7 +17,7 @@
 
 </TD></TR></TABLE>
 <P>
-<TABLE WIDTH='675px' class='phylotable'>
+<TABLE WIDTH='675px' class='aTable'>
 <TR class='dark'>
 <TH ROWSPAN=2>RNA</TH><TH COLSPAN=3>phylogenetic source</TH>
 </TR><TR class='dark'>
