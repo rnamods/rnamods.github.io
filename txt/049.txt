@@ -14,11 +14,11 @@ COMPO=C12H16N6O5
 <P>
 <B>Synthesis:</B> [<A HREF="#1">1</A>]
 <P>
-<B>Comment:</B> Symbol G<SUP>+</SUP> was assigned based on the positive charge carried by the nucleoside, as noted at the time of its original discovery [<A HREF="#2">2</A>];
+<B>Comment:</B> Symbol G#+ was assigned based on the positive charge carried by the nucleoside, as noted at the time of its original discovery [<A HREF="#2">2</A>];
 G* or G*-15 have been used but are no longer preferred. Alternate name is 7-formamidino-7-deazaguanosine.
-The Chemical Abstracts Index Name is based on nomenclature for the 4(1<I>H</I>)-quinazolinone ring system.
+The Chemical Abstracts Index Name is based on nomenclature for the 4(1?H)-quinazolinone ring system.
 Chemical synthesis of the corresponding base is reported in [<A HREF="#3">3</A>].<BR>
-The bacterial nucleoside <A HREF='http://library.med.utah.edu/cgi-bin/rnashow.cgi?047'>preQ<SUB>0</SUB></A> is a biosynthetic precursor of G<SUP>+</SUP> [<A HREF="#4">4</A>].
+The bacterial nucleoside preQ_0</A> is a biosynthetic precursor of G#+ [<A HREF="#4">4</A>].
 <P><HR>
 <B>References</B>
 <OL>
