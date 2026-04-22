@@ -13,7 +13,7 @@
 
 <HR NOSHADE SIZE=1>
 
-The RNA modification database was created by prof. James McCLoskey and coworkers and provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained here as an updated version of the initial printed report [<A HREF="#refs">1</A>].
+The RNA modification database was created by prof. James McCloskey and coworkers and provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained here as an updated version of the initial printed report [<A HREF="#refs">1</A>].
 <P>
 Both the chemical and structural diversity and extent of posttranscriptional modification in RNA is remarkable [<A HREF="#refs">1-5</A>],
 with 114 different nucleosides presently known in all types of RNA.
@@ -108,7 +108,7 @@ Comments concerning format, omissions or newly published material are solicited.
 <LI>Limbach, P.A., Crain, P.F. and McCloskey, J.A. (1994) <I>Nucleic Acids Res.</I> <B>22</B>, 2183-2196.
 <LI>Czerwoniec, A., Dunin-Horkawicz, S., Purta, E., Kaminska, K.H., Kasprzak, J.M., Bujnicki, J.M., Grosjean, H. and Rother, K. (2009) <I>Nucleic Acids Res.</I> <B>37, Database issue</B>, D118-D121.
 <LI>McCloskey, J.A. (2001) In S&ouml;ll, D., Nishimura, S. and Moore, P.B. (eds.), RNA. Elsevier, Amsterdam, pp. 309-316.
-<LI>Motorin, Y. and Grosjean, H. (1998)  In Gorsjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, D.C., pp. 543-549.
+<LI>Motorin, Y. and Grosjean, H. (1998)  In Grosjean, H. and Benne, R. (eds.) Modification and Editing of RNA. ASM Press, Washington, D.C., pp. 543-549.
 <LI>J&uuml;hling, F., M&ouml;rl, M., Hartmann, R.K., Sprinzl, M., Stadler, P.F. and Joern P&uuml;tz (2009) <I>Nucleic Acids Res.</I> <B>37, Database issue</B>, D159-D162.
 
 <LI>Yokoyama, S. and Nishimura, S. (1995) In S&ouml;ll, D. and RajBhandary,U.L. (eds.), tRNA Structure, Biosynthesis, and Function. American Society for Microbiology, Washington, DC, pp. 207-223.
