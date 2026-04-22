@@ -33,8 +33,8 @@ The authors invite comments concerning new entries, errors or omissions and on t
 <LI><B>Comments on usage of nucleoside symbols</B>
 <P>
 In general, the symbol "N" is preferred for modified nucleosides of unknown structure, or "Nm" if ribose methylation of O-2' has been established.
-If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of "X" for an unknown nucleoside is not recommended because of confusion with the nucleoside acp<SUP>3</SUP>U (see comment in the acp<SUP>3</SUP>U file).  The superscript "x" is useful to indicate a form of modification without designation of position; for example "m<SUP>x</SUP>C" for cytidine monomethylated in the base at an unknown or unspecified position.
-Likewise "x" is sometimes used in the fashion "x<SUP>5</SUP>s<SUP>2</SUP>U", as to generically designate 5-substituted derivatives of 2-thiouridine.
+If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of "X" for an unknown nucleoside is not recommended because of confusion with the nucleoside acp#3U (see comment in the acp#3U file).  The superscript "x" is useful to indicate a form of modification without designation of position; for example "m#xC" for cytidine monomethylated in the base at an unknown or unspecified position.
+Likewise "x" is sometimes used in the fashion "x#5s#2U", as to generically designate 5-substituted derivatives of 2-thiouridine.
 The use of "m" for "modified", as in "mA" (occasionally used in the rRNA literature) is strongly discouraged because of the ambiguity associated with use of simply "m" for methylation.
 <P>
 Additional comments are found under 'Symbol' in the <A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>Description of Entries</A> section.
@@ -61,10 +61,10 @@ and is presently believed to be formed <I>in vitro</I> during tRNA isolation [<A
 In addition, entries have not been made for natural modified nucleosides that have been only partially characterized.  Several examples are as follows:
 <P>
 <UL>
-<LI>An unknown <I>E. coli</I> tRNA nucleoside, initially discovered by S. Yokoyama [<A HREF="#refs">14</A>] Tokyo University, designated t<SUP>6</SUP>A* [<A HREF="#refs">15</A>] with unmodified ribose; M<SUB>r</SUB> 412, elutes before or concominent with adenosine in RPHPLC. 
+<LI>An unknown <I>E. coli</I> tRNA nucleoside, initially discovered by S. Yokoyama [<A HREF="#refs">14</A>] Tokyo University, designated t#6A* [<A HREF="#refs">15</A>] with unmodified ribose; M_r 412, elutes before or concominent with adenosine in RPHPLC. 
 <LI>An unknown modified C was reported in <I>E. coli</I> 23S rRNA in very low amounts at position 2501, corresponding in mass to C plus net addition of 16 daltons [<A HREF="#refs">16</A>].  
-<LI>A new derivative of 5-methylaminomethyl-2-thiouridine (mnm<SUP>5</SUP>s<SUP>2</SUP>U), in which a C<SUB>10</SUB>H<SUB>17</SUB> side chain of unknown structure is attached to S-2 [<A HREF="#refs">17</A>].  
-<LI>An unusual derivative of cytidine, designated N-330, was sequenced to position 1404 in SSU rRNA of the bacterium <I>Thermotoga maritima</I>; M<SUB>r</SUB> 330.117, t<SUB>r</SUB> (HPLC) 3.7 min, with unmodified ribose [<A HREF="#refs">18</A>].
+<LI>A new derivative of 5-methylaminomethyl-2-thiouridine (mnm#s#2U), in which a C_1_0H_1_7 side chain of unknown structure is attached to S-2 [<A HREF="#refs">17</A>].  
+<LI>An unusual derivative of cytidine, designated N-330, was sequenced to position 1404 in SSU rRNA of the bacterium <I>Thermotoga maritima</I>; M_r 330.117, t_r (HPLC) 3.7 min, with unmodified ribose [<A HREF="#refs">18</A>].
 </UL>
 <P>
 <A NAME="list"></A>
