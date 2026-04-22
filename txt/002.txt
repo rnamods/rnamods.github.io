@@ -16,7 +16,7 @@ COMPO=C11H15N5O4
 <P>
 <B>Synthesis:</B> [<A HREF="#4">4</A>]
 <P>
-<B>Comment:</B> Although ref [<A HREF="#1">1</A>] reports m<SUP>2</SUP>A to be in a mixture of SSU and LSU subunits, various more recent studies have shown that m<SUP>2</SUP>A is not present in the bacterial SSU (see <A HREF='http://library.med.utah.edu/SSUmods/'>SSU database</A>) but is in the LSU [5].
+<B>Comment:</B> Although ref [<A HREF="#1">1</A>] reports m<SUP>2</SUP>A to be in a mixture of SSU and LSU subunits, various more recent studies have shown that m<SUP>2</SUP>A is not present in the bacterial SSU but is in the LSU [5].
 <P><HR>
 <B>References</B>
 <OL>
