@@ -23,7 +23,7 @@ COMPO=C10H14N2O6
 <P>
 <B>Synthesis:</B> [<A HREF="#11">11</A>]
 <P>
-<B>Comment:</B> First characterized as an O-2' or O-3' methyl derivative [<A HREF="#3">3</A>], and subsequently shown to be O-2' [<A HREF="#10">10</A>].
+<B>Comment:</B> First characterized as an ?O-2' or ?O-3' methyl derivative [<A HREF="#3">3</A>], and subsequently shown to be ?O-2' [<A HREF="#10">10</A>].
 <P><HR>
 <B>References</B>
 <OL>
