@@ -10,7 +10,7 @@ COMPO=C13H19N5O5
 <TD COLSPAN=3 CLASS='comment'>Comment: This 5'-cap nucleoside is joined to the RNA through
 a unique triphosphate bridge [Gp(5'-5')ppNp...]. This nucleoside is rare in mRNA.</TD>
 </TR><TR ALIGN="center">
-<TH ROWSPAN=2 CLASS='comment'>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
+<TH ROWSPAN=2>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
 </TR><TR>
 <TD COLSPAN=3 CLASS='comment'>Comment: The m<SUP>2,2,7</SUP>G cap nucleoside is also found in U3 RNA from the nucleolus.<BR>
 For review of the trimethylguanosine cap structures see [<A HREF="#6">6</A>]</TD>
