@@ -14,7 +14,7 @@ COMPO=C13H19N5O4
 <P>
 <B>Synthesis:</B> [<A HREF="#1">1</A>, <A HREF="#2">2</A>]
 <P>
-<B>Comment:</B> Presence of m<SUP>6</SUP><SUB>2</SUB>Am in adenovirus mRNA was inferred from <SUP>3</SUP>H labeling data,
+<B>Comment:</B> Presence of m#6_2Am in adenovirus mRNA was inferred from #3H labeling data,
 but it was not chemically characterized [<A HREF="#3">3</A>].
 <P><HR>
 <B>References</B>
