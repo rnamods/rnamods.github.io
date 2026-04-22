@@ -13,7 +13,7 @@ COMPO=C17H25N5O4S2
 <P>
 <B>Synthesis:</B> none reported
 <P>
-<B>Comment:</B> Structure elucidation based on pseudo-MS3 experiments compared with i<SUP>6</SUP>A and ms<SUP>2</SUP>i<SUP>6</SUP>A.
+<B>Comment:</B> Structure elucidation based on pseudo-MS#3 experiments compared with i#6A and ms#2i#6A.
 <HR>
 <B>References</B>
 <OL>
