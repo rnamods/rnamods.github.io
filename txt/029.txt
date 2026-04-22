@@ -18,7 +18,7 @@ COMPO=C11H15N5O5
 <P>
 <B>Synthesis:</B> [<A HREF="#7">7</A>]
 <P>
-<B>Comment:</B> Although the report in ref [<A HREF="#1">1</A>] does not distinguish between the two subunits in bacteria, contemporary knowledge shows that m<SUP>1</SUP>G is not in the bacterial SSU (see <A HREF='http://library.med.utah.edu/SSUmods/'>SSU database</A>) but is in the LSU (see table in Database section on rRNA modification).
+<B>Comment:</B> Although the report in ref [<A HREF="#1">1</A>] does not distinguish between the two subunits in bacteria, contemporary knowledge shows that m#1G is not in the bacterial SSU but is in the LSU (see table in Database section on rRNA modification).
 <P><HR>
 <B>References</B>
 <OL>
