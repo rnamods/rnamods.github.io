@@ -69,6 +69,10 @@ a:hover {
 	color:#999;
 	}
 
+#thedata dt {
+	font-weight: bold;
+	}
+
 .orangebar {
 	background:#FC3;
 	color:#009;
