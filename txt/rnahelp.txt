@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='doMenu("input","");'>&#x21e6; back to the search page</A></div><div class='rlink'>&nbsp;</div>help: search the database</div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='doMenu("input","");'>&#x22d8; back to the search page</A></div><div class='rlink'>&nbsp;</div>help: search the database</div>
 <div class='thetext'>
 
 In order to reduce and restrict the output, several search options are available.<P>
@@ -32,5 +32,5 @@ Clicking this button will reset all the options to their defaults and will clear
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='doMenu("input","");'>&#x21e6; back to the search page</A></div></div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='doMenu("input","");'>&#x22d8; back to the search page</A></div></div>
 </div> <!-- textframe -->
