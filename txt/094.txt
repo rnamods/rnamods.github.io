@@ -14,9 +14,7 @@ COMPO=C10H14N2O6
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>, <A HREF="#3">3</A>]
 <P>
-<B>Comment:</B> Preparation of m<SUP>3</SUP><FONT FACE="symbol">Y</FONT> was reported in [<A HREF="#2">2</A>] as one of several 
-products formed by reaction of <FONT FACE="symbol">Y</FONT> with diazomethane;
-however, the structure assignment of the synthetic material was regarded as tentative.
+<B>Comment:</B> Preparation of m#3#!Y was reported in [<A HREF="#2">2</A>] as one of several roducts formed by reaction of !Y with diazomethane; however, the structure assignment of the synthetic material was regarded as tentative.
 <P><HR>
 <B>References</B>
 <OL>
