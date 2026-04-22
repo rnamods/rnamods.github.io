@@ -221,7 +221,7 @@ br._clearit {
 	font-size:10pt;
 	}
 
-.comment, .aTable .left {
+.comment, .aTable td.left {
 	text-align:left;
 	}
 
