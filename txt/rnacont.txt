@@ -5,7 +5,7 @@
 For more information, permission to use or other requests, contact the curators:<P>
 
 <center>
-<A HREF='&#x006d;ai&#x006c;to&#x003a;RNA&#x006d;ods&#x0040;&#x0067;ma&#x0069;l.&#x0063;om&subject=the RNA Modification Database'>RNA&#x006d;ods&#x0040;&#x0067;ma&#x0069;l.&#x0063;om</A><P>
+<A HREF='&#x006d;ai&#x006c;to&#x003a;RNA&#x006d;ods&#x0040;&#x0067;ma&#x0069;l.&#x0063;om&#x0026;subject=the RNA Modification Database'>RNA&#x006d;ods&#x0040;&#x0067;ma&#x0069;l.&#x0063;om</A><P>
 </center>
 
 </div> <!-- thetext -->
