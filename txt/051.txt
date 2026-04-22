@@ -11,13 +11,13 @@ COMPO=C9H14N2O6
 </TR><TR ALIGN="center">
 <TH ROWSPAN=2>sn RNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment:  Dihydrouridine is reported in a total enzymatic digest of nuclear 5S RNA from rat [<A HREF="#3">3</A>].
+<TD COLSPAN=3 CLASS='comment'>Comment:  Dihydrouridine is reported in a total enzymatic digest of nuclear 5S RNA from rat [<A HREF="#3">3</A>].
 However, this sole report of D in snRNA was not verified by sequencing of the RNA because pD could not be distinguished from pU [<A HREF="#3">3</A>].</TD>
 
 </TR><TR ALIGN="center">
 <TH ROWSPAN=2>chromosomal RNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#4">4</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment:  This RNA is reported as a chromatin-associated 3.2-3.8S species,
+<TD COLSPAN=3 CLASS='comment'>Comment:  This RNA is reported as a chromatin-associated 3.2-3.8S species,
 with an unusual concentration of dihydropyrimidine nucleosides, but its occurrence as a separate class of RNA remains controversial. For review, see [<A HREF="#5">5</A>].</TD>
 </TR>
 </TABLE>
