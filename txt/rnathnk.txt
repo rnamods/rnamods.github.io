@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div CLASS="llink"><A HREF='#' onClick='loadShow("txt/rnaupda.txt");'>&#x22d8; updates</A></div>thanks</div>
+<div class='orangebar'><div CLASS="llink"><A HREF='#' onClick='loadShow("txt/rnaupda.txt");'>&#x22d8; updates</A></div>thanks<div CLASS='rlink'></div></div>
 <div class='thetext'>
 
 <UL TYPE="square">
