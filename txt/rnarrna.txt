@@ -39,7 +39,7 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TH>Location</TH><TH>Modification</TH>
 </TR><TR>
 <TD>516</TD>
-<TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
+<TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
 <TD>527</TD>
 <TD>m<SUP>7</SUP>G</TD>
@@ -104,7 +104,7 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD>2449</TD><TD>D</TD>
 </TR><TR>
-<TD>2457</TD><TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
+<TD>2457</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
 <TD>2498</TD><TD>Cm</TD>
 </TR><TR>
@@ -112,13 +112,13 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD>2503</TD><TD>m<SUP>2</SUP>A</TD>
 </TR><TR>
-<TD>2504</TD><TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
+<TD>2504</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
 <TD>2552</TD><TD>Um</TD>
 </TR><TR>
-<TD>2580</TD><TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
+<TD>2580</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
-<TD>2605</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+<TD>2605</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR>
 </TABLE>
 </TD>
