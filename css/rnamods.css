@@ -84,20 +84,6 @@ a:hover {
 	height:18px;
 	}
 
-._or {
-	color:#FC3;
-	}
-
-._bl {
-	background:#FFFFEE;
-	background:#009;
-	}
-
-._bb {
-	font-weight:bold;
-	height:18px;
-	}
-
 .thetext {
 	padding:5px;
 	}
@@ -137,10 +123,6 @@ a:hover {
 #myTable tr td:nth-child(1) { width: 5%; }
 #myTable tr td:nth-child(2) { width: 15%; }
 #myTable tr td:nth-child(4) { width: 10%; }
-
-._whitespace {
-	height:500px;
-	}
 
 #nav, #nav ul {
 	padding:0;
@@ -197,12 +179,30 @@ br._clearit {
 	clear:both;
 	}
 
+._whitespace {
+	height:500px;
+	}
+
+._or {
+	color:#FC3;
+	}
+
+._bl {
+	background:#FFFFEE;
+	background:#009;
+	}
+
+._bb {
+	font-weight:bold;
+	height:18px;
+	}
+
 .gr {
 	margin:0px 0px 0px 25px;
 	text-align:center;
 	}
 
-.phylotable {
+.aTable {
 	background:#EEE;
 	text-align:left;
 	border:1px solid #999;
@@ -211,41 +211,20 @@ br._clearit {
 	border-collapse: collapse;
 	}
 
-.phylotable td, .phylotable th  {
+.aTable td, .phylotable th  {
 	border:1px solid #999;
 	padding:5px;
+	}
+
+.aTable tr, .aTable td, .aTable th {
+	text-align:center;
+	font-size:10pt;
 	}
 
 tr.dark {
 	background:#CCC;
 	}
 
-.phylotable tr, .phylotable td, .phylotable th {
-	text-align:center;
-	font-size:10pt;
-	}
-
-#seartable td, .comment {
-	text-align:left;
-	}
-
 .printonly {
 	display:none;
-	}
-
-#_seartable {
-	border:1px solid #999;
-	padding:0px;
-	margin:25px auto;
-	border-collapse: collapse;
-	}
-
-#_seartable td, #seartable th  {
-	border:1px solid #999;
-	padding:5px;
-	margin:0px;
-	}
-
-#_seartable tr, #seartable td , #seartable th {
-	font-size:10pt;
 	}
