@@ -14,7 +14,7 @@ COMPO=C12H19N3O8S2
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comments:</B> Alternate symbol is taum<SUP>5</SUP>s<SUP>2</SUP>U. See also [<A HREF="#3">3</A>]
+<B>Comments:</B> Alternate symbol is taum#5s#2U. See also [<A HREF="#3">3</A>]
 <P><HR>
 <B>References</B>
 <OL>
