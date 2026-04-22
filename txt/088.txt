@@ -7,7 +7,7 @@ COMPO=C12H17N5O4
 <TR ALIGN="center">
 <TH ROWSPAN=2>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment:  The structure was announced in [<A HREF="#2">2</A>] without data for characterization.</TD>
+<TD COLSPAN=3 CLASS='comment'>Comment:  The structure was announced in [<A HREF="#2">2</A>] without data for characterization.</TD>
 </TR><TR ALIGN="center">
 <TH>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#2">2</A>]</TD>
 </TR>
