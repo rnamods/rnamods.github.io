@@ -14,7 +14,7 @@ COMPO=C12H19N3O9S
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comments:</B> Alternate symbol is tau<SUP>5</SUP>U. See also [<A HREF="#3">3</A>]
+<B>Comments:</B> Alternate symbol is tau#5U. See also [<A HREF="#3">3</A>]
 <P><HR>
 <B>References</B>
 <OL>
