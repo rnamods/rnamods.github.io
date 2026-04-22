@@ -6,7 +6,7 @@ The database currently (July 5, 2000) contains <B>96 modified ribonucleoside ent
 
 <P>
 <CENTER>
-<TABLE WIDTH='575px' class='phylotable'>
+<TABLE WIDTH='575px' class='aTable'>
 <TR class='dark'>
 <TH ROWSPAN=2>RNA</TH><TH COLSPAN=3>Source</TH>
 </TR><TR class='dark'>
