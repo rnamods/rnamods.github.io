@@ -15,9 +15,8 @@ COMPO=C15H25N5O6
 <B>Synthesis:</B> [<A HREF="#1">1</A>]
 <P>
 <B>Comment:</B> The registry number and Chemical Abstracts Index Name listed are for the chloride salt. The registry number (144796-96-3) and
-Chemical Abstracts Index Name (<TT>L</TT>-Lysine, <I>N</I><SUP>6</SUP>-(1,4-dihydro-4-imino- 1-<FONT FACE="symbol">b</FONT>-<TT>D</TT>-ribofuranosyl-2-pyrimidinyl)-) assigned to the 
-neutral nucleoside are less effective in retrieval of lysidine literature. Alternate symbols are L and acp<SUP>2</SUP>C. The latter symbol is not recommended because the notation acp has a different 
-structural definition, and is more commonly used in nucleoside acp<SUP>3</SUP>U. The common name &quot;lysidine&quot; was previously assigned to 4,5-dihydro-2-methyl-1<I>H</I>-imidazole (registry number 534-26-9).
+Chemical Abstracts Index Name (&L-Lysine, ?N#6-(1,4-dihydro-4-imino- 1-!b-&D-ribofuranosyl-2-pyrimidinyl)-) assigned to the 
+neutral nucleoside are less effective in retrieval of lysidine literature. Alternate symbols are L and acp#2C. The latter symbol is not recommended because the notation acp has a different structural definition, and is more commonly used in nucleoside acp#3U. The common name &quot;lysidine&quot; was previously assigned to 4,5-dihydro-2-methyl-1!H-imidazole (registry number 534-26-9).
 <P><HR>
 <B>References</B>
 <OL>
