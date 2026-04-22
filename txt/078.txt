@@ -14,8 +14,8 @@ COMPO=C13H19N3O8
 <P>
 <B>Synthesis:</B> [<A HREF="#1">1</A>]
 <P>
-<B>Comment:</B> Alternate symbol is cmam<SUP>5</SUP>Um. The natural nucleoside from <I>E. coli</I> tRNA<SUP>Leu</SUP> was originally characterized by comparison of its NMR spectrum with that of synthetic material [<A HREF="#1">1</A>].
-The discovery of cmnm<SUP>5</SUP>Um is cited in [<A HREF="#1">1</A>] as a meeting abstract [<A HREF="#2">2</A>], in which, however, the compound is neither named nor structural data presented.
+<B>Comment:</B> Alternate symbol is cmam#5Um. The natural nucleoside from <I>E. coli</I> tRNA<SUP>Leu</SUP> was originally characterized by comparison of its NMR spectrum with that of synthetic material [<A HREF="#1">1</A>].
+The discovery of cmnm#5Um is cited in [<A HREF="#1">1</A>] as a meeting abstract [<A HREF="#2">2</A>], in which, however, the compound is neither named nor structural data presented.
 A recent and more rigorous structural characterization is reported in [<A HREF="#3">3</A>].
 <P><HR>
 <B>References</B>
