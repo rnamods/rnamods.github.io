@@ -20,7 +20,7 @@
 
 <UL type="square">
 
-<LI><A NAME="RNA_type"></A><B>RNA types</B> have been divided into seven groups, of which tRNA generally contains the greatest structural diversity of modifications.  Some modifications, such as pseudouridine are found in more than one type of RNA.
+<LI><A NAME="RNA_type"></A><B>RNA types</B> have been divided into seven groups, of which tRNA generally contains the greatest structural diversity of modifications. Some modifications, such as pseudouridine are found in more than one type of RNA.
 <P>
    <UL type="circle">
    <LI>tRNA (presently consisting of 92 nucleosides)
@@ -41,19 +41,19 @@ The most commonly used or preferred name is listed. For some nucleosides, additi
 <P>
 The symbols listed follow convention and usage in the literature, even though some of the notations are idiosyncratic.
 In general, terms preceding the principal symbol (A, C, G, U) designate modification in the base, while methylation or ribosylation at O-2' of ribose (the only known ribose modifications in RNA) are designated by "m" or "r" respectively,
-following the principal symbol.  Numerous symbols, many of them inconsistent, have been used for the "Y" family of nucleosides and bases (for example, yW, imG).  The recommended symbols for those nucleosides are given in individual files;
+following the principal symbol. Numerous symbols, many of them inconsistent, have been used for the "Y" family of nucleosides and bases (for example, yW, imG).  The recommended symbols for those nucleosides are given in individual files;
 further discussions are given in the Comments entries, including recommended symbols for the corresponding bases.
 <P>
 <LI><A NAME="CA_registry_number"></A><B>Chemical Abstracts registry number</B>
 <P>
 Registry numbers are listed for the ribonucleoside and base (if assigned).
-The registry numbers may be used in combination with other search terms to allow selective computer-based literature retrievals.  For instance, use of registry number 24719-82-2 (for t<SUP>6</SUP>A) in combination with "synthesis" produces eight citations dealing with the chemical synthesis of t<SUP>6</SUP>A.
+The registry numbers may be used in combination with other search terms to allow selective computer-based literature retrievals.  For instance, use of registry number 24719-82-2 (for t#6A) in combination with "synthesis" produces eight citations dealing with the chemical synthesis of t#6A.
 <P>
 <LI><A NAME="CA_index_name"></A><B>Chemical Abstracts index name</B>
 <P>
 The name given is that assigned to the ribonucleoside.
 It is noted that in a limited number of cases, stereochemical assignment in the name was (correctly) made based on an early literature report, but was then automatically assigned without verification in all subsequent reports.
-For example the amino acid moiety for <I>N</I><SUP>6</SUP>-threonylcarbamoyladenosine (t#6A) is designated by index name and registry number as &L-threonine, 
+For example the amino acid moiety for ?N#6-threonylcarbamoyladenosine (t#6A) is designated by index name and registry number as &L-threonine, 
 with the implication that all later reports of t#6A in tRNA deal specifically with the &L-enantiomer of threonine.
 <P>
 <LI><A NAME="mass"></A><B>Molecular mass and elemental composition</B>
