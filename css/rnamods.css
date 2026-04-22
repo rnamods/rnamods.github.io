@@ -226,7 +226,7 @@ tr.dark {
 	font-size:10pt;
 	}
 
-.comment {
+#seartable td, .comment {
 	text-align:left;
 	}
 
