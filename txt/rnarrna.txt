@@ -66,7 +66,7 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 
 </TD><TD VALIGN="top" WIDTH="50%">
 
-<TABLE WIDTH="100%" CLASS='aTable' STYLE='margin:0px auto;'>>
+<TABLE WIDTH="100%" CLASS='aTable' STYLE='margin:0px auto;'>
 <TR CLASS='dark'>
 <TH COLSPAN=2>23S</TH>
 </TR><TR CLASS='dark'>
