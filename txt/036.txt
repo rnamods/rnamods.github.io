@@ -15,7 +15,7 @@ COMPO=C15H22N5O12P
 <B>Synthesis:</B> [<A HREF="#3">3</A>]
 <P>
 <B>Comment:</B> This structure was initially reported in [<A HREF="#1">1</A>]; more extensive structural data are presented in [<A HREF="#2">2</A>].<BR>
-Gr registry number: 148711-49-3, Chemical Abstracts Index Name: Guanosine, 2'-<I>O</I>-<FONT FACE="symbol">b</FONT>-<TT>D</TT>-ribofuranosyl-.
+Gr registry number: 148711-49-3, Chemical Abstracts Index Name: Guanosine, 2'-?O-!b-&D-ribofuranosyl-.
 <P><HR>
 <B>References</B>
 <OL>
