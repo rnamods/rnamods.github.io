@@ -14,7 +14,7 @@ COMPO=C11H14N2O9
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comment:</B> The Chemical Abstracts registry number listed is for the natural (<I>S</I>)-isomer; the (<I>R</I>)-isomer registry number is 127911-55-1.
+<B>Comment:</B> The Chemical Abstracts registry number listed is for the natural (?S)-isomer; the (?R)-isomer registry number is 127911-55-1.
 <P><HR>
 <B>References</B>
 <OL>
