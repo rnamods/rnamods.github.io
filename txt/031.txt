@@ -9,12 +9,12 @@ COMPO=C11H15N5O5
 </TR><TR ALIGN="center">
 <TH ROWSPAN=2>rRNA</TH><TD>16S [<A HREF="#1">1</A>]</TD><TD>[<A HREF="#2">2</A>]</TD><TD>17, 18S [<A HREF="#3">3</A>]<BR>17, 26S [<A HREF="#4">4</A>]<BR>18, 28S [<A HREF="#5">5</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment:  Although this nucleoside was reported in both 18S and 28S rRNA from HeLa cells [<A HREF="#5">5</A>],
+<TD COLSPAN=3 CLASS='comment'>Comment:  Although this nucleoside was reported in both 18S and 28S rRNA from HeLa cells [<A HREF="#5">5</A>],
 later studies showed it to be confined to the 18S rRNA [<A HREF="#6">6</A>].
 </TR><TR ALIGN="center">
 <TH ROWSPAN=2>mRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#7">7</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment: This 5'-cap nucleoside is joined to the RNA through a unique triphosphate bridge [Gp(5'-5')ppN...]
+<TD COLSPAN=3 CLASS='comment'>Comment: This 5'-cap nucleoside is joined to the RNA through a unique triphosphate bridge [Gp(5'-5')ppN...]
 </TR>
 </TABLE>
 
