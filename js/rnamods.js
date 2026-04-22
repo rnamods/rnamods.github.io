@@ -89,7 +89,7 @@ function formatName(name) { // format name with html
 name = name.replace(/([A-Za-z\,])\#(.)/g,"$1<SUP>$2</SUP>"); // excludes href="#..."
 name = name.replace(/\_(.)/g,"<SUB>$1</SUB>");
 name = name.replace(/\?(.)/g,"<I>$1</I>");
-name = name.replace(/\&([^n])/g,"<SPAN style='font-family:monospace;font-size:0.9em;'>$1</SPAN>"); // excludes &nbsp;
+name = name.replace(/\&([^n\#])/g,"<SPAN style='font-family:monospace;font-size:0.9em;'>$1</SPAN>"); // excludes &nbsp;
 name = name.replace(/\!Y/g,"<SPAN class='mygreek'>&Psi;</SPAN>");
 name = name.replace(/\!a/g,"<SPAN class='mygreek'>&alpha;</SPAN>");
 name = name.replace(/\!b/g,"<SPAN class='mygreek'>&beta;</SPAN>");
