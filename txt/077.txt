@@ -14,7 +14,7 @@ COMPO=C12H17N3O8
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comment:</B> Alternate symbol is cmam<SUP>5</SUP>U.
+<B>Comment:</B> Alternate symbol is cmam#5U.
 <P><HR>
 <B>References</B>
 <OL>
