@@ -41,11 +41,6 @@ a:hover {
 	font-size:10pt;
 	}
 
-.mygreek {
-	font-family:serif;
-	font-size:10pt;
-	}
-
 #header {
 	border:1px solid #900;
 	border:1px solid #999;
@@ -76,6 +71,11 @@ a:hover {
 	font-weight: bold;
 	}
 
+.mygreek {
+	font-family:serif;
+	font-size:10pt;
+	}
+
 .orangebar {
 	background:#FC3;
 	color:#009;
@@ -84,16 +84,16 @@ a:hover {
 	height:18px;
 	}
 
-.or {
+._or {
 	color:#FC3;
 	}
 
-.bl {
+._bl {
 	background:#FFFFEE;
 	background:#009;
 	}
 
-.bb {
+._bb {
 	font-weight:bold;
 	height:18px;
 	}
@@ -138,7 +138,7 @@ a:hover {
 #myTable tr td:nth-child(2) { width: 15%; }
 #myTable tr td:nth-child(4) { width: 10%; }
 
-.whitespace {
+._whitespace {
 	height:500px;
 	}
 
@@ -193,11 +193,11 @@ a:hover {
 	width:210px;
 	}
 
-br.clearit {
+br._clearit {
 	clear:both;
 	}
 
-.gr {
+._gr {
 /*	background:#EEE;*/
 	margin:0px 0px 0px 25px;
 	text-align:center;
@@ -234,19 +234,19 @@ tr.dark {
 	display:none;
 	}
 
-#seartable {
+#_seartable {
 	border:1px solid #999;
 	padding:0px;
 	margin:25px auto;
 	border-collapse: collapse;
 	}
 
-#seartable td, #seartable th  {
+#_seartable td, #seartable th  {
 	border:1px solid #999;
 	padding:5px;
 	margin:0px;
 	}
 
-#seartable tr, #seartable td , #seartable th {
+#_seartable tr, #seartable td , #seartable th {
 	font-size:10pt;
 	}
