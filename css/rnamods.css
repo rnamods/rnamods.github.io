@@ -3,13 +3,13 @@ body, html {
 	padding:0px;
 	background:#F9F9F9;
 	color:#009;
+	position:absolute;
+	left:0px;
+	top:0px;
 	}
 
 body {
 	min-width:770px;
-	position:absolute;
-	left:0px;
-	top:0px;
 	}
 
 a {
