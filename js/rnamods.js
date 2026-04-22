@@ -179,6 +179,7 @@ const thesrt = getRadioVal("SRT");
 const searchtxt = getSearchtxt();
 const searchterm = searchtxt.split(' ');
 if (searchtxt.search(/\d\d\d/)) {
+	console.log('windowlocation ' + searchtxt + " ...");
   window.location.replace("https://rnamods.github.io/?" + searchtxt);
   }
 var mybool;
