@@ -15,8 +15,8 @@ COMPO=C10H15N3O5
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comment:</B> The base (m<SUP>4</SUP>Cyt) was previously reported in acid-treated HeLa rRNA,
-and was presumed to have originated from <I>N</I><SUP>4</SUP>,2'-<I>O</I>-dimethylcytidine [<A HREF="#3">3</A>].
+<B>Comment:</B> The base (m#4Cyt) was previously reported in acid-treated HeLa rRNA,
+and was presumed to have originated from ?N#4,2'-?O-dimethylcytidine [<A HREF="#3">3</A>].
 <P><HR>
 <B>References</B>
 <OL>
