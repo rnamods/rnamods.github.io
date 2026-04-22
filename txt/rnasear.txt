@@ -10,7 +10,7 @@
 <TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH>
 
 </TR><TR VALIGN='top'>
-<TD WIDTH="25%"  ALIGN='left'>
+<TD WIDTH="25%">
 <INPUT NAME='NUC' TYPE='radio' VALUE='.' CHECKED>all<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='A'>adenosines<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='I'>inosines<BR>
@@ -18,7 +18,7 @@
 <INPUT NAME='NUC' TYPE='radio' VALUE='G'>guanosines<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='Q'>7-deazaguanosines<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='U'>uridines<BR>
-</TD><TD WIDTH="25%" ALIGN='left'>
+</TD><TD WIDTH="25%">
 <INPUT NAME='RNA' TYPE='radio' VALUE='.' CHECKED>from all<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='T'>tRNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='R'>rRNA (all)<BR>
@@ -31,12 +31,12 @@
 <INPUT NAME='RNA' TYPE='radio' VALUE='N'>snRNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='H'>chromosomal RNA<BR>
 <INPUT NAME='RNA' TYPE='radio' VALUE='O'>other small RNA<BR>
-</TD><TD WIDTH="25%" ALIGN='left'>
+</TD><TD WIDTH="25%">
 <INPUT NAME='PHY' TYPE='radio' VALUE='.' CHECKED>from all<BR>
 <INPUT NAME='PHY' TYPE='radio' VALUE='a'>from Archaea<BR>
 <INPUT NAME='PHY' TYPE='radio' VALUE='b'>from Bacteria<BR>
 <INPUT NAME='PHY' TYPE='radio' VALUE='e'>from Eukarya<BR>
-</TD><TD ALIGN='left'>
+</TD><TD>
 Output sorted by:<P>
 <INPUT NAME='SRT' TYPE='radio' VALUE='.' CHECKED>entry number<BR>
 <INPUT NAME='SRT' TYPE='radio' VALUE='B'>base type<BR>
