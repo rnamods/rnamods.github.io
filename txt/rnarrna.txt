@@ -44,23 +44,23 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 <TD>527</TD>
 <TD>m<SUP>7</SUP>G</TD>
 </TR><TR>
-<TD>966</TD><TD>m<SUP>2</SUP>G</TD>
+<TD>966</TD><TD>m#2G</TD>
 </TR><TR >
-<TD>967</TD><TD>m<SUP>5</SUP>C</TD>
+<TD>967</TD><TD>m#5C</TD>
 </TR><TR>
-<TD>1207</TD><TD>m<SUP>2</SUP>G</TD>
+<TD>1207</TD><TD>m#2G</TD>
 </TR><TR>
-<TD>1402</TD><TD>m<SUP>4</SUP>Cm</TD>
+<TD>1402</TD><TD>m#4Cm</TD>
 </TR><TR>
-<TD>1407</TD><TD>m<SUP>5</SUP>C</TD>
+<TD>1407</TD><TD>m#5C</TD>
 </TR><TR>
-<TD>1498</TD><TD>m<SUP>3</SUP>U</TD>
+<TD>1498</TD><TD>m#3U</TD>
 </TR><TR>
-<TD>1516</TD><TD>m<SUP>2</SUP>G</TD>
+<TD>1516</TD><TD>m#2G</TD>
 </TR><TR>
-<TD>1518</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
+<TD>1518</TD><TD>m#6_2A</TD>
 </TR><TR>
-<TD>1519</TD><TD>m<SUP>6</SUP><SUB>2</SUB>A</TD>
+<TD>1519</TD><TD>m#6_2A</TD>
 </TR>
 </TABLE>
 
@@ -72,31 +72,31 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR CLASS='dark'>
 <TH>Location</TH><TH>Modification</TH>
 </TR><TR>
-<TD>745</TD><TD>m<SUP>1</SUP>G</TD>
+<TD>745</TD><TD>m#1G</TD>
 </TR><TR>
-<TD>746</TD><TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
+<TD>746</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
-<TD>747</TD><TD>m<SUP>5</SUP>U (T)</TD>
+<TD>747</TD><TD>m#5U (T)</TD>
 </TR><TR>
-<TD>955</TD><TD><FONT FACE="symbol">Y</FONT></TD>
+<TD>955</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
-<TD>1618</TD><TD>m<SUP>6</SUP>A</TD>
+<TD>1618</TD><TD>m#6A</TD>
 </TR><TR>
-<TD>1835</TD><TD>m<SUP>2</SUP>G</TD>
+<TD>1835</TD><TD>m#2G</TD>
 </TR><TR>
-<TD>1911</TD><TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
+<TD>1911</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
 <TD>1915</TD><TD>m<SUP>3</SUP><SPAN CLASS='mygreek'>Y</SPAN></TD>
 </TR><TR>
 <TD>1917</TD><TD><SPAN CLASS='mygreek'>Y</SPAN></TD>
 </TR><TR>
-<TD>1939</TD><TD>m<SUP>5</SUP>U (T)</TD>
+<TD>1939</TD><TD>m#5U (T)</TD>
 </TR><TR>
-<TD>1962</TD><TD>m<SUP>5</SUP>C</TD>
+<TD>1962</TD><TD>m#5C</TD>
 </TR><TR>
-<TD>2030</TD><TD>m<SUP>6</SUP>A</TD>
+<TD>2030</TD><TD>m#6A</TD>
 </TR><TR>
-<TD>2069</TD><TD>m<SUP>7</SUP>G</TD>
+<TD>2069</TD><TD>m#7G</TD>
 </TR><TR>
 <TD>2251</TD><TD>Gm</TD>
 </TR><TR>
@@ -108,9 +108,9 @@ Data for <I>E. coli</I> 5S rRNA is absent in the table because this rRNA is unmo
 </TR><TR>
 <TD>2498</TD><TD>Cm</TD>
 </TR><TR>
-<TD>2501</TD><TD>C<SUP>*</SUP> <SUP>(a)</SUP></TD>
+<TD>2501</TD><TD>C#* <SUP>(a)</SUP></TD>
 </TR><TR>
-<TD>2503</TD><TD>m<SUP>2</SUP>A</TD>
+<TD>2503</TD><TD>m#2A</TD>
 </TR><TR>
 <TD>2504</TD><TD><SPAN CLASS='mygreek'>!Y</SPAN></TD>
 </TR><TR>
