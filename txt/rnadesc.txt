@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnaover.txt")'>&#x21e6; overview</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt")'>phylogenetic distribution &#x21e8;</A></div>description of the entries</div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnaover.txt")'>&#x22d8; overview</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt")'>phylogenetic distribution &#x22d9;</A></div>description of the entries</div>
 <div class='thetext'>
 
 <CENTER>
@@ -111,5 +111,5 @@ Additional literature citations, alternate nomenclature, or further comments on 
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnaover.txt")'>&#x21e6; overview</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt")'>phylogenetic distribution &#x21e8;</A></div></div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnaover.txt")'>&#x22d8; overview</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt")'>phylogenetic distribution &#x22d9;</A></div></div>
 </div> <!-- textframe -->
