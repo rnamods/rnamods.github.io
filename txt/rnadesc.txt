@@ -53,8 +53,8 @@ The registry numbers may be used in combination with other search terms to allow
 <P>
 The name given is that assigned to the ribonucleoside.
 It is noted that in a limited number of cases, stereochemical assignment in the name was (correctly) made based on an early literature report, but was then automatically assigned without verification in all subsequent reports.
-For example the amino acid moiety for <I>N</I><SUP>6</SUP>-threonylcarbamoyladenosine (t<SUP>6</SUP>A) is designated by index name and registry number as L-threonine, 
-with the implication that all later reports of t<SUP>6</SUP>A in tRNA deal specifically with the <TT>L</TT>-enantiomer of threonine.
+For example the amino acid moiety for <I>N</I><SUP>6</SUP>-threonylcarbamoyladenosine (t#6A) is designated by index name and registry number as &L-threonine, 
+with the implication that all later reports of t#6A in tRNA deal specifically with the &L-enantiomer of threonine.
 <P>
 <LI><A NAME="mass"></A><B>Molecular mass and elemental composition</B>
 <P>
@@ -62,28 +62,28 @@ The elemental composition and molecular mass are given for the nucleoside. The m
 <P>
 <LI><A NAME="source"></A><B>Source</B>
 <P>
-For each file entry the known phylogenetic occurrence for each nucleoside within the type of RNA is listed as: archaea (archaebacteria); bacteria (eubacteria); eukarya (eukaryotes).  Although organelle rRNAs have not been cataloged, mt (mitochondrial) is used when initial characterization was from this source.  V (viral) designations are used in the mRNA section.
+For each file entry the known phylogenetic occurrence for each nucleoside within the type of RNA is listed as: archaea (archaebacteria); bacteria (eubacteria); eukarya (eukaryotes).  Although organelle rRNAs have not been cataloged, mt (mitochondrial) is used when initial characterization was from this source. V (viral) designations are used in the mRNA section.
 For tRNA, specific literature citations are not given for occurrence in each of the three basic phylogenetic domains because much of this information was earlier cataloged and is readily available.  The tRNA source distributions indicated have been determined from the sequence databank [<A HREF="#refs">1</A>], 
 the Structure category citations, or from specific citations retrieved using registry numbers.
-For all other RNA classes, citations are given to the first reported identification of the nucleoside in the source indicated.  For example, the occurrence of <I>N</I><SUP>2</SUP>-methylguanosine was reported in snRNA in 1972 [<A HREF="#refs">2</A>],
+For all other RNA classes, citations are given to the first reported identification of the nucleoside in the source indicated.  For example, the occurrence of ?N#2-methylguanosine was reported in snRNA in 1972 [<A HREF="#refs">2</A>],
 but the nucleoside structure had been established in 1958 using material isolated from tRNA [<A HREF="#refs">3</A>].
 Therefore, in the snRNA category the Source listing would be "eukarya [<A HREF="#refs">2</A>]" and the Structure listing as "(ref. 3)".
 In the case of rRNA, because only limited attempts have been previously made to catalog such data [<A HREF="#refs">4-7</A>], 
 an effort has been made to subclassify the Source entries in greater detail by providing literature citations for occurrence in specific rRNAs designated by size, if known.
 For example, the entry for nucleoside m<SUP>1</SUP>acp<SUP>3</SUP><FONT FACE="symbol">Y</FONT> reported in eukaryal 17S rRNA [<A HREF="#refs">8</A>] and 18S rRNA [<A HREF="#refs">9</A>] would be listed as "eukarya 17S [8]" and "eukarya 18S [9]".
-The citation given thus corresponds to the first reports of occurrence of m<SUP>1</SUP>acp<SUP>3</SUP><FONT FACE="symbol">Y</FONT> in those RNAs, and subsequent reports of occurrence specifically in other 17S and 18S eukaryal rRNAs are not further tabulated.
+The citation given thus corresponds to the first reports of occurrence of m#1acp#3!Y in those RNAs, and subsequent reports of occurrence specifically in other 17S and 18S eukaryal rRNAs are not further tabulated.
 Notations such as "16+23S" indicate that a mixture of 16S and 23S rRNAs, free of 5S and tRNA, was studied.
 <P>
 <LI><A NAME="structure"></A><B>Chemical structure</B>
 <P>
 The structure of the ribonucleoside is given within each file, even though in a minority of cases of structure assignment the principal literature may actually deal with the corresponding base.  Side chain stereochemical assignments are not shown but are indicated in some cases in the Chemical Abstracts Index Name.
 The citation given is usually to the first report of structure assignment for the nucleoside, regardless of RNA source.
-Two primary citations are listed if the second one further refines the structure (e.g., side chain stereochemistry) or addresses ambiguities in the first report.  Citations to incorrect structures, as opposed to incomplete ones, are not listed. 
+Two primary citations are listed if the second one further refines the structure (e.g., side chain stereochemistry) or addresses ambiguities in the first report. Citations to incorrect structures, as opposed to incomplete ones, are not listed. 
 Reference to structural characterization of the base rather than the nucleoside has been given in the case of some early studies in which chemical hydrolysis to the base was often employed prior to identification, and for some of the Y nucleosides that were isolated as bases (for example yW, imG) as a consequence of the unusual acid lability of the glycosidic bond.
 <P>
 <LI><A NAME="synthesis"></A><B>Synthesis</B>
 <P>
-In each case the citation listed is to the first reported chemical synthesis of the ribonucleoside, or in limited cases, of the base.  The chemical synthesis literature for many nucleosides is extensive, and no attempt has usually been made to cite additional syntheses even though they often represent improvements over the first reported synthesis.
+In each case the citation listed is to the first reported chemical synthesis of the ribonucleoside, or in limited cases, of the base. The chemical synthesis literature for many nucleosides is extensive, and no attempt has usually been made to cite additional syntheses even though they often represent improvements over the first reported synthesis.
 Access to the synthesis literature can be made effectively through Chemical Abstracts registry numbers.
 In general, many physical and spectroscopic data of interest (UV and mass spectra, chromatographic properties) are available from the first synthesis and structure characterization citations listed.
 In some instances no chemical synthesis has been reported.
