@@ -14,7 +14,7 @@ COMPO=C10H15N3O5S
 <P>
 <B>Synthesis:</B> none reported
 <P>
-<B>Comment</B>: Observed as a component of unfractionated tRNA from <I>E. coli</I> mutants, as a biosynthetic precursor to mnm<SUP>5</SUP>s<SUP>2</SUP>U [<A HREF="#1">1</A>];
+<B>Comment</B>: Observed as a component of unfractionated tRNA from <I>E. coli</I> mutants, as a biosynthetic precursor to mnm#5s#2U [<A HREF="#1">1</A>];
 not rigorously characterized by conventional means. No chemical synthesis reported.
 <P><HR>
 <B>References</B>
