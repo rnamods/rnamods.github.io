@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div CLASS="llink"><A HREF='rnaupda.htm'>&#171; updates</A></div><div CLASS="rlink">&nbsp;</div>thanks</div>
+<div class='orangebar'><div CLASS="llink"><A HREF='rnaupda.htm'>&#x21e6; updates</A></div><div CLASS="rlink">&nbsp;</div>thanks</div>
 <div class='thetext'>
 
 <UL TYPE="square">
@@ -13,5 +13,5 @@
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div CLASS="llink"><A HREF='rnaupda.htm'>&#171; updates</A></div></div>
+<div class='orangebar'><div CLASS="llink"><A HREF='rnaupda.htm'>&#x21e6; updates</A></div></div>
 </div> <!-- textframe -->
