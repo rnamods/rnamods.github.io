@@ -178,9 +178,7 @@ const theboth = therna + thephy;
 const thesrt = getRadioVal("SRT");
 const searchtxt = getSearchtxt();
 const searchterm = searchtxt.split(' ');
-		console.log('windowlocation ' + searchtxt + " ...");
-if (searchtxt.search(/\d\d\d/)) {
-
+if (searchtxt.search(/\d\d\d/) >= 0) {
   window.location.replace("https://rnamods.github.io/?" + searchtxt);
   }
 var mybool;
