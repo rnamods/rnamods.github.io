@@ -9,7 +9,7 @@
 <TR class='dark'>
 <TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH>
 
-</TR><TR VALIGN='top'>
+</TR><TR VALIGN='top' ALIGN='left'>
 <TD WIDTH="25%">
 <INPUT NAME='NUC' TYPE='radio' VALUE='.' CHECKED>all<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='A'>adenosines<BR>
@@ -47,7 +47,7 @@ Output sorted by:<BR>
 </TR><TR BGCOLOR="#EEEEEE">
 <TD COLSPAN=4><B>partial name (optional):</B>
 <INPUT TYPE='text' NAME='TXT' ID='searchtxt' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
-</TR><TR class='dark' VALIGN='top' ALIGN='center'>
+</TR><TR class='dark' ALIGN='center'>
 <TD>
 <INPUT TYPE='submit' VALUE=' search ' onClick='showTable();'>
 </TD><TD>
