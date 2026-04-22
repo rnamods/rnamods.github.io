@@ -14,7 +14,7 @@ COMPO=C11H13N3O5S
 <P>
 <B>Synthesis:</B> none reported
 <P>
-<B>Comments:</B> Structure was determined by comparison of the MS/MS spectra with those of cnm<sup>5</SUP>U.
+<B>Comments:</B> Structure was determined by comparison of the MS/MS spectra with those of cnm#5U.
 <HR>
 <B>References</B>
 <OL>
