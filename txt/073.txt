@@ -14,7 +14,7 @@ COMPO=C11H17N3O5S
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comment:</B> Alternate symbol is mam<SUP>5</SUP>s<SUP>2</SUP>U.
+<B>Comment:</B> Alternate symbol is mam#5s#2U.
 <P><HR>
 <B>References</B>
 <OL>
