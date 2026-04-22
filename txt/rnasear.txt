@@ -3,7 +3,7 @@
 <div class='thetext'>
 
 <FORM METHOD="GET" ACTION="javascript:void(0);">
-<TABLE ALIGN="center" ID="seartable" CLASS="phylotable">
+<TABLE ALIGN="center" ID="seartable" CLASS="aTable">
 <TR class='dark'><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH>
 </TR>
 <TR class='dark'>
