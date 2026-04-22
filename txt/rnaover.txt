@@ -156,5 +156,5 @@ Comments concerning format, omissions or newly published material are solicited.
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='llink'></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#22d9;</A></div></div>
+<div class='orangebar'><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#22d9;</A></div></div>
 </div> <!-- textframe -->
