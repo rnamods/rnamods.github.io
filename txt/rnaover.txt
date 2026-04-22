@@ -33,7 +33,7 @@ The authors invite comments concerning new entries, errors or omissions and on t
 <LI><B>Comments on usage of nucleoside symbols</B>
 <P>
 In general, the symbol "N" is preferred for modified nucleosides of unknown structure, or "Nm" if ribose methylation of O-2' has been established.
-If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of "X" for an unknown nucleoside is not recommended because of confusion with the nucleoside acp#3U (see comment in the acp#3U file).  The superscript "x" is useful to indicate a form of modification without designation of position; for example "m#xC" for cytidine monomethylated in the base at an unknown or unspecified position.
+If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of "X" for an unknown nucleoside is not recommended because of confusion with the nucleoside acp#3U (see comment in the acp#3U file).  The superscript "x" is useful to indicate a form of modification without designation of position; for example "m<SUP>x</SUP>C" for cytidine monomethylated in the base at an unknown or unspecified position.
 Likewise "x" is sometimes used in the fashion "x#5s#2U", as to generically designate 5-substituted derivatives of 2-thiouridine.
 The use of "m" for "modified", as in "mA" (occasionally used in the rRNA literature) is strongly discouraged because of the ambiguity associated with use of simply "m" for methylation.
 <P>
