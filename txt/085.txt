@@ -7,7 +7,7 @@ COMPO=C10H14N2O6
 <TR ALIGN="center">
 <TH ROWSPAN=2>rRNA</TH><TD>23S [<A HREF="#1">1</A>]</TD><TD>16, 23S [<A HREF="#2">2</A>]</TD><TD>18, 28S [<A HREF="#4">4</A>]<BR>25, 28S [<A HREF="#5">5</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment: In a recent examination of <I>E. coli</I> 23S rRNA, m<SUP>3</SUP>U was not detected [<A HREF="#3">3</A>].</TD>
+<TD COLSPAN=3 CLASS='comment'>Comment: In a recent examination of <I>E. coli</I> 23S rRNA, m#3U was not detected [<A HREF="#3">3</A>].</TD>
 </TR>
 </TABLE>
 
