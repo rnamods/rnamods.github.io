@@ -14,8 +14,8 @@ COMPO=C12H17N3O7
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>, <A HREF="#3">3</A>]
 <P>
-<B>Comment:</B> The first preparation of ncm<SUP>5</SUP>Um was by conversion of cm<SUP>5</SUP>Um which had been isolated from tRNA in the same study [<A HREF="#2">2</A>]. 
-Conventional chemical synthesis of ncm<SUP>5</SUP>Um is reported in [<A HREF="#3">3</A>].
+<B>Comment:</B> The first preparation of ncm#5#Um was by conversion of cm#5Um which had been isolated from tRNA in the same study [<A HREF="#2">2</A>]. 
+Conventional chemical synthesis of ncm#5Um is reported in [<A HREF="#3">3</A>].
 <P><HR>
 <B>References</B>
 <OL>
