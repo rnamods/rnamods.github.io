@@ -14,9 +14,8 @@ COMPO=C11H17N3O5Se
 <P>
 <B>Synthesis:</B> [<A HREF="#1">1</A>]
 <P>
-<B>Comment:</B> Earlier reports of se<SUP>4</SUP>U in RNA cited in [<A HREF="#1">1</A>] were discounted, as discussed in [<A HREF="#1">1</A>].
-Although only one selenonucleoside, mnm<SUP>5</SUP>se<SUP>2</SUP>U, has been structurally characterized, it is likely that others exist but have not been detected due to oxidation,
-for example, in eukaryotic tRNA [<A HREF="#2">2</A>].
+<B>Comment:</B> Earlier reports of s#4U in RNA cited in [<A HREF="#1">1</A>] were discounted, as discussed in [<A HREF="#1">1</A>].
+Although only one selenonucleoside, mnm#5se#2U, has been structurally characterized, it is likely that others exist but have not been detected due to oxidation, for example, in eukaryotic tRNA [<A HREF="#2">2</A>].
 <P><HR>
 <B>References</B>
 <OL>
