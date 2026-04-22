@@ -15,7 +15,7 @@ COMPO=C14H17N5O5
 <B>Synthesis:</B> [<A HREF="#1">1</A>]
 <P>
 <B>Comments:</B> Nomenclature for the yW family of nucleosides is discussed in [<A HREF="#2">2</A>] and [<A HREF="#3">3</A>].
-Numbering is based on 1<I>H</I>-imidazo[1,2-<I>a</I>]purine.
+Numbering is based on 1?H-imidazo[1,2-?a]purine.
 <P><HR>
 <B>References</B>
 <OL>
