@@ -21,5 +21,5 @@ Conventional chemical synthesis of ncm<SUP>5</SUP>Um is reported in [<A HREF="#3
 <OL>
 <LI><A NAME="1"></A>Gray, M.W. (1975) <I>Can. J. Biochem.</I>, <B>53</B>, 735-746.
 <LI><A NAME="2"></A>Gray, M.W. and Thomas, C. (1976) <I>Biochemistry</I>, <B>15</B>, 3046-3051.
-<LI><A NAME="3">Sochacka, E. and Malkiewicz, A. (1990) <I>Nucleosides Nucleotides</I>, <B>9</B>, 793-802.
+<LI><A NAME="3"></A>Sochacka, E. and Malkiewicz, A. (1990) <I>Nucleosides Nucleotides</I>, <B>9</B>, 793-802.
 </OL>
