@@ -8,6 +8,10 @@ body, html {
 	top:0px;
 	}
 
+tt {
+font-size:20pt;
+}
+
 body {
 	min-width:770px;
 	}
