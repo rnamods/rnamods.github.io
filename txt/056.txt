@@ -11,7 +11,7 @@ COMPO=C10H14N2O6
 </TR><TR ALIGN="center">
 <TH ROWSPAN=2>snRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>[<A HREF="#3">3</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment: Evidence for characterization of N-36 as <FONT FACE="symbol">Y</FONT>m in plant snRNA is inconclusive.</TD>
+<TD COLSPAN=3 CLASS='comment'>Comment: Evidence for characterization of N-36 as <FONT FACE="symbol">Y</FONT>m in plant snRNA is inconclusive.</TD>
 </TR>
 </TABLE>
 
