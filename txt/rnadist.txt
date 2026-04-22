@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>&#171; description of the entries</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnarrna.txt");'>ribosomal RNA &#187;</A></div>phylogenetic distribution</div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>&#x21e6; description of the entries</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnarrna.txt");'>ribosomal RNA &#x21e8;</A></div>phylogenetic distribution</div>
 <div class='thetext'>
 
 The database currently (July 5, 2000) contains <B>96 modified ribonucleoside entries</B>, distributed by RNA type and phylogenetic source as shown in following table:<BR>
@@ -32,7 +32,7 @@ Updated from: Rozenski, J., Crain, P.F. and McCloskey, J.A. <I>Nucleic Acids Res
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>&#171; description of the entries</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnarrna.txt");'>ribosomal RNA &#187;</A></div></div>
+<div class='orangebar'><div class='llink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>&#x21e6; description of the entries</A></div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnarrna.txt");'>ribosomal RNA &#x21e8;</A></div></div>
 </div> <!-- textframe -->
 </BODY>
 </HTML>
