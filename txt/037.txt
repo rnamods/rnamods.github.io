@@ -15,7 +15,7 @@ COMPO=C21H28N6O9
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
 <B>Comment:</B> Nomenclature for the yW family of nucleosides is discussed in [<A HREF="#3">3</A>] and [<A HREF="#4">4</A>]. Errata for structure determination of yW [<A HREF="#1">1</A>] are reported in [<A HREF="#2">2</A>].
-Alternate commonly used name is &quot;Y nucleoside&quot;. Commonly used symbol for the corresponding base is Y.
+Alternate commonly used name is &#x22;Y nucleoside&#x22;. Commonly used symbol for the corresponding base is Y.
 Structural characterization was made from the acid-liberated base. A Chemical Abstracts registry number was then assigned to the corresponding ribonucleoside.
 <P><HR>
 <B>References</B>
