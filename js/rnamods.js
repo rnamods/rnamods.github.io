@@ -172,7 +172,6 @@ fetch(fn)
 }
 //------------------------------------------
 function showTable() {
-console.log('show');
 thesele = thedata.slice(); // make copy of the data
 // read search form
 const thenuc = getRadioVal("NUC");
@@ -220,6 +219,7 @@ while (i--) {
     }
 }
 // generate and show table
+console.log('gen',thesele);
 genTable();
 }
 //------------------------------------------
