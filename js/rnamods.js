@@ -127,7 +127,7 @@ for (const element of thesele) {
 // fill in records found
 document.getElementById("numresults").innerHTML = "found " + thesele.length + " records";
 // show table
-("outtable","");
+doMenu("outtable","");
 }
 //------------------------------------------
 function loadInit() {
@@ -219,7 +219,6 @@ while (i--) {
     }
 }
 // generate and show table
-console.log('gen',thesele);
 genTable();
 }
 //------------------------------------------
