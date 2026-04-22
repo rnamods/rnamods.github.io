@@ -3,13 +3,13 @@
 <div class='thetext'>
 
 <FORM METHOD="GET" ACTION="javascript:void(0);">
-<TABLE BGCOLOR="#EEEEEE" CELLPADDING=0 CELLSPACING=0 ALIGN="center" ID="seartable" CLASS="phylotable">
-<TR BGCOLOR="#CCCCCC"><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH>
+<TABLE ALIGN="center" ID="seartable" CLASS="phylotable">
+<TR class='dark'><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH>
 </TR>
-<TR BGCOLOR="#CCCCCC">
+<TR class='dark'>
 <TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH>
 
-</TR><TR BGCOLOR="#EEEEEE" VALIGN='top'>
+</TR><TR VALIGN='top'>
 <TD WIDTH="25%">
 <INPUT NAME='NUC' TYPE='radio' VALUE='.' CHECKED>all<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='A'>adenosines<BR>
@@ -47,7 +47,7 @@ Output sorted by:<BR>
 </TR><TR BGCOLOR="#EEEEEE">
 <TD COLSPAN=4><B>partial name (optional):</B>
 <INPUT TYPE='text' NAME='TXT' ID='searchtxt' SIZE=25> (e.g., <I>thio</I> or <I>methyl</I>)</TD>
-</TR><TR BGCOLOR="#EEEEEE" VALIGN='top' ALIGN='center'>
+</TR><TR class='dark' VALIGN='top' ALIGN='center'>
 <TD>
 <INPUT TYPE='submit' VALUE=' search ' onClick='showTable();'>
 </TD><TD>
