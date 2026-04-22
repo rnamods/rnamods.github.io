@@ -53,9 +53,9 @@ If the basis of structure assignment or identification is considered to be incon
 There are several notable examples of modifications that have not been included in the compilation.
 <P>
 <UL>
-<LI>The covalently bonded adduct between the tRNA nucleoside <I>N</I><SUP>6</SUP>-threonylcarbamoyladenosine (t<SUP>6</SUP>A) and the base Tris, is a complex nucleoside isolated and characterized from <I>E.coli</I> tRNA [<A HREF="#refs">12</A>] (Chemical Abstracts registry number 61172-4-6),
+<LI>The covalently bonded adduct between the tRNA nucleoside ?N#6-threonylcarbamoyladenosine (t#6A) and the base Tris, is a complex nucleoside isolated and characterized from <I>E.coli</I> tRNA [<A HREF="#refs">12</A>] (Chemical Abstracts registry number 61172-4-6),
 and is presently believed to be formed <I>in vitro</I> during tRNA isolation [<A HREF="#refs">12</A>], and is thus not a fully natural nucleoside.
-<LI>Second, posttranscriptional methylation in some small nuclear RNAs results in a 5'-CH<SUB>3</SUB>pppN... structure, rather than the more common m<SUP>2,2,7</SUP>GpppN... cap in which the terminus is a nucleoside [<A HREF="#refs">13</A>].
+<LI>Second, posttranscriptional methylation in some small nuclear RNAs results in a 5'-CH_3pppN... structure, rather than the more common m#2#,#2#,#7GpppN... cap in which the terminus is a nucleoside [<A HREF="#refs">13</A>].
 </UL>
 <P>
 In addition, entries have not been made for natural modified nucleosides that have been only partially characterized.  Several examples are as follows:
@@ -63,7 +63,7 @@ In addition, entries have not been made for natural modified nucleosides that ha
 <UL>
 <LI>An unknown <I>E. coli</I> tRNA nucleoside, initially discovered by S. Yokoyama [<A HREF="#refs">14</A>] Tokyo University, designated t#6A* [<A HREF="#refs">15</A>] with unmodified ribose; M_r 412, elutes before or concominent with adenosine in RPHPLC. 
 <LI>An unknown modified C was reported in <I>E. coli</I> 23S rRNA in very low amounts at position 2501, corresponding in mass to C plus net addition of 16 daltons [<A HREF="#refs">16</A>].  
-<LI>A new derivative of 5-methylaminomethyl-2-thiouridine (mnm#s#2U), in which a C_1_0H_1_7 side chain of unknown structure is attached to S-2 [<A HREF="#refs">17</A>].  
+<LI>A new derivative of 5-methylaminomethyl-2-thiouridine (mnm#5s#2U), in which a C_1_0H_1_7 side chain of unknown structure is attached to S-2 [<A HREF="#refs">17</A>].  
 <LI>An unusual derivative of cytidine, designated N-330, was sequenced to position 1404 in SSU rRNA of the bacterium <I>Thermotoga maritima</I>; M_r 330.117, t_r (HPLC) 3.7 min, with unmodified ribose [<A HREF="#refs">18</A>].
 </UL>
 <P>
