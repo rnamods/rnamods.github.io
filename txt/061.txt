@@ -17,8 +17,8 @@ COMPO=C13H19N3O8
 <P>
 <B>Synthesis:</B> [<A HREF="#2">2</A>]
 <P>
-<B>Comment:</B> Earlier symbols used were 4abu<SUP>3</SUP>U and X.
-Symbol X for acp<SUP>3</SUP>U has been confused in the literature with &quot;unknown nucleoside&quot; and its use is therefore discouraged.
+<B>Comment:</B> Earlier symbols used were 4abu#3U and X.
+Symbol X for acp#3U has been confused in the literature with &#x22;unknown nucleoside&#x22; and its use is therefore discouraged.
 <P><HR>
 <B>References</B>
 <OL>
