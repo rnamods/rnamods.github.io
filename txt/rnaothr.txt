@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'><A HREF="#" onClick="loadShow('txt/rnadata.txt');">&#x22d8 RNA databases</A></div>other links</div>
+<div class='orangebar'><div class='llink'><A HREF="#" onClick="loadShow('txt/rnadata.txt');">&#x22d8 RNA databases</A></div>other links<div class='rlink'></div></div>
 <div class='thetext'>
 
 <UL TYPE="square">
