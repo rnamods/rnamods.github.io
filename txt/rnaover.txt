@@ -13,7 +13,7 @@
 
 <HR NOSHADE SIZE=1>
 
-The RNA modification database was created by prof. James McCloskey and coworkers and provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained here as an updated version of the initial printed report [<A HREF="#refs">1</A>].
+The RNA Modification Database was created by prof. James McCloskey and coworkers and provides a comprehensive listing of posttranscriptionally modified nucleosides from RNA and is maintained here as an updated version of the initial printed report [<A HREF="#refs">1</A>].
 <P>
 Both the chemical and structural diversity and extent of posttranscriptional modification in RNA is remarkable [<A HREF="#refs">1-5</A>],
 with 114 different nucleosides presently known in all types of RNA.
@@ -33,16 +33,16 @@ The authors invite comments concerning new entries, errors or omissions and on t
 <LI><B>Comments on usage of nucleoside symbols</B>
 <P>
 In general, the symbol "N" is preferred for modified nucleosides of unknown structure, or "Nm" if ribose methylation of O-2' has been established.
-If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of "X" for an unknown nucleoside is not recommended because of confusion with the nucleoside acp#3U (see comment in the acp#3U file).  The superscript "x" is useful to indicate a form of modification without designation of position; for example "m<SUP>x</SUP>C" for cytidine monomethylated in the base at an unknown or unspecified position.
-Likewise "x" is sometimes used in the fashion "x#5s#2U", as to generically designate 5-substituted derivatives of 2-thiouridine.
-The use of "m" for "modified", as in "mA" (occasionally used in the rRNA literature) is strongly discouraged because of the ambiguity associated with use of simply "m" for methylation.
+If the heterocyclic moiety is known or assumed, for example from the corresponding gene sequence, the designation A*, U*, etc. is recommended.  The use of &#x22;X&#x22; for an unknown nucleoside is not recommended because of confusion with the nucleoside acp#3U (see comment in the acp#3U file).  The superscript &#x22;x&#x22; is useful to indicate a form of modification without designation of position; for example &#x22;m#xC&#x22; for cytidine monomethylated in the base at an unknown or unspecified position.
+Likewise &#x22;x&#x22; is sometimes used in the fashion &#x22;x#5s#2U&#x22;, as to generically designate 5-substituted derivatives of 2-thiouridine.
+The use of &#x22;m&#x22; for &#x22;modified&#x22;, as in &#x22;mA&#x22; (occasionally used in the rRNA literature) is strongly discouraged because of the ambiguity associated with use of simply &#x22;m&#x22; for methylation.
 <P>
 Additional comments are found under 'Symbol' in the <A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>Description of Entries</A> section.
 <P>
 <A NAME="accur"></A>
 <LI><B>Accuracy of assignments in the early literature</B>
 <P>
-Entries in each file are categorized by type of RNA, although in early work total cellular RNA was often isolated with no clear distinction made between tRNA ("soluble RNA"), the various rRNAs ("microsomal") or others.  In such cases the listing given in the database may correspond to contemporary knowledge of distribution of the nucleoside within certain types of RNA.  Some of the earlier literature concerning modification in rRNA is of questionable accuracy, and this particular problem is addressed in the next section ("Nucleoside modification in ribosomal RNA").
+Entries in each file are categorized by type of RNA, although in early work total cellular RNA was often isolated with no clear distinction made between tRNA ("soluble RNA"), the various rRNAs ("microsomal") or others.  In such cases the listing given in the database may correspond to contemporary knowledge of distribution of the nucleoside within certain types of RNA.  Some of the earlier literature concerning modification in rRNA is of questionable accuracy, and this particular problem is addressed in the next section (&#x22;Nucleoside modification in ribosomal RNA&#x22;).
 <P>
 <A NAME="excl"></A>
 <LI><B>Modifications excluded from the database</B>
