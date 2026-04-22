@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div CLASS='rlink'><A HREF='rnathnk.txt'>thanks &#x22d9;</A></div>history of the updates</div>
+<div class='orangebar'><div CLASS='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt");'>thanks &#x22d9;</A></div>history of the updates</div>
 <div class='thetext'>
 
 <UL TYPE='square'>
@@ -27,5 +27,5 @@ and users of the RNA Modification Database are requested to cite this paper as t
 </UL>
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='rlink'><A HREF='rnathnk.txt'>thanks &#x22d9;</A></div></div>
+<div class='orangebar'><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadist.txt");'>thanks &#x22d9;</A></div></div>
 </div> <!-- textframe -->
