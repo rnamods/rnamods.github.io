@@ -4,12 +4,9 @@
 
 <FORM METHOD="GET" ACTION="javascript:void(0);">
 <TABLE ALIGN="center" ID="seartable" CLASS="aTable">
-<TR class='dark'><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH>
-</TR>
-<TR class='dark'>
-<TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH>
-
-</TR><TR VALIGN='top'>
+<TR class='dark'><TH COLSPAN=3>access to individual files by:</TH><TH ROWSPAN=2>sort options:</TH></TR>
+<TR class='dark'><TH>base type</TH><TH>RNA source</TH><TH>phylogenetic<BR>occurrence</TH></TR>
+<TR VALIGN='top'>
 <TD WIDTH="25%" CLASS='left'>
 <INPUT NAME='NUC' TYPE='radio' VALUE='.' CHECKED>all<BR>
 <INPUT NAME='NUC' TYPE='radio' VALUE='A'>adenosines<BR>
