@@ -14,7 +14,7 @@ COMPO=C11H13N3O6
 <P>
 <B>Synthesis:</B> none reported
 <P>
-<B>Comments:</B> Base structure was confirmed based on comparison of pseudo MS3 data with the deoxyribonucleoside analog.
+<B>Comments:</B> Base structure was confirmed based on comparison of pseudo MS#3 data with the deoxyribonucleoside analog.
 <HR>
 <B>References</B>
 <OL>
