@@ -14,7 +14,7 @@ COMPO=C11H14N2O9
 <P>
 <B>Synthesis:</B> [<A HREF="#1">1</A>]
 <P>
-<B>Comment:</B> Alternate commonly used symbols are o<SUP>5</SUP>U and V.
+<B>Comment:</B> Alternate commonly used symbols are o#5U and V.
 <P><HR>
 <B>References</B>
 <OL>
