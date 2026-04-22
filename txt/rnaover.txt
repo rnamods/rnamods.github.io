@@ -1,5 +1,5 @@
 <div id='textframe'>
-<div class='orangebar'><div class='llink'>&nbsp;</div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#187;</A></div>overview</div>
+<div class='orangebar'><div class='llink'>&nbsp;</div><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#x21e8;</A></div>overview</div>
 <div class='thetext'>
 
 <CENTER>
@@ -156,5 +156,5 @@ Comments concerning format, omissions or newly published material are solicited.
 
 </div> <!-- thetext -->
 
-<div class='orangebar'><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#187;</A></div></div>
+<div class='orangebar'><div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#21e8;</A></div></div>
 </div> <!-- textframe -->
