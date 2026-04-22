@@ -9,7 +9,7 @@ COMPO=C10H14N2O6
 </TR><TR ALIGN="center">
 <TH ROWSPAN=2>rRNA</TH><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>17, 18S [<A HREF="#1">1</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3>Comment: Detected as a biosynthetic precursor to m<SUP>1</SUP>acp<SUP>3</SUP><FONT FACE="symbol">Y</FONT></TD>
+<TD COLSPAN=3 CLASS='comment'>Comment: Detected as a biosynthetic precursor to m<SUP>1</SUP>acp<SUP>3</SUP><FONT FACE="symbol">Y</FONT></TD>
 </TR>
 </TABLE>
 
