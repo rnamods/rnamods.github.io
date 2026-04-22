@@ -42,7 +42,7 @@ Additional comments are found under 'Symbol' in the <A HREF='#' onClick='loadSho
 <A NAME="accur"></A>
 <LI><B>Accuracy of assignments in the early literature</B>
 <P>
-Entries in each file are categorized by type of RNA, although in early work total cellular RNA was often isolated with no clear distinction made between tRNA ("soluble RNA"), the various rRNAs ("microsomal") or others.  In such cases the listing given in the database may correspond to contemporary knowledge of distribution of the nucleoside within certain types of RNA.  Some of the earlier literature concerning modification in rRNA is of questionable accuracy, and this particular problem is addressed in the next section (&#x22;Nucleoside modification in ribosomal RNA&#x22;).
+Entries in each file are categorized by type of RNA, although in early work total cellular RNA was often isolated with no clear distinction made between tRNA ("soluble RNA"), the various rRNAs ("microsomal") or others.  In such cases the listing given in the database may correspond to contemporary knowledge of distribution of the nucleoside within certain types of RNA.  Some of the earlier literature concerning modification in rRNA is of questionable accuracy, and this particular problem is addressed in the next section (<A HREF='#' onClick='loadShow("txt/rnarrna.txt");'>Nucleoside modification in ribosomal RNA</A>).
 <P>
 <A NAME="excl"></A>
 <LI><B>Modifications excluded from the database</B>
