@@ -211,7 +211,7 @@ br._clearit {
 	border-collapse: collapse;
 	}
 
-.aTable td, .phylotable th  {
+.aTable td, .aT th  {
 	border:1px solid #999;
 	padding:5px;
 	}
@@ -219,6 +219,10 @@ br._clearit {
 .aTable tr, .aTable td, .aTable th {
 	text-align:center;
 	font-size:10pt;
+	}
+
+.comment, .aTable.left {
+	text-align:left;
 	}
 
 tr.dark {
