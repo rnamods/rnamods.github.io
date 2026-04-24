@@ -217,6 +217,10 @@ tr.dark {
 
 @media print {
 	.printonly {
-		display:inline-block;
+	font-size:20pt;
+	display:inline-block;
+	}
+	#nav {
+		display:hidden;
 	}
 }
