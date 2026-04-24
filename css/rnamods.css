@@ -136,7 +136,7 @@ a:hover {
 	width:auto;
 	text-align:center;
 	margin:0px;
-	padding:0px 20px 0px 20px;
+	padding:0px;
 	}
 
 #nav1 li a {
@@ -148,7 +148,7 @@ a:hover {
 #nav1 li a:hover {
 	color:#444;
 	border:1px solid #999;
-	padding:0px 4px 0px 4px;
+	padding:0px 20px 0px 20px;
 	}
 
 #nav1 ol {
