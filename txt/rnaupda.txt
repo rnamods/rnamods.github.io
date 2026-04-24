@@ -9,7 +9,7 @@
 <LI>January 2009: introduction text updated, addition of new entries to the database<P>
 <LI>May 2009: major layout makeover<P>
 <LI>April 2013 - January 2021: hosted at the RNA Institute (Albany, NY)<P>
-<LI>2022 - 2026: hosted at KU Leuven (Belgium)<P>
+<LI>2021 - 2026: hosted at KU Leuven (Belgium)<P>
 <LI>May 2026: relocated to https://rnamods.github.io<P>
 </UL>
 
