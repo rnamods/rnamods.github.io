@@ -126,7 +126,7 @@ a:hover {
 
 #nav1 {
 	padding:0px;
-	margin:0px 0px 0px 20px;
+	margin:0px 0px 0px 10px;
 	list-style:none;
 	font-weight:bold;
 }
@@ -136,12 +136,13 @@ a:hover {
 	width:auto;
 	text-align:center;
 	margin:0px 15px 0px 15px;
+	margin:0px;
 	border:1px solid transparent;
 	}
 
 #nav1 li a {
 	text-decoration:none;
-	color:#888;
+	color:#088;
 	padding:1px 5px;
 	}
 
