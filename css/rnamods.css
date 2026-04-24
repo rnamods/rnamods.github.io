@@ -147,6 +147,7 @@ a:hover {
 #nav1 ul > li > a:hover {
 	text-decoration:none;
 	border:1px solid #048;
+	color:#F00;
 	padding:0px 20px 0px 20px;
 	}
 
