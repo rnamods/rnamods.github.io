@@ -218,6 +218,7 @@ tr.dark {
 @media print {
 	.printonly {
 		font-size:24pt;
+		font-weight:bold;
 		display:inline-block;
 		}
 	#nav {
