@@ -127,6 +127,10 @@ a:hover {
 	font-weight:bold;
 }
 
+#nav1 a {
+	color:#048;
+	}
+
 #nav1 li {
 	float:left;
 	width:auto;
@@ -136,13 +140,11 @@ a:hover {
 	display: inline-block;
 	}
 
-#nav1 a {
-	color:#048;
+#nav1 ul a {
 	padding:1px 21px 1px 21px;
 	}
 
-#nav1 a:hover {
-	color:#048;
+#nav1 ul a:hover {
 	text-decoration:none;
 	border:1px solid #048;
 	padding:0px 20px 0px 20px;
