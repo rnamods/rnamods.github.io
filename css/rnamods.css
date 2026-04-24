@@ -79,7 +79,13 @@ a:hover {
 	text-align:center;
 	height:20px;
 	width:100%;
+	display:table;
 	}
+
+.orangebar span {
+  vertical-align:middle;
+  display: table-cell;
+}
 
 .thetext {
 	padding:5px;
