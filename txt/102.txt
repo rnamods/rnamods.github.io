@@ -16,7 +16,7 @@ COMPO=C12H15N5O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Sauerwald, A., Sitaramaiah, D., McCloskey, J.A., S&ouml;ll, D. and Crain, P.F. (2005) <I>FEBS Lett.</I>, <B>579</B> 2807-2810.
-<LI><A NAME="2"></A>Aritomo, K., Wada, T. and Sekine, M. (1995) <I>J. Chem. Soc., Perkin Trans. 1</I>, 1837-1844.
+<LI><A NAME="1"></A>Sauerwald, A., Sitaramaiah, D., McCloskey, J.A., S&ouml;ll, D. and Crain, P.F. (2005) <I>FEBS Lett.</I>, <B>579</B> 2807-2810. [doi:10.1016/j.febslet.2005.04.014]
+<LI><A NAME="2"></A>Aritomo, K., Wada, T. and Sekine, M. (1995) <I>J. Chem. Soc., Perkin Trans. 1</I>, 1837-1844. [doi:10.1039/P19950001837]
 </OL>
 
