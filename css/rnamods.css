@@ -168,10 +168,7 @@ a:hover {
 	}
 
 #nav1 ol a:hover {
-	color:#048;
-	text-decoration:none;
-	border:1px solid #048;
-	padding:0px 20px 0px 20px;
+	border:0px;
 	}
 
 #nav1 li:hover ol  {
