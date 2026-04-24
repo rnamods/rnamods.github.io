@@ -153,6 +153,12 @@ a:hover {
 	background-position: 0 0;
 	}
 
+#nav1 li a {
+	text-decoration:none;
+	color:#999;
+	padding:1px 5px;
+	}
+
 #nav, #nav ul {
 	padding:0;
 	margin:0;
