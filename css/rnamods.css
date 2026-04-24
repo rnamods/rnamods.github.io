@@ -32,7 +32,7 @@ a:hover {
 
 #wrap {
 	margin:0px;
-	padding:0px;
+	padding:5px;
 	width:770px;
 	}
 
@@ -44,8 +44,8 @@ a:hover {
 #header {
 	border:1px solid #FC3;
 	background:#EEE;
-	padding:0px 0px 0px 0px;
-	margin:5px;
+	padding:0px;
+	margin:0px;
 	background:url('../images/rnamods.gif');
 	background-repeat:no-repeat;
 	overflow:hidden;
