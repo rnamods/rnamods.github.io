@@ -164,9 +164,12 @@ a:hover {
 	border:0px;
 	}
 
-#nav1 li:hover ol  {
+#nav1 ol a:hover  {
 	left:auto;
 	background-position: 0 0;
+	color:#048;
+	border:0px;
+	padding:0px;
 	}
 
 
