@@ -133,6 +133,7 @@ a:hover {
 	text-align:center;
 	margin:0px;
 	padding:0px;
+	display: inline-block;
 	}
 
 #nav1 ul li {
