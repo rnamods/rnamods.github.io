@@ -2,7 +2,7 @@ body, html {
 	margin:5px;
 	padding:0px;
 	background:#EEE;
-	color:#048;
+	color:#028;
 	position:absolute;
 	left:0px;
 	top:0px;
@@ -138,12 +138,12 @@ a:hover {
 
 #nav1 ul > li > a {
 	padding:1px 21px 1px 21px;
-	color:#048;
+	color:#028;
 	}
 
 #nav1 ul > li > a:hover {
 	text-decoration:none;
-	border:1px solid #048;
+	border:1px solid #028;
 	color:#900;
 	padding:0px 20px 0px 20px;
 	}
@@ -167,7 +167,7 @@ a:hover {
 	}
 
 #nav1 ol > li > a {
-	color:#048;
+	color:#028;
 	}
 
 #nav1 ol > li > a:hover {
