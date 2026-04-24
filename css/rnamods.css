@@ -166,14 +166,13 @@ a:hover {
 	display:block;
 	}
 
-#nav ol a {
+#nav ol li a {
 	color:#048;
 	}
 
-#nav1 ol a:hover {
-	border:0px;
+#nav1 ol li a:hover {
 	text-decoration:none;
-	color:#900;
+	color:#990;
 	}
 
 #nav1 ul > li:hover ol  {
