@@ -214,6 +214,13 @@ tr.dark {
 	background:#CCC;
 	}
 
+sub { vertical-align: sub; line-height: 1.0; }
+
+sup { vertical-align: super; line-height: 1.0; }
+
+sub, sup {
+	font-size:0.8em;
+	{
 
 @media print {
 	.printonly {
