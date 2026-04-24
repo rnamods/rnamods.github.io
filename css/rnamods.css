@@ -159,12 +159,16 @@ a:hover {
 	text-align:left;
 	}
 
-#nav1 ol a:hover  {
+#nav li:hover ol  {
 	left:auto;
-	background-position:0 0;
-	color:#048;
-	border:0px;
-	padding:0px;
+	background-position: 0 0;
+	}
+
+
+
+#nav li:hover ul  {
+	left:auto;
+	background-position: 0 0;
 	}
 
 
