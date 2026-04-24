@@ -127,17 +127,13 @@ a:hover {
 	font-weight:bold;
 }
 
-#nav1 ul {
+#nav1 ul li {
 	float:left;
 	width:auto;
 	text-align:center;
 	margin:0px;
 	padding:0px;
 	display: inline-block;
-	}
-
-#nav1 li {
-	display:inline;
 	}
 
 #nav1 a {
