@@ -93,7 +93,8 @@ thetxt = thetxt.replace(/\!b/g,"<SPAN class='mygreek'>&beta;</SPAN>");
 thetxt = thetxt.replace(/\!g/g,"<SPAN class='mygreek'>&gamma;</SPAN>");
 thetxt = thetxt.replace(/\!d/g,"<SPAN class='mygreek'>&delta;</SPAN>");
 thetxt = thetxt.replace(/\!t/g,"<SPAN class='mygreek'>&tau;</SPAN>");
-thetxt = thetxt.replace(/doi\:([\w\/]+)(\W)/g,"<A HREF='https://doi.org/$1'></A>$2");	
+thetxt = thetxt.replace(/doi\:([\w\/]+)(\W)/g,"<A HREF='https://doi.org/$1'>doi:$1</A>$2");	
+console.log(thetxt.replace(/doi\:([\w\/]+)(\W)/g,"***$1***")
 return thetxt;
 }
 //------------------------------------------
