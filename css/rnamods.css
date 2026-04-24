@@ -147,7 +147,7 @@ a:hover {
 #nav1 ul > li > a:hover {
 	text-decoration:none;
 	border:1px solid #048;
-	color:#F00;
+	color:#900;
 	padding:0px 20px 0px 20px;
 	}
 
@@ -173,6 +173,7 @@ a:hover {
 #nav1 ol a:hover {
 	border:0px;
 	text-decoration:none;
+	color:#900;
 	}
 
 #nav1 ul > li:hover ol  {
