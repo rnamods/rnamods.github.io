@@ -131,7 +131,7 @@ a:hover {
 	color:#048;
 	}
 
-#nav1 ul li {
+#nav1 ul > li {
 	float:left;
 	width:auto;
 	text-align:center;
@@ -140,11 +140,11 @@ a:hover {
 	display: inline-block;
 	}
 
-#nav1 ul li a {
+#nav1 ul > li a {
 	padding:1px 21px 1px 21px;
 	}
 
-#nav1 ul li a:hover {
+#nav1 ul > li a:hover {
 	text-decoration:none;
 	border:1px solid #048;
 	padding:0px 20px 0px 20px;
