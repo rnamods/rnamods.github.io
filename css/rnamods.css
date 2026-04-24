@@ -150,6 +150,11 @@ a:hover {
 	padding:0;
 	}
 
+nav1 a:hover {
+	color:#FF0;
+	text-decoration:none;
+	}
+
 #nav1 li:hover ol  {
 	left:auto;
 	background-position: 0 0;
