@@ -1,5 +1,5 @@
 UPDAT=2010.09.15
-CANAM=Guanidine, ?N-[4[(1,4-dihydro-4-imino-1-!b-D-ribofuranosyl-2-pyrimidinyl)amino]butyl]-
+CANAM=Guanidine, ?N-[4[(1,4-dihydro-4-imino-1-!b-&D-ribofuranosyl-2-pyrimidinyl)amino]butyl]-
 CANUR=1221169-70-5
 CANUB=
 COMPO=C14H25N7O4
