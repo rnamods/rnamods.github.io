@@ -120,7 +120,7 @@ a:hover {
 #myTable tr td:nth-child(2) { width: 15%; }
 #myTable tr td:nth-child(4) { width: 10%; }
 
-#nav1 {
+#nav1 ul {
 	padding:0px;
 	margin:0px 0px 0px 10px;
 	list-style-type:none;
@@ -131,7 +131,7 @@ a:hover {
 	color:#048;
 	}
 
-#nav1 > li {
+#nav1 ul li {
 	float:left;
 	width:auto;
 	text-align:center;
@@ -140,11 +140,11 @@ a:hover {
 	display: inline-block;
 	}
 
-#nav1 a {
+#nav1 ul li a {
 	padding:1px 21px 1px 21px;
 	}
 
-#nav1 li > a:hover {
+#nav1 ul li a:hover {
 	text-decoration:none;
 	border:1px solid #048;
 	padding:0px 20px 0px 20px;
@@ -173,7 +173,7 @@ a:hover {
 	border:0px;
 	}
 
-#nav1 li:hover ol  {
+#nav1 ul li:hover ol  {
 	left:auto;
 	background-position:0 0;
 	}
