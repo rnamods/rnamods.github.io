@@ -221,7 +221,7 @@ tr.dark {
 		font-weight:bold;
 		display:inline-block;
 		}
-	#nav, #footer, .llink, .rlink {
+	#nav, #footer, #submenu, .llink, .rlink {
 		display:none;
 		}
 	}
