@@ -214,6 +214,9 @@ tr.dark {
 	background:#CCC;
 	}
 
-.printonly {
-	display:none;
+
+@media print {
+	.printonly {
+		display:inline-block;
 	}
+}
