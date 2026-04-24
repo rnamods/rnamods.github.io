@@ -107,18 +107,18 @@ a:hover {
 #myTable {
 	width:95%;
 	border:1px solid #999;
-	padding:25px 0px 0px 25px;
+	padding:0px;
 	margin:25px auto;
 	border-collapse:collapse;
-	tr:nth-child(even) {background: #EED}
+	tr:nth-child(even) {background:#EED}
 }
 
-#myTable tr th:nth-child(1) { width: 5%; }
-#myTable tr th:nth-child(2) { width: 15%; }
-#myTable tr th:nth-child(4) { width: 10%; }
-#myTable tr td:nth-child(1) { width: 5%; }
-#myTable tr td:nth-child(2) { width: 15%; }
-#myTable tr td:nth-child(4) { width: 10%; }
+#myTable tr th:nth-child(1) { width:5%;margin-left:5px; }
+#myTable tr th:nth-child(2) { width:15%; }
+#myTable tr th:nth-child(4) { width:10%; }
+#myTable tr td:nth-child(1) { width:5%; }
+#myTable tr td:nth-child(2) { width:15%; }
+#myTable tr td:nth-child(4) { width:10%; }
 
 #nav ul {
 	padding:0px;
