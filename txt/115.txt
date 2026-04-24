@@ -17,6 +17,6 @@ COMPO=C13H15N5O4S1
 <HR>
 <B>References</B>
 <OL>
-<LI>Bessler L., Vogt L.M., Lander M., Dal Magro C., Keller P., K&uuml;hlborn J., Kampf C.J., Opatz T. and Helm M.. (2023) <I>Angew. Chemie Int. Ed.</I>, e202217128. <A HREF='https://dx.doi.org/10.1002/anie.202217128'>doi:10.1002/anie.202217128</A>.
+<LI>Bessler L., Vogt L.M., Lander M., Dal Magro C., Keller P., K&uuml;hlborn J., Kampf C.J., Opatz T. and Helm M.. (2023) <I>Angew. Chemie Int. Ed.</I>, e202217128. [doi:10.1002/anie.202217128]
 </OL>
 
