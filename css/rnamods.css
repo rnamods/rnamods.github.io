@@ -135,6 +135,10 @@ a:hover {
 	padding:0px;
 	}
 
+#nav ul li {
+	display: inline-block;
+	}
+
 #nav1 a {
 	color:#048;
 	padding:1px 21px 1px 21px;
@@ -142,6 +146,7 @@ a:hover {
 
 #nav1 a:hover {
 	color:#048;
+	text-decoration:none;
 	border:1px solid #048;
 	padding:0px 20px 0px 20px;
 	}
@@ -153,10 +158,15 @@ a:hover {
 	border:2px solid #999;
 	background:#FFF;
 	color:#FFF;
-	padding:0;
+	padding:0px;
 	list-style-type:none;
 	align:left;
 	text-align:left;
+	}
+
+#nav ol li {
+	padding:0px;
+	margin:0px;
 	}
 
 #nav1 li:hover ol  {
