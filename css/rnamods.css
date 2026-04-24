@@ -125,8 +125,8 @@ a:hover {
 #myTable tr td:nth-child(4) { width: 10%; }
 
 #nav1 {
-	padding:0;
-	margin:0;
+	padding:0px;
+	margin:0px;
 	list-style:none;
 	font-weight:bold;
 }
@@ -136,6 +136,7 @@ a:hover {
 	width:auto;
 	text-align:center;
 	margin:0px 15px 0px 15px;
+	border:0px;
 	}
 
 #nav1 ol {
@@ -165,6 +166,7 @@ a:hover {
 
 #nav1 li a:hover {
 	color:#444;
+	border:1px solid #999;
 	}
 
 #nav, #nav ul {
