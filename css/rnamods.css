@@ -30,7 +30,7 @@ a:hover {
 	height:55px;
 	}
 
-#wrap	{
+#wrap {
 	margin:0px;
 	padding:0px;
 	width:770px;
@@ -68,7 +68,7 @@ a:hover {
 	}
 
 #thedata dt {
-	font-weight: bold;
+	font-weight:bold;
 	}
 
 .mygreek {
@@ -144,15 +144,10 @@ a:hover {
 	position:absolute;
 	width:220px;
 	left:-2000px;
-	border:1px solid #999;
+	border:2px solid #999;
 	background:#FFF;
 	color:#FFF;
 	padding:0;
-	}
-
-nav1 a:hover {
-	color:#FF0;
-	text-decoration:none;
 	}
 
 #nav1 li:hover ol  {
@@ -162,8 +157,12 @@ nav1 a:hover {
 
 #nav1 li a {
 	text-decoration:none;
-	color:#999;
+	color:#888;
 	padding:1px 5px;
+	}
+
+#nav1 li a:hover {
+	color:#444;
 	}
 
 #nav, #nav ul {
