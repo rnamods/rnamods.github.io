@@ -148,6 +148,10 @@ a:hover {
 	padding:0;
 	}
 
+#nav1 ol li {
+	align:left;
+	}
+
 #nav1 li:hover ol  {
 	left:auto;
 	background-position: 0 0;
