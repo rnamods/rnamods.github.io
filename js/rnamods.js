@@ -18,8 +18,8 @@ var cell2 = document.createElement("td");
 var cell3 = document.createElement("td");
 var cell4 = document.createElement("td");
 cell1.innerHTML = "<A HREF='#' onCLick='showDetail(\"" + txtarr[0] + "\")'>" + txtarr[0] + "</A>";
-cell2.innerHTML = formatName(txtarr[2]);
-cell3.innerHTML = formatName(txtarr[3]);
+cell2.innerHTML = formatHtml(txtarr[2]);
+cell3.innerHTML = formatHtml(txtarr[3]);
 cell4.innerText = txtarr[4];
 tr.appendChild(cell1);
 tr.appendChild(cell2);
@@ -57,7 +57,7 @@ fetch(fn)
 	outtext = outtext.replaceAll("|NAME|", rc[3]);
 	outtext = outtext.replaceAll("|SYMB|", rc[2]);
 	outtext = outtext.replaceAll("|MASS|", rc[4]);
-	doMenu('output',formatName(outtext));
+	doMenu('output',formatHtml(outtext));
 	});
 }
 //------------------------------------------
@@ -81,19 +81,20 @@ for (const element of thedata) {
 thedata = mydata.sort(); // copy to global array, sorted by id
 }
 //------------------------------------------
-function formatName(name) { // format name with html
-name = name.replace(/([^\"\'])\#([\d\+])/g,"$1<SUP>$2</SUP>"); // excludes href="#1" and href='#1'
-name = name.replace(/\#\,/g,"<SUP>,</SUP>");	
-name = name.replace(/\_(.)/g,"<SUB>$1</SUB>");
-name = name.replace(/\?(.)/g,"<I>$1</I>");
-name = name.replace(/\&([^naeiouc\#])/g,"<SPAN style='font-family:monospace;font-size:0.9em;'>$1</SPAN>"); // excludes &nbsp;
-name = name.replace(/\!Y/g,"<SPAN class='mygreek'>&Psi;</SPAN>");
-name = name.replace(/\!a/g,"<SPAN class='mygreek'>&alpha;</SPAN>");
-name = name.replace(/\!b/g,"<SPAN class='mygreek'>&beta;</SPAN>");
-name = name.replace(/\!g/g,"<SPAN class='mygreek'>&gamma;</SPAN>");
-name = name.replace(/\!d/g,"<SPAN class='mygreek'>&delta;</SPAN>");
-name = name.replace(/\!t/g,"<SPAN class='mygreek'>&tau;</SPAN>");
-return name;
+function formatHtml(thetxt) { // format name with html
+thetxt = thetxt.replace(/([^\"\'])\#([\d\+])/g,"$1<SUP>$2</SUP>"); // excludes href="#1" and href='#1'
+thetxt = thetxt.replace(/\#\,/g,"<SUP>,</SUP>");	
+thetxt = thetxt.replace(/\_(.)/g,"<SUB>$1</SUB>");
+thetxt = thetxt.replace(/\?(.)/g,"<I>$1</I>");
+thetxt = thetxt.replace(/\&([^naeiouc\#])/g,"<SPAN style='font-family:monospace;font-size:0.9em;'>$1</SPAN>"); // excludes &nbsp;
+thetxt = thetxt.replace(/\!Y/g,"<SPAN class='mygreek'>&Psi;</SPAN>");
+thetxt = thetxt.replace(/\!a/g,"<SPAN class='mygreek'>&alpha;</SPAN>");
+thetxt = thetxt.replace(/\!b/g,"<SPAN class='mygreek'>&beta;</SPAN>");
+thetxt = thetxt.replace(/\!g/g,"<SPAN class='mygreek'>&gamma;</SPAN>");
+thetxt = thetxt.replace(/\!d/g,"<SPAN class='mygreek'>&delta;</SPAN>");
+thetxt = thetxt.replace(/\!t/g,"<SPAN class='mygreek'>&tau;</SPAN>");
+thetxt = thetxt.replace(/doi\:([\w\/]+)(\W)/g,"<A HREF='https://doi.org/$1'></A>$2");	
+return thetxt;
 }
 //------------------------------------------
 function getRadioVal(radioName) { // get value for the selected radiobutton
@@ -151,7 +152,7 @@ function loadShow(fn) { // read file and show in output window
 fn = baseurl + fn;
 fetch(fn)
   .then( r => r.text() )
-  .then( t => doMenu('output',formatName(t)) );
+  .then( t => doMenu('output',formatHtml(t)) );
 }
 //------------------------------------------
 function showDetail(nr) {
