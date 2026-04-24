@@ -149,7 +149,7 @@ a:hover {
 
 #nav1 ol {
 	position:absolute;
-	width:220px;
+	min-width:220px;
 	left:-2000px;
 	border:2px solid #999;
 	background:#FFF;
