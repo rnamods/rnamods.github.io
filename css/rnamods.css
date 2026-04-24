@@ -126,7 +126,7 @@ a:hover {
 
 #nav1 {
 	padding:0px;
-	margin:0px;
+	margin:0px 0px 0px 20px;
 	list-style:none;
 	font-weight:bold;
 }
@@ -137,6 +137,17 @@ a:hover {
 	text-align:center;
 	margin:0px 15px 0px 15px;
 	border:1px solid transparent;
+	}
+
+#nav1 li a {
+	text-decoration:none;
+	color:#888;
+	padding:1px 5px;
+	}
+
+#nav1 li a:hover {
+	color:#444;
+	border:1px solid #999;
 	}
 
 #nav1 ol {
@@ -158,16 +169,9 @@ a:hover {
 	background-position: 0 0;
 	}
 
-#nav1 li a {
-	text-decoration:none;
-	color:#888;
-	padding:1px 5px;
-	}
 
-#nav1 li a:hover {
-	color:#444;
-	border:1px solid #999;
-	}
+
+
 
 #nav, #nav ul {
 	padding:0;
