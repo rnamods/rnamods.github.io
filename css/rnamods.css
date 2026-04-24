@@ -161,14 +161,14 @@ a:hover {
 	display:block;
 	}
 
-#nav1 ol li {
+#nav1 ol > li {
 	padding:0px;
 	margin:5px;
 	display:block;
 	color:#048;
 	}
 
-#nav1 ol a:hover {
+#nav1 ol li a:hover {
 	border:0px;
 	text-decoration:none;
 	color:#900;
