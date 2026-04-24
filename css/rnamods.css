@@ -126,7 +126,7 @@ a:hover {
 
 #nav1 {
 	padding:0px;
-	margin:0px 0px 0px 10px;
+	margin:0px;
 	list-style:none;
 	font-weight:bold;
 }
@@ -135,20 +135,20 @@ a:hover {
 	float:left;
 	width:auto;
 	text-align:center;
-	margin:0px 15px 0px 15px;
 	margin:0px;
-	border:1px solid transparent;
+	padding:0px;
 	}
 
 #nav1 li a {
 	text-decoration:none;
 	color:#088;
-	padding:1px 5px;
+	padding:1px 5px 1px 5px;
 	}
 
 #nav1 li a:hover {
 	color:#444;
 	border:1px solid #999;
+	padding:0px 4px 0px 4px;
 	}
 
 #nav1 ol {
