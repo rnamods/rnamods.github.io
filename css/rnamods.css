@@ -125,6 +125,7 @@ a:hover {
 	margin:0px 0px 0px 10px;
 	list-style:none;
 	font-weight:bold;
+	display:inline-block;
 }
 
 #nav1 ul {
@@ -161,7 +162,7 @@ a:hover {
 
 #nav1 li:hover ol  {
 	left:auto;
-	background-position: 0 0;
+	background-position:0 0;
 	}
 
 
