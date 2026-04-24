@@ -127,7 +127,7 @@ a:hover {
 	font-weight:bold;
 }
 
-#nav1 ul li {
+#nav1 li {
 	float:left;
 	width:auto;
 	text-align:center;
@@ -164,6 +164,7 @@ a:hover {
 #nav ol li {
 	padding:0px;
 	margin:0px;
+	display:block;
 	}
 
 #nav1 li:hover ol  {
