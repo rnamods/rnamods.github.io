@@ -217,10 +217,16 @@ tr.dark {
 
 @media print {
 	.printonly {
-	font-size:20pt;
-	display:inline-block;
-	}
+		font-size:24pt;
+		display:inline-block;
+		}
 	#nav {
-		display:hidden;
+		display:none;
+		}
 	}
-}
+
+@media screen {
+	.printonly {
+		display:none;
+		}
+	}
