@@ -54,7 +54,8 @@ a:hover {
 #textframe {
 	background:#FFE;
 	border:1px solid #FC3;
-	margin:20px auto 0px auto;
+	margin:10px auto 0px auto;
+	margin:0px;
 	}
 
 #footer {
