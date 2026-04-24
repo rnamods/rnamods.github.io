@@ -125,7 +125,6 @@ a:hover {
 	margin:0px 0px 0px 10px;
 	list-style:none;
 	font-weight:bold;
-	display:inline-block;
 }
 
 #nav1 ul {
@@ -136,12 +135,12 @@ a:hover {
 	padding:0px;
 	}
 
-#nav1 li a {
+#nav1 a {
 	color:#048;
 	padding:1px 21px 1px 21px;
 	}
 
-#nav1 ul a:hover {
+#nav1 a:hover {
 	color:#048;
 	border:1px solid #048;
 	padding:0px 20px 0px 20px;
