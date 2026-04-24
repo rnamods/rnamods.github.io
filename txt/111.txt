@@ -17,6 +17,6 @@ COMPO=C21H33N3O5S
 <B>References</B>
 <OL>
 <LI><A NAME="1"></A>Dumelin C.E., Chen Y., Leconte A.M., Chen Y.G. and Liu D.R. (2012), <I>Nature Chem. Bio.</I>, <B>8</B>, 913-919. <A HREF='https://dx.doi.org/10.1038/nchembio.1070'>doi:10.1038/nchembio.1070</A>
-<LI><A NAME="2"></A> Leszczynska G., Sadowska K., Bartos P., Nawrot B. and Sochacka E. (2016) <I>European Journal of Organic Chemistry</I>, <B>2016</B>, 3482-3485. <A HREF=' https://dx.doi.org/10.1002/ejoc.201600519'>doi:10.1002/ejoc.201600519</A>
+<LI><A NAME="2"></A> Leszczynska G., Sadowska K., Bartos P., Nawrot B. and Sochacka E. (2016) <I>European Journal of Organic Chemistry</I>, <B>2016</B>, 3482-3485. [doi:10.1002/ejoc.201600519]
 </OL>
 
