@@ -20,7 +20,9 @@
 
 <UL type="square">
 
-<LI><A NAME="RNA_type"></A><B>RNA types</B> have been divided into seven groups, of which tRNA generally contains the greatest structural diversity of modifications. Some modifications, such as pseudouridine are found in more than one type of RNA.
+<LI><A NAME="RNA_type"></A><B>RNA types</B>
+<P>
+The RNAs have been divided into seven groups, of which tRNA generally contains the greatest structural diversity of modifications. Some modifications, such as pseudouridine are found in more than one type of RNA.
 <P>
    <UL type="circle">
    <LI>tRNA (presently consisting of 92 nucleosides)
