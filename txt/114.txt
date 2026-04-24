@@ -18,6 +18,6 @@ COMPO=C15H18N6O7
 <B>References</B>
 <OL>
 <LI><A NAME="1"></A>Miyauchi K., Kimura S. and Suzuki T. (2013) <I>Nat Chem Biol</I>, <B>9</B>, 105-111. <A HREF='https://dx.doi.org/10.1038/nchembio.1137'>doi:10.1038/nchembio.1137</A>.
-<LI><A NAME="2"></A>Matuszewski M., Wojciechowski J., Miyauchi K., Gdaniec Z., Wolf W.M., Suzuki T. and Sochacka E., (2017) <I>Nucleic Acids Res.</I>, <B>45</B>, 2137-2149. <A HREF='https://dx.doi.org/10.1093/nar/gkw1189 '>doi:10.1093/nar/gkw1189 </A>
+<LI><A NAME="2"></A>Matuszewski M., Wojciechowski J., Miyauchi K., Gdaniec Z., Wolf W.M., Suzuki T. and Sochacka E., (2017) <I>Nucleic Acids Res.</I>, <B>45</B>, 2137-2149. <A HREF='https://dx.doi.org/10.1093/nar/gkw1189'>doi:10.1093/nar/gkw1189 </A>
 </OL>
 
