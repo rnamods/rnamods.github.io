@@ -16,6 +16,6 @@ COMPO=C14H25N7O4
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Mandal D., K&ouml;hrer C., Su D., Russel S.P., Krivos K., Castleberry C.M., Blum P., Limbach P.A., S&ouml;ll D. and RajBhandary U.L. (2010) <I>PNAS</I>, <B>107</B>, 2872-2877.
+<LI><A NAME="1"></A>Mandal D., K&ouml;hrer C., Su D., Russel S.P., Krivos K., Castleberry C.M., Blum P., Limbach P.A., S&ouml;ll D. and RajBhandary U.L. (2010) <I>PNAS</I>, <B>107</B>, 2872-2877. doi:10.1073/pnas.0914869107
 </OL>
 
