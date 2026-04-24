@@ -2,7 +2,7 @@
 <div class='orangebar'><div class='llink'></div>overview<div class='rlink'><A HREF='#' onClick='loadShow("txt/rnadesc.txt");'>description of the entries &#x22d9;</A></div></div>
 <div class='thetext'>
 
-<CENTER>
+<CENTER ID='submenu'>
 <A HREF="#comment">Comments on usage of nucleoside symbols</A><BR>
 <A HREF="#accur">Accuracy of assignments in the early literature</A><BR>
 <A HREF="#excl">Modifications excluded from the database</A><BR>
