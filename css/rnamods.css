@@ -12,12 +12,12 @@ body {
 	min-width:770px;
 	}
 
-a {
+#wrap a {
 	color:#900;
 	text-decoration:none;
 	}
 
-a:hover {
+#wrap a:hover {
 	color:#F00;
 	text-decoration:underline;
 	}
