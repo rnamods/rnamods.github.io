@@ -136,13 +136,13 @@ a:hover {
 	width:auto;
 	text-align:center;
 	margin:0px;
-	padding:0px;
+	padding:0px 20px 0px 20px;
 	}
 
 #nav1 li a {
 	text-decoration:none;
 	color:#088;
-	padding:1px 5px 1px 5px;
+	padding:1px 21px 1px 21px;
 	}
 
 #nav1 li a:hover {
