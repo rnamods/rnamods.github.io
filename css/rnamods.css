@@ -113,7 +113,7 @@ a:hover {
 	border:1px solid #999;
 	padding:0px;
 	margin:25px auto;
-	border-collapse: collapse;
+	border-collapse:collapse;
 	tr:nth-child(even) {background: #EED}
 }
 
@@ -123,6 +123,30 @@ a:hover {
 #myTable tr td:nth-child(1) { width: 5%; }
 #myTable tr td:nth-child(2) { width: 15%; }
 #myTable tr td:nth-child(4) { width: 10%; }
+
+#nav1 {
+	padding:0;
+	margin:0;
+	list-style:none;
+	font-weight:bold;
+}
+
+#nav1 li {
+	float:left;
+	width:auto;
+	text-align:center;
+	margin:0px 15px 0px 15px;
+	}
+
+#nav1 ul {
+	position:absolute;
+	width:220px;
+	left:-2000px;
+	border:1px solid #999;
+	background:#FFF;
+	color:#FFF;
+	padding:0;
+	}
 
 #nav, #nav ul {
 	padding:0;
@@ -177,38 +201,8 @@ a:hover {
 	width:210px;
 	}
 
-br._clearit {
-	clear:both;
-	}
-
-._whitespace {
-	height:500px;
-	}
-
-._or {
-	color:#FC3;
-	}
-
-._bl {
-	background:#FFFFEE;
-	background:#009;
-	}
-
-._bb {
-	font-weight:bold;
-	height:18px;
-	}
-
-.gr {
-	margin:0px 0px 0px 25px;
-	text-align:center;
-	align:center;
-	border:1px solid;
-	}
-
 .aTable {
 	background:#EEE;
-	text-align:left;
 	border:1px solid #999;
 	margin:20px auto;
 	max-width: 750px;
