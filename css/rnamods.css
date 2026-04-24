@@ -137,7 +137,9 @@ a:hover {
 	float: left;
 	width: auto;
 	text-align:center;
-	margin:0px 15px 0px 0px
+	margin:0px 15px 0px 0px;
+	list-style-position: inside;
+	border:3px solid;
 	}
 
 #nav li, #nav li a {
