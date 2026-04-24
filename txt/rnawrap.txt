@@ -27,6 +27,6 @@
 
 </div> <!-- thetext -->
 
-<div class='orangebar'>[|ID|]</div>
+<div class='orangebar'><span>[|ID|]</span></div>
 
 </div> <!-- textframe -->
