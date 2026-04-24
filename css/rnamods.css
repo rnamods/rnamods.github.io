@@ -125,7 +125,7 @@ a:hover {
 	margin:0px 0px 0px 10px;
 	list-style-type:none;
 	font-weight:bold;
-}
+	}
 
 #nav1 ul > li {
 	float:left;
@@ -166,78 +166,18 @@ a:hover {
 	display:block;
 	}
 
-#nav ol > li > a {
+#nav1 ol > li > a {
 	color:#048;
 	}
 
 #nav1 ol > li > a:hover {
 	text-decoration:none;
-	color:#990;
+	color:#900;
 	}
 
 #nav1 ul > li:hover ol  {
 	left:auto;
 	background-position:0 0;
-	}
-
-
-
-#nav li:hover ul  {
-	left:auto;
-	background-position: 0 0;
-	}
-
-#nav, #nav ul {
-	padding:0;
-	margin:0;
-	list-style: none;
-	font-weight:bold;
-	align:center;
-	border:1px solid;
-	}
-
-#nav li {
-	float: left;
-	width: auto;
-	text-align:center;
-	margin:0px 15px 0px 15px;
-	}
-
-#nav li, #nav li a {
-	text-decoration:none;
-	color:#999;
-	padding:1px 5px;
-	}
-
-#nav ul {
-	position: absolute;
-	width: 220px;
-	left:-2000px;
-	border:1px solid #999;
-	background:#FFF;
-	color:#FFF;
-	padding:0;
-	}
-
-#nav li:hover ul  {
-	left:auto;
-	background-position: 0 0;
-	}
-
-#nav li.sfHover ul {
-	left:auto;
-	background-position: 0 0;
-	margin:15px 0px 0px -75px;
-	}
-
-#nav li a:hover, #nav ul li:hover {
-	background:#009;
-	}
-
-#nav ul li {
-	text-align:left;
-	margin:1px 0px 1px 0px;
-	width:210px;
 	}
 
 .aTable {
