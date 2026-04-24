@@ -161,7 +161,7 @@ a:hover {
 	text-align:left;
 	}
 
-#nav ol li {
+#nav ul ol li {
 	padding:0px;
 	margin:0px;
 	display:block;
