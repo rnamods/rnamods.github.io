@@ -127,10 +127,6 @@ a:hover {
 	font-weight:bold;
 }
 
-#nav1 a {
-	color:#048;
-	}
-
 #nav1 ul > li {
 	float:left;
 	width:auto;
@@ -142,6 +138,7 @@ a:hover {
 
 #nav1 ul > li > a {
 	padding:1px 21px 1px 21px;
+	color:#048;
 	}
 
 #nav1 ul > li > a:hover {
@@ -168,6 +165,7 @@ a:hover {
 	padding:0px;
 	margin:5px;
 	display:block;
+	color:#048;
 	}
 
 #nav1 ol a:hover {
