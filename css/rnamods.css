@@ -171,6 +171,7 @@ a:hover {
 
 #nav1 ol a:hover {
 	border:0px;
+	text-decoration:none;
 	}
 
 #nav1 ul > li:hover ol  {
