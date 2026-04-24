@@ -107,7 +107,7 @@ a:hover {
 #myTable {
 	width:95%;
 	border:1px solid #999;
-	padding:0px;
+	padding:0px 0px 0px 5px;
 	margin:25px auto;
 	border-collapse:collapse;
 	tr:nth-child(even) {background: #EED}
