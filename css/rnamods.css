@@ -137,13 +137,13 @@ a:hover {
 	}
 
 #nav1 ul > li > a {
-	padding:1px 21px 1px 21px;
+	padding:2px 22px 2px 22px;
 	color:#028;
 	}
 
 #nav1 ul > li > a:hover {
 	text-decoration:none;
-	border:1px solid #028;
+	border:2px solid #028;
 	color:#900;
 	padding:0px 20px 0px 20px;
 	}
