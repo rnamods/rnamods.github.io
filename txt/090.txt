@@ -18,5 +18,5 @@ COMPO=C12H17N5O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Hsu-Chen, C.C. and Dubin, D.T. (1976) <I>Nature</I>, <B>264</B>, 190-191.
+<LI><A NAME="1"></A>Hsu-Chen, C.C. and Dubin, D.T. (1976) <I>Nature</I>, <B>264</B>, 190-191. [doi:10.1038/264190a0]
 </OL>
