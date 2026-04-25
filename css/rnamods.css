@@ -152,7 +152,8 @@ a:hover {
 #nav ul > li > a:hover {
 	text-decoration:none;
 	border:2px solid #999;
-	border-radius:25% 25% 0% 0%;
+	border-top-left-radius:15px 15px;
+	border-top-right-radius:15px 15px;
 	color:#900;
 	padding:0px 20px 0px 20px;
 	}
