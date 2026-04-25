@@ -230,8 +230,7 @@ sub, sup {
 @media print {
 	.printonly {
 		display:inline-block;
-		}
-	
+		}	
 	#nav, #footer, #submenu, .llink, .rlink {
 		display:none;
 		}
