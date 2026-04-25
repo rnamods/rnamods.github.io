@@ -20,7 +20,7 @@ and was presumed to have originated from ?N#4,2'-?O-dimethylcytidine [<A HREF="#
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Dubin, D.T., Taylor, R.H. and Davenport, L.W. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 4385-4397.
-<LI><A NAME="2"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187.
-<LI><A NAME="3"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15.
+<LI><A NAME="1"></A>Dubin, D.T., Taylor, R.H. and Davenport, L.W. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 4385-4397. [doi:10.1093/nar/5.11.4385]
+<LI><A NAME="2"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187. [doi:10.1021/ja01510a042]
+<LI><A NAME="3"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15. [doi:10.1016/0003-9861(68)90553-5]
 </OL>
