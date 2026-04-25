@@ -137,15 +137,13 @@ a:hover {
 	}
 
 #nav ul > li > a {
-	padding:2px 22px 2px 22px;
+	padding:0 20px 0 20px;
 	color:#028;
 	}
 
-#nav ul > li > a:hover {
+#nav ul > li > a:hover, #nav ol > li > a:hover {
 	text-decoration:none;
-	border:2px solid #999;
 	color:#900;
-	padding:0px 20px 0px 20px;
 	}
 
 #nav ol {
@@ -166,11 +164,6 @@ a:hover {
 	}
 
 #nav ol > li > a { color:#028; }
-
-#nav ol > li > a:hover {
-	text-decoration:none;
-	color:#900;
-	}
 
 #nav ul > li:hover ol  {
 	left:auto;
