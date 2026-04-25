@@ -19,6 +19,6 @@ COMPO=C12H19N3O9S
 <B>References</B>
 <OL>
 <LI><A NAME="1"></A>Suzuki, T., Suzuki, T., Wada, T., Saigo, K. and Watanabe, K. (2001) <I>Nucleic Acids Res. Suppl.</I>, 257-258. [doi:10.1093/nass/1.1.257]
-<LI><A NAME="2"></A>Wada, T., Shimazaki, T., Nakagawa, S., Otuki, T., Kurata, S., Suzuki, T., Watanabe, K. and Saigo, K. (2002) <I>Nucleic Acids Res. Suppl.</I>, 11-12.
+<LI><A NAME="2"></A>Wada, T., Shimazaki, T., Nakagawa, S., Otuki, T., Kurata, S., Suzuki, T., Watanabe, K. and Saigo, K. (2002) <I>Nucleic Acids Res. Suppl.</I>, 11-12. [doi:10.1093/nass/2.1.11]
 <LI><A NAME="3"></A>Suzuki, T., Suzuki, T., Wada, T., Saigo, K. and Watanabe, K. (2002) <I>EMBO J.</I>, <B>21</B>, 6581-6589.
 </OL>
