@@ -19,6 +19,6 @@ COMPO=C11H14N4O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Gray, M.W. (1974) <I>Biochim. Biophys. Acta</I>, <B>374</B>, 253-257.
-<LI><A NAME="2"></A>Gray, M.W. (1976) <I>Nucleic Acids Res.</I>, <B>3</B>, 977-988.
+<LI><A NAME="1"></A>Gray, M.W. (1974) <I>Biochim. Biophys. Acta</I>, <B>374</B>, 253-257. [doi:10.1016/0005-2787(74)90367-0]
+<LI><A NAME="2"></A>Gray, M.W. (1976) <I>Nucleic Acids Res.</I>, <B>3</B>, 977-988. [doi:10.1093/nar/3.4.977]
 </OL>
