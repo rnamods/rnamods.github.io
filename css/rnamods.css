@@ -1,11 +1,11 @@
 body, html {
-	margin:0px;
-	padding:0px;
+	margin:0;
+	padding:0;
 	background:#EEE;
 	color:#028;
 	position:absolute;
-	left:0px;
-	top:0px;
+	left:0;
+	top:0;
 	}
 
 body { min-width:770px; }
@@ -29,7 +29,7 @@ a:hover {
 	}
 
 #wrap {
-	margin:0px;
+	margin:0;
 	padding:8px;
 	width:770px;
 	}
@@ -41,9 +41,8 @@ a:hover {
 
 #header {
 	border:1px solid #FC3;
-	background:#EEE;
-	padding:0px;
-	margin:0px;
+	padding:0;
+	margin:0;
 	background:url('../images/rnamods.gif');
 	background-repeat:no-repeat;
 	overflow:hidden;
@@ -108,22 +107,21 @@ a:hover {
 #myTable {
 	width:95%;
 	border:1px solid #999;
-	padding:0px;
+	padding:0;
 	margin:12px auto;
 	border-collapse:collapse;
-	tr:nth-child(even) {background:#EED}
+	tr:nth-child(even) {background:#EED};
 }
 
 #myTable tr th:nth-child(1) { width:5%;padding-left:5px; }
 #myTable tr td:nth-child(1) { width:5%;padding-left:5px; }
 #myTable tr th:nth-child(2) { width:15%; }
-#myTable tr th:nth-child(4) { width:10%; }
-#myTable tr td:nth-child(1) { width:5%; }
 #myTable tr td:nth-child(2) { width:15%; }
+#myTable tr th:nth-child(4) { width:10%; }
 #myTable tr td:nth-child(4) { width:10%; }
 
 #nav ul {
-	padding:0px;
+	padding:0;
 	margin:0px 0px 0px 10px;
 	list-style-type:none;
 	font-weight:bold;
@@ -156,14 +154,14 @@ a:hover {
 	left:-2000px;
 	border:2px solid #999;
 	background:#FFF;
-	padding:0px;
+	padding:0;
 	align:left;
 	text-align:left;
 	display:block;
 	}
 
 #nav ol li {
-	padding:0px;
+	padding:0;
 	margin:5px;
 	display:block;
 	}
