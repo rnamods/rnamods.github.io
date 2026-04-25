@@ -23,8 +23,8 @@ Direct comparison with the authentic nucleoside was not made.
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Jacobson, R.A. and Bonner, J. (1968) <I>Biochem. Biophys. Res. Commun.</I>, <B>33</B>, 716-720.
-<LI><A NAME="2"></A>Cline, R.E., Fink, R.M. and Fink, K. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 2521-2527.
+<LI><A NAME="1"></A>Jacobson, R.A. and Bonner, J. (1968) <I>Biochem. Biophys. Res. Commun.</I>, <B>33</B>, 716-720. [doi:10.1016/0006-291X(68)90217-9]
+<LI><A NAME="2"></A>Cline, R.E., Fink, R.M. and Fink, K. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 2521-2527. [doi:10.1021/ja01519a056]
 <LI><A NAME="3"></A>Naora, H. (1977) In Stewart, P.R. and Letham, D.S. (eds.) The Ribonucleic Acids. Springer-Verlag, Berlin, pp. 43-80.
 </OL>
   
