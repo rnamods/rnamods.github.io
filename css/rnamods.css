@@ -8,9 +8,7 @@ body, html {
 	top:0px;
 	}
 
-body {
-	min-width:770px;
-	}
+body { min-width:770px; }
 
 a {
 	color:#900;
@@ -64,9 +62,7 @@ a:hover {
 	color:#999;
 	}
 
-#thedata dt {
-	font-weight:bold;
-	}
+#thedata dt { font-weight:bold; }
 
 .mygreek {
 	font-family:serif;
@@ -87,9 +83,7 @@ a:hover {
   display: table-cell;
 }
 
-.thetext {
-	padding:5px;
-	}
+.thetext { padding:5px; }
 
 .rlink {
 	text-align:right;
@@ -174,9 +168,7 @@ a:hover {
 	display:block;
 	}
 
-#nav ol > li > a {
-	color:#028;
-	}
+#nav ol > li > a { color:#028; }
 
 #nav ol > li > a:hover {
 	text-decoration:none;
@@ -206,21 +198,15 @@ a:hover {
 	font-size:10pt;
 	}
 
-td.comment, td.left {
-	text-align:left;
-	}
+td.comment, td.left { text-align:left; }
 
-tr.dark {
-	background:#CCC;
-	}
+tr.dark { background:#CCC; }
 
 sub { vertical-align: sub; line-height: 1.0; }
 
 sup { vertical-align: super; line-height: 1.0; }
 
-sub, sup {
-	font-size:0.8em;
-	{
+sub, sup { font-size:0.8em; }
 
 #bigtitle {
 	font-size:24pt;
