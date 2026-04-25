@@ -224,12 +224,16 @@ sub, sup {
 	font-size:0.8em;
 	{
 
+#bigtitle {
+	font-size:24pt;
+	font-weight:bold;
+	}
+	
 @media print {
 	.printonly {
-		font-size:24pt;
-		font-weight:bold;
 		display:inline-block;
 		}
+	
 	#nav, #footer, #submenu, .llink, .rlink {
 		display:none;
 		}
