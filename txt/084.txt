@@ -20,6 +20,6 @@ therefore considered inconclusive.
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>R&aacute;cz, I., Kir&aacute;ly, I. and L&aacute;sztity, D. (1978) <I>Planta</I>, <B>142</B>, 263-267.
+<LI><A NAME="1"></A>R&aacute;cz, I., Kir&aacute;ly, I. and L&aacute;sztity, D. (1978) <I>Planta</I>, <B>142</B>, 263-267. [doi:10.1007/BF00385075]
 <LI><A NAME="2"></A>Brossmer, R. and R&ouml;hm, E. (1966) <I>Z. Naturforsch. B: Anorg. Chem., Org.Chem., Biochem., Biophys., Biol.,</I>, <B>21</B>, 942-952.
 </OL>
