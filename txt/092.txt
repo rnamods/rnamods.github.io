@@ -16,8 +16,8 @@ COMPO=C11H16N2O6
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Bangs, J.D., Crain, P.F., Hashizume, T., McCloskey, J.A. and Boothroyd, J.C. (1992) <I>J. Biol. Chem.</I>, <B>267</B>, 9805-9815.
-<LI><A NAME="2"></A>Furukawa, Y., Kobayashi, K., Kanai, Y. and Honjo, M. (1965) <I>Chem. Pharm. Bull.</I>, <B>13</B>, 1273-1278.
+<LI><A NAME="1"></A>Bangs, J.D., Crain, P.F., Hashizume, T., McCloskey, J.A. and Boothroyd, J.C. (1992) <I>J. Biol. Chem.</I>, <B>267</B>, 9805-9815. [doi:10.1128/mcb.12.11.4844]
+<LI><A NAME="2"></A>Furukawa, Y., Kobayashi, K., Kanai, Y. and Honjo, M. (1965) <I>Chem. Pharm. Bull.</I>, <B>13</B>, 1273-1278. [doi:10.1248/cpb.13.1273]
 </OL>
 
   
