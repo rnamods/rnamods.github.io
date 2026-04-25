@@ -16,6 +16,6 @@ COMPO=C14H21N3O8
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Maden, B.E.H., Forbes, J., de Jonge, P. and Klootwijk, J. (1975) <I>FEBS Lett.</I>, <B>59</B>, 60-63.
-<LI><A NAME="2"></A>Saponara, A.G. and Enger, M.D. (1974) <I>Biochim. Biophys. Acta</I>, <B>349</B>, 61-77.
+<LI><A NAME="1"></A>Maden, B.E.H., Forbes, J., de Jonge, P. and Klootwijk, J. (1975) <I>FEBS Lett.</I>, <B>59</B>, 60-63. [doi:10.1016/0014-5793(75)80341-3]
+<LI><A NAME="2"></A>Saponara, A.G. and Enger, M.D. (1974) <I>Biochim. Biophys. Acta</I>, <B>349</B>, 61-77. [doi:10.1016/0005-2787(74)90009-4]
 </OL>
