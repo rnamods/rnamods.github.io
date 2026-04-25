@@ -16,5 +16,5 @@ COMPO=C11H15N3O6
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Pa&iuml;s de Barros, J.-P., Keith, G., El Adlouni, C., Glasser, A-L., Mack, G., Dirheimer, G., and Desgr&egrave;s, J. (1996) <I>Nucleic Acids Res.</I> <B>24</B>, 1489-1496.
+<LI><A NAME="1"></A>Pa&iuml;s de Barros, J.-P., Keith, G., El Adlouni, C., Glasser, A-L., Mack, G., Dirheimer, G., and Desgr&egrave;s, J. (1996) <I>Nucleic Acids Res.</I> <B>24</B>, 1489-1496. [doi:10.1093/nar/24.8.1489]
 </OL>
