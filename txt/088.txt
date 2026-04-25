@@ -20,8 +20,8 @@ COMPO=C12H17N5O4
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Wei, C.-M., Gershowitz, A. and Moss, B. (1975) <I>Cell</I>, <B>4</B>, 379-386.
-<LI><A NAME="2"></A>Shibata, H., Ro-Choi, T.S., Reddy, R., Choi, Y.C., Henning, D. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3909-3920.
-<LI><A NAME="3"></A>Crain, P.F., Choi, Y.C., Busch, H. and McCloskey, J.A. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 771-778.
-<LI><A NAME="4"></A>Robins, M.J., MacCoss, M. and Lee, A.S.K. (1976) <I>Biochem. Biophys. Res. Commun.</I>, <B>70</B>, 356-363.
+<LI><A NAME="1"></A>Wei, C.-M., Gershowitz, A. and Moss, B. (1975) <I>Cell</I>, <B>4</B>, 379-386. [doi:10.1016/0092-8674(75)90158-0]
+<LI><A NAME="2"></A>Shibata, H., Ro-Choi, T.S., Reddy, R., Choi, Y.C., Henning, D. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3909-3920. [doi:10.1016/S0021-9258(19)41485-3]
+<LI><A NAME="3"></A>Crain, P.F., Choi, Y.C., Busch, H. and McCloskey, J.A. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 771-778. [doi:10.1093/nar/5.3.771]
+<LI><A NAME="4"></A>Robins, M.J., MacCoss, M. and Lee, A.S.K. (1976) <I>Biochem. Biophys. Res. Commun.</I>, <B>70</B>, 356-363. [doi:10.1016/0006-291X(76)91053-6]
 </OL>
