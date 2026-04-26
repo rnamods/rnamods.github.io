@@ -20,7 +20,7 @@ A recent and more rigorous structural characterization is reported in [<A HREF="
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Sekine, M., Peshakova, L.S., Hata, T., Yokoyama, S. and Miyazawa, T. (1987) <I>J. Org. Chem.</I>, <B>52</B>, 5060-5061.
+<LI><A NAME="1"></A>Sekine, M., Peshakova, L.S., Hata, T., Yokoyama, S. and Miyazawa, T. (1987) <I>J. Org. Chem.</I>, <B>52</B>, 5060-5061. [doi:10.1021%2Fjo00231a052]
 <LI><A NAME="2"></A>Yokoyama, S., Watanabe, K., Yamaizumi, Z., Kuchino, Y., Nishimura, S. and Miyazawa, T. (1985) The 11th International tRNA Workshop. Banz, Germany, Abstract DII-3.
-<LI><A NAME="3"></A>Horie, N., Yamaizumi, Z., Kuchino, Y., Takai, K., Goldman, E., Miyazawa, T., Nishimura, S. and Yokoyama, S. (1999) <I>Biochemistry</I>, <B>38</B>, 207-217.
+<LI><A NAME="3"></A>Horie, N., Yamaizumi, Z., Kuchino, Y., Takai, K., Goldman, E., Miyazawa, T., Nishimura, S. and Yokoyama, S. (1999) <I>Biochemistry</I>, <B>38</B>, 207-217. [doi:10.1021/bi981865g]
 </OL>
