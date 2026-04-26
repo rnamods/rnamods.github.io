@@ -18,6 +18,6 @@ COMPO=C12H17N3O8
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Murao, K. and Ishikura, H. (1978) <I>Nucleic Acids Res., Spec. Publ.</I>, <B>5</B>, 333-336.
-<LI><A NAME="2"></A>Reese, C.B. and Sanghvi, Y.S. (1984) <I>J. Chem. Soc., Chem. Commun.</I>, 62-63.
+<LI><A NAME="1"></A>Murao, K. and Ishikura, H. (1978) <I>Nucleic Acids Res., Spec. Publ.</I>, <B>5</B>, s333-s336. [doi:10.1093/nar/1.suppl_2.s333]
+<LI><A NAME="2"></A>Reese, C.B. and Sanghvi, Y.S. (1984) <I>J. Chem. Soc., Chem. Commun.</I>, 62-63. [doi:10.1039/C39840000062]
 </OL>
