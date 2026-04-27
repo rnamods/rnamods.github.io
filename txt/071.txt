@@ -19,5 +19,5 @@ not rigorously characterized by conventional means. No chemical synthesis report
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Hagervall, T.G., Edmonds, C.G., McCloskey, J.A. and Bj&ouml;rk, G.R. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 8488-8495. 
+<LI><A NAME="1"></A>Hagervall, T.G., Edmonds, C.G., McCloskey, J.A. and Bj&ouml;rk, G.R. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 8488-8495. [doi:10.1016/S0021-9258(18)47440-6]
 </OL>
