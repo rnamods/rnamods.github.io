@@ -19,6 +19,6 @@ Although only one selenonucleoside, mnm#5se#2U, has been structurally characteri
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Wittwer, A.J., Tsai, L., Ching, W.-M. and Stadtman, T.C. (1984) <I>Biochemistry</I>, <B>23</B>, 4650-4655.
-<LI><A NAME="2"></A>Ching, W.-M. (1984) <I>Proc. Natl. Acad. Sci. USA</I>, <B>81</B>, 3010-3013.
+<LI><A NAME="1"></A>Wittwer, A.J., Tsai, L., Ching, W.-M. and Stadtman, T.C. (1984) <I>Biochemistry</I>, <B>23</B>, 4650-4655. [link:www.jstor.org/stable/2356204]
+<LI><A NAME="2"></A>Ching, W.-M. (1984) <I>Proc. Natl. Acad. Sci. USA</I>, <B>81</B>, 3010-3013. [doi:10.1073/pnas.81.10.3010]
 </OL>
