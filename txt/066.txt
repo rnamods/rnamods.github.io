@@ -18,6 +18,6 @@ COMPO=C11H14N2O9
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kawakami, M., Nishio, K., Takemura, S., Kondo, T. and Goto, T. (1979) <I>Nucleic Acids Symp. Ser.</I>, <B>6</B>, s53-s55. [link:pubmed.ncbi.nlm.nih.gov/547240/]
-<LI><A NAME="2"></A>Kondo, T., Fukami, T., Goto, T., Kawakami, M. and Takemura, S. (1983) <I>Nucleic Acids Symp. Ser.</I>, <B>12</B>, 127-130. [link:pubmed.ncbi.nlm.nih.gov/6664845/]
+<LI><A NAME="1"></A>Kawakami, M., Nishio, K., Takemura, S., Kondo, T. and Goto, T. (1979) <I>Nucleic Acids Symp. Ser.</I>, <B>6</B>, s53-s55. [pmid:547240]
+<LI><A NAME="2"></A>Kondo, T., Fukami, T., Goto, T., Kawakami, M. and Takemura, S. (1983) <I>Nucleic Acids Symp. Ser.</I>, <B>12</B>, 127-130. [pmid:6664845]
 </OL>
