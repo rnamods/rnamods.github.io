@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=Acetic acid, [(1,2,3,4-tetrahydro-2,4-dioxo- 1-!b-&D-ribofuranosyl-5-pyrimidinyl)oxy]-, methyl ester
+CANAM=Acetic acid, [(1,2,3,4-tetrahydro-2,4-dioxo-1-!b-&D-ribofuranosyl-5-pyrimidinyl)oxy]-, methyl ester
 CANUR=66536-81-0
 CANUB=
 COMPO=C12H16N2O9
