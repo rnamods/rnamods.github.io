@@ -16,6 +16,6 @@ COMPO=C12H16N2O8
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Tumaitis, T.D. and Lane, B.G. (1970) <I>Biochim. Biophys. Acta</I>, <B>224</B>, 391-403.
-<LI><A NAME="2"></A>Fissekis, J.D. and Sweet, F. (1970) <I>Biochemistry</I>, <B>9</B>, 3136-3142.
+<LI><A NAME="1"></A>Tumaitis, T.D. and Lane, B.G. (1970) <I>Biochim. Biophys. Acta</I>, <B>224</B>, 391-403. [doi:10.1016/0005-2787(70)90572-1]
+<LI><A NAME="2"></A>Fissekis, J.D. and Sweet, F. (1970) <I>Biochemistry</I>, <B>9</B>, 3136-3142. [doi:10.1021/bi00818a004]
 </OL>
