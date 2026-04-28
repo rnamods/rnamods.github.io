@@ -18,5 +18,5 @@ COMPO=C13H18N2O8
 <OL>
 <LI><A NAME="1"></A>Diamond, A.M., Choi, I.S., Crain, P.F., Hashizume, T., Pomerantz, S.C., Cruz, R., Steer, C.J., Hill, K.E., Burk, R.F., McCloskey, J.A. and Hatfield, D.L. (1993) <I>J. Biol. Chem.</I>, <B>268</B>, 14215-14223. [doi:10.1016/S0021-9258(19)85229-8]
 <LI><A NAME="2"></A>Gray, M.W. and Thomas, C. (1976) <I>Biochemistry</I>, <B>15</B>, 3046-3051. [doi:10.1021/bi00659a017]
-<LI><A NAME="3"></A>Sochacka, E. and Malkiewicz, A. (1990) <I>Nucleosides Nucleotides</I>, <B>9</B>, 793-802. [doi10.1080/15257779008043145]
+<LI><A NAME="3"></A>Sochacka, E. and Malkiewicz, A. (1990) <I>Nucleosides Nucleotides</I>, <B>9</B>, 793-802. [doi:10.1080/15257779008043145]
 </OL>
