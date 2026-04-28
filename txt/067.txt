@@ -16,5 +16,5 @@ COMPO=C12H16N2O9
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kawakami, M., Takemura, S., Kondo, T., Fukami, T. and Goto, T. (1988) <I>J. Biochem. (Tokyo)</I>, <B>104</B>, 108-111.
+<LI><A NAME="1"></A>Kawakami, M., Takemura, S., Kondo, T., Fukami, T. and Goto, T. (1988) <I>J. Biochem. (Tokyo)</I>, <B>104</B>, 108-111. [doi:10.1093/oxfordjournals.jbchem.a122403]
 </OL>
