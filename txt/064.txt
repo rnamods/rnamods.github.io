@@ -18,5 +18,5 @@ COMPO=C11H14N2O9
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Murao, K., Saneyoshi, M., Harada, F. and Nishimura, S. (1969) <I>Biochem. Biophys. Res. Commun.</I>, <B>38</B>, 657-662.
+<LI><A NAME="1"></A>Murao, K., Saneyoshi, M., Harada, F. and Nishimura, S. (1969) <I>Biochem. Biophys. Res. Commun.</I>, <B>38</B>, 657-662. [doi:10.1016/0006-291X(70)90631-5]
 </OL>
