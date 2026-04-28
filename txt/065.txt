@@ -18,7 +18,7 @@ COMPO=C12H16N2O9
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Pope, W.T., Brown, A. and Reeves, R.H. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 1041-1057.
-<LI><A NAME="2"></A>Malkiewicz, A., Nawrot, B. and Sochacka, E. (1987) <I>Z. Naturforsch., B: Chem. Sci.</I>, <B>42</B>, 360-366.
+<LI><A NAME="1"></A>Pope, W.T., Brown, A. and Reeves, R.H. (1978) <I>Nucleic Acids Res.</I>, <B>5</B>, 1041-1057. [doi:10.1093/nar/5.3.1041]
+<LI><A NAME="2"></A>Ma&#322;kiewicz, A., Nawrot, B. and Sochacka, E. (1987) <I>Z. Naturforsch., B: Chem. Sci.</I>, <B>42</B>, 360-366. [doi:10.1515/znb-1987-0319]
 </OL>
 
