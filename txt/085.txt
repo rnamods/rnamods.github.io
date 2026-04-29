@@ -27,6 +27,6 @@ later studies showed it to be confined to the 28S rRNA [<A HREF="#5">5</A>].
 <LI><A NAME="3"></A>Kowalak, J.A., Pomerantz, S.C., Crain, P.F. and McCloskey, J.A. (1993) <I>Nucleic Acids Res.</I> <B>21</B>, 4577-4585. [doi:10.1093/nar/21.19.4577]
 <LI><A NAME="4"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15. [doi:10.1016/0003-9861(68)90553-5]
 <LI><A NAME="5"></A>Klagsbrun, M. (1973) <I>J. Biol. Chem.</I>, <B>248</B>, 2612-2620. [doi:10.1016/S0021-9258(19)44151-3]
-<LI><A NAME="6"></A>Levene, P.A. and Tipson, R.S. (1934) <I>J. Biol. Chem.</I>, <B>104</B>, 385-393.
+<LI><A NAME="6"></A>Levene, P.A. and Tipson, R.S. (1934) <I>J. Biol. Chem.</I>, <B>104</B>, 385-393. [doi:10.1016/S0021-9258(18)75776-1]
 <LI><A NAME="7"></A>Miles, H.T. (1956) <I>Biochim. Biophys. Acta</I>, <B>22</B>, 247-253. [doi:10.1016/0006-3002(56)90147-0]
 </OL>
