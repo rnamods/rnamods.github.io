@@ -18,5 +18,5 @@ COMPO=C11H16N2O6
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Gross, H.J., Simsek, M., Limburg, K., Heckman, J. and RajBhandary, U.L. (1974) <I>Nucleic Acids Res.</I>, <B>1</B>, 35-43.
+<LI><A NAME="1"></A>Gross, H.J., Simsek, M., Limburg, K., Heckman, J. and RajBhandary, U.L. (1974) <I>Nucleic Acids Res.</I>, <B>1</B>, 35-43. [doi:10.1093/nar/1.1.35]
 </OL>
