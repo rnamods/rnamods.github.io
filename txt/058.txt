@@ -16,6 +16,6 @@ COMPO=C9H12N2O5S
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Lipsett, M.N. (1965) <I>J. Biol. Chem.</I>, <B>240</B>, 3975-3978.
-<LI><A NAME="2"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187.
+<LI><A NAME="1"></A>Lipsett, M.N. (1965) <I>J. Biol. Chem.</I>, <B>240</B>, 3975-3978. [doi:10.1016/S0021-9258(18)97137-1]
+<LI><A NAME="2"></A>Fox, J.J., Van Praag, D., Wempen, I., Doerr, I.L., Cheong, L., Knoll, J.E., Eidinoff, M.L., Bendich, A. and Brown, G.B. (1959) <I>J. Am. Chem. Soc.</I>, <B>81</B>, 178-187. [doi:10.1021/ja01510a042]
 </OL>
