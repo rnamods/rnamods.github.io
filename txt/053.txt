@@ -27,15 +27,15 @@ COMPO=C10H14N2O6
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Noon, K.R., Bruenger, E. and McCloskey, J.A. (1998) <I>J. Bacteriol.</I>, <B>180</B>, 2883-2888.
-<LI><A NAME="2"></A>Nichols, J.L. and Lane, B.G. (1966) <I>Can. J. Biochem.</I>, <B>44</B>, 1633-1645.
-<LI><A NAME="3"></A>Jones, J.W. and Robins, R.K. (1963) <I>J. Am. Chem. Soc.</I>, <B>85</B>, 193-201.
-<LI><A NAME="4"></A>Rubin, G.M. (1974) <I>J. Biol. Chem.</I>, <B>248</B>, 3860-3875.
-<LI><A NAME="5"></A>Dubin, D.T. and Taylor, R.H. (1978) <I>J. Mol. Biol.</I>, <B>121</B>, 523-540.
-<LI><A NAME="6"></A>Klagsbrun, M. (1973) <I>J. Biol. Chem.</I>, <B>248</B>, 2612-2620.
-<LI><A NAME="7"></A>Singh, H. and Lane, B.G. (1964) <I>Can. J. Biochem.</I>, <B>42</B>, 1011-1021.
-<LI><A NAME="8"></A>Desrosiers, R., Friderici, K. and Rottman, F. (1974) <I>Proc. Natl. Acad. Sci. USA</I>, <B>71</B>, 3971-3975.
-<LI><A NAME="9"></A>Busch, H., Ro-Choi, T.S., Prestayko, A.W., Shibata, H., Crooke, S.T., El-Khatib, S.M., Choi, Y.C. and Mauritzen, C.M. (1971) <I>Perspect. Biol. Med.</I>, <B>15</B>, 117-139.
-<LI><A NAME="10"></A>Hall, R.H. (1963) <I>Biochim. Biophys. Acta</I>, <B>68</B>, 278-283.
-<LI><A NAME="11"></A>Furukawa, Y., Kobayashi, K., Kanai, Y. and Honjo, M. (1965) <I>Chem. Pharm. Bull.</I>, <B>13</B>, 1273-1278.
+<LI><A NAME="1"></A>Noon, K.R., Bruenger, E. and McCloskey, J.A. (1998) <I>J. Bacteriol.</I>, <B>180</B>, 2883-2888. [doi:10.1128/jb.180.11.2883-2888.1998]
+<LI><A NAME="2"></A>Nichols, J.L. and Lane, B.G. (1966) <I>Can. J. Biochem.</I>, <B>44</B>, 1633-1645. [doi:10.1139/o66-186]
+<LI><A NAME="3"></A>Jones, J.W. and Robins, R.K. (1963) <I>J. Am. Chem. Soc.</I>, <B>85</B>, 193-201. [doi:10.1021/ja00885a019]
+<LI><A NAME="4"></A>Rubin, G.M. (1974) <I>J. Biol. Chem.</I>, <B>248</B>, 3860-3875. [doi:10.1016/S0021-9258(19)43814-3]
+<LI><A NAME="5"></A>Dubin, D.T. and Taylor, R.H. (1978) <I>J. Mol. Biol.</I>, <B>121</B>, 523-540. [doi:10.1016/0022-2836(78)90398-4]
+<LI><A NAME="6"></A>Klagsbrun, M. (1973) <I>J. Biol. Chem.</I>, <B>248</B>, 2612-2620. [doi:10.1016/S0021-9258(19)44151-3]
+<LI><A NAME="7"></A>Singh, H. and Lane, B.G. (1964) <I>Can. J. Biochem.</I>, <B>42</B>, 1011-1021. [doi:10.1139/o64-112]
+<LI><A NAME="8"></A>Desrosiers, R., Friderici, K. and Rottman, F. (1974) <I>Proc. Natl. Acad. Sci. USA</I>, <B>71</B>, 3971-3975. [doi:10.1073/pnas.71.10.3971]
+<LI><A NAME="9"></A>Busch, H., Ro-Choi, T.S., Prestayko, A.W., Shibata, H., Crooke, S.T., El-Khatib, S.M., Choi, Y.C. and Mauritzen, C.M. (1971) <I>Perspect. Biol. Med.</I>, <B>15</B>, 117-139. [doi:10.1353/pbm.1971.0055]
+<LI><A NAME="10"></A>Hall, R.H. (1963) <I>Biochim. Biophys. Acta</I>, <B>68</B>, 278-283.[doi:10.1016/0926-6550(63)90439-0]
+<LI><A NAME="11"></A>Furukawa, Y., Kobayashi, K., Kanai, Y. and Honjo, M. (1965) <I>Chem. Pharm. Bull.</I>, <B>13</B>, 1273-1278. [doi:10.1248/cpb.13.1273]
 </OL>
