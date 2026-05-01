@@ -18,6 +18,6 @@ COMPO=C10H14N2O5S
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kimura-Harada, F., Saneyoshi, M. and Nishimura, S. (1971) <I>FEBS Lett.</I>, <B>13</B>, 335-338.
-<LI><A NAME="2"></A>Shaw, G., Warrener, R.N., Maguire, M.H. and Ralph, R.K. (1958) <I>J. Chem. Soc.</I>, 2294-2299.
+<LI><A NAME="1"></A>Kimura-Harada, F., Saneyoshi, M. and Nishimura, S. (1971) <I>FEBS Lett.</I>, <B>13</B>, 335-338. [doi:10.1016/0014-5793(71)80254-5]
+<LI><A NAME="2"></A>Shaw, G., Warrener, R.N., Maguire, M.H. and Ralph, R.K. (1958) <I>J. Chem. Soc.</I>, 2294-2299. [doi:10.1039/JR9580002294]
 </OL>
