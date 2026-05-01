@@ -17,5 +17,5 @@ COMPO=C9H12N2O5S
 <B>References</B>
 <OL>
 <LI><A NAME="1"></A>Chackalaparampil, I. and Cherayil, J.D. (1981) <I>Biochem. Int.</I>, <B>2</B>, 121-128.
-<LI><A NAME="2"></A>Shaw, G., Warrener, R.N., Maguire, M.H. and Ralph, R.K. (1958) <I>J. Chem. Soc.</I>, 2294-2299. [doi:https://doi.org/10.1039/JR9580002294]
+<LI><A NAME="2"></A>Shaw, G., Warrener, R.N., Maguire, M.H. and Ralph, R.K. (1958) <I>J. Chem. Soc.</I>, 2294-2299. [doi:10.1039/JR9580002294]
 </OL>
