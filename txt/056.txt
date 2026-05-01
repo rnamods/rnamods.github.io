@@ -22,9 +22,9 @@ COMPO=C10H14N2O6
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Gray, M.W. and Keddy, G.M. (1974) <I>Biochemistry</I>, <B>13</B>, 5453-5463.
-<LI><A NAME="2"></A>Maden, B.E.H. and Salim, M. (1974) <I>J. Mol. Biol.</I>, <B>88</B>, 133-164.
-<LI><A NAME="3"></A>Kiss, T., Antal, M. and Solymosy, F. (1987) <I>Nucleic Acids Res.</I>, <B>15</B>, 543-560.
-<LI><A NAME="4"></A>Hall, R.H. (1964) <I>Biochemistry</I>, <B>3</B>, 876-880.
-<LI><A NAME="5"></A>Robins, M.J., Naik, S.R. and Alan, S.K. (1974) <I>J. Org. Chem.</I>, <B>39</B>, 1891-1899.
+<LI><A NAME="1"></A>Gray, M.W. and Keddy, G.M. (1974) <I>Biochemistry</I>, <B>13</B>, 5453-5463. [doi:10.1021/bi00724a001]
+<LI><A NAME="2"></A>Maden, B.E.H. and Salim, M. (1974) <I>J. Mol. Biol.</I>, <B>88</B>, 133-164. [doi:10.1016/0022-2836(74)90299-X]
+<LI><A NAME="3"></A>Kiss, T., Antal, M. and Solymosy, F. (1987) <I>Nucleic Acids Res.</I>, <B>15</B>, 543-560. {doi:10.1093/nar/15.2.543]
+<LI><A NAME="4"></A>Hall, R.H. (1964) <I>Biochemistry</I>, <B>3</B>, 876-880. [doi:10.1021/bi00895a001]
+<LI><A NAME="5"></A>Robins, M.J., Naik, S.R. and Alan, S.K. (1974) <I>J. Org. Chem.</I>, <B>39</B>, 1891-1899. [doi:10.1021/jo00927a022]
 </OL>
