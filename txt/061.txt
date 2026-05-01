@@ -22,8 +22,8 @@ Symbol X for acp#3U has been confused in the literature with &#x22;unknown nucle
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kowalak, J.A., Bruenger, E., Crain, P.F. and McCloskey, J.A. (2000) <I>J. Biol. Chem.</I>, <B>275</B>, 24484-24489.
-<LI><A NAME="2"></A>Ohashi, Z., Maeda, M., McCloskey, J.A. and Nishimura, S. (1974) <I>Biochemistry</I>, <B>13</B>, 2620-2625.
-<LI><A NAME="3"></A>Friedman, S., Li, H.J., Nakanishi, K. and Van Lear, G. (1974) <I>Biochemistry</I>, <B>13</B>, 2932-2937. 
+<LI><A NAME="1"></A>Kowalak, J.A., Bruenger, E., Crain, P.F. and McCloskey, J.A. (2000) <I>J. Biol. Chem.</I>, <B>275</B>, 24484-24489. [doi:10.1074/jbc.M002153200]
+<LI><A NAME="2"></A>Ohashi, Z., Maeda, M., McCloskey, J.A. and Nishimura, S. (1974) <I>Biochemistry</I>, <B>13</B>, 2620-2625. [doi:10.1021/bi00709a023]
+<LI><A NAME="3"></A>Friedman, S., Li, H.J., Nakanishi, K. and Van Lear, G. (1974) <I>Biochemistry</I>, <B>13</B>, 2932-2937.  [doi:10.1021/bi00711a024]
 </OL>
 
