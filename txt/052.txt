@@ -23,10 +23,10 @@ Occurrence is rare in archaeal tRNA. Enzymatic synthesis was reported in [<A HRE
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Hayashi, Y., Osawa, S. and Miura, K. (1966) <I>Biochim. Biophys. Acta</I>, <B>129</B>, 519-531.
-<LI><A NAME="2"></A>Fellner, P. (1969) <I>Eur. J. Biochem.</I>, <B>11</B>, 12-27.
-<LI><A NAME="3"></A>Felden, B., Hanawa, K., Atkins, J.F., Himeno, H., Muto, A., Gesteland, R.F., McCloskey, J.A. and Crain, P.F. (1998) <I>EMBO J.</I>, <B>17</B>, 3188-3196.
-<LI><A NAME="4"></A>Littlefield, J.W. and Dunn, D.B. (1958) <I>Biochem. J.</I>, <B>70</B>, 642-651.
-<LI><A NAME="5"></A>Fox, J.J., Yung, N., Davoll, J. and Brown, G.B. (1956) <I>J. Am. Chem. Soc.</I>, <B>78</B>, 2117-2122.
-<LI><A NAME="6"></A>Lampen, J.O. (1952) In McElroy, W.D. and Glass, B. (eds.) Phosphorus Metabolites. The Johns Hopkins Press, Baltimore, Vol. II, pp. 368.
+<LI><A NAME="1"></A>Hayashi, Y., Osawa, S. and Miura, K. (1966) <I>Biochim. Biophys. Acta</I>, <B>129</B>, 519-531. [doi:10.1016/0005-2787(66)90067-0]
+<LI><A NAME="2"></A>Fellner, P. (1969) <I>Eur. J. Biochem.</I>, <B>11</B>, 12-27. [doi:10.1111/j.1432-1033.1969.tb00733.x]
+<LI><A NAME="3"></A>Felden, B., Hanawa, K., Atkins, J.F., Himeno, H., Muto, A., Gesteland, R.F., McCloskey, J.A. and Crain, P.F. (1998) <I>EMBO J.</I>, <B>17</B>, 3188-3196. [doi:10.1093/emboj/17.11.3188]
+<LI><A NAME="4"></A>Littlefield, J.W. and Dunn, D.B. (1958) <I>Biochem. J.</I>, <B>70</B>, 642-651. [doi:10.1042/bj0700642]
+<LI><A NAME="5"></A>Fox, J.J., Yung, N., Davoll, J. and Brown, G.B. (1956) <I>J. Am. Chem. Soc.</I>, <B>78</B>, 2117-2122. [doi:10.1021/ja01591a024]
+<LI><A NAME="6"></A>Lampen, J.O. (1952) In McElroy, W.D. and Glass, B. (eds.) Phosphorus Metabolites. The Johns Hopkins Press, Baltimore, Vol. II, p. 368.
 </OL>
