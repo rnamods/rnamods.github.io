@@ -18,5 +18,5 @@ COMPO=C12H17N5O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Okada, N., Noguchi, S., Nishimura, S., Ohgi, T., Goto, T., Crain, P.F. and McCloskey, J.A. (1978) <I>Nucleic Acids Res</I>, <B>5</B>, 2289-2296.
+<LI><A NAME="1"></A>Okada, N., Noguchi, S., Nishimura, S., Ohgi, T., Goto, T., Crain, P.F. and McCloskey, J.A. (1978) <I>Nucleic Acids Res</I>, <B>5</B>, 2289-2296. [doi:10.1093/nar/5.7.2289]
 </OL>
