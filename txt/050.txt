@@ -44,22 +44,22 @@ Leading references to the pseudouridine literature can be found in a recent revi
 <B>References</B>
 <OL>
 <LI><A NAME="1"></A>Stahl, D.A. (1978) PhD Thesis. University of Illinois at Urbana-Champaign.
-<LI><A NAME="2"></A>Ofengand, J. and Bakin, A. (1997) <I>J. Mol. Biol.</I> <B>266</B>, 246-268.
-<LI><A NAME="3"></A>Dubin, D.T. and G&uuml;nalp, A. (1967) <I>Biochim. Biophys. Acta</I>, <B>134</B>, 106-123.
-<LI><A NAME="4"></A>Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>34</B>, 286-287.
-<LI><A NAME="5"></A>Brawerman, G. and Chargaff, E. (1959) <I>Biochim. Biophys. Acta</I>, <B>31</B>, 172-177.
-<LI><A NAME="6"></A>Miyazaki, M. (1974) <I>J. Biochem.</I>, <B>75</B>, 1407-1410.
-<LI><A NAME="7"></A>Lau, R.Y., Kennedy, T.D. and Lane, B.G. (1974) <I>Can. J. Biochem.</I>, <B>52</B>, 1110-1122.
-<LI><A NAME="8"></A>Rubin, G.M. (1974) <I>J. Biol. Chem.</I>, <B>248</B>, 3860-3875.
-<LI><A NAME="9"></A>Amaldi, F. and Attardi, G. (1968) <I>J. Mol. Biol.</I>, <B>32</B>, 737-755.
-<LI><A NAME="10"></A>Felden, B., Hanawa, K., Atkins, J.F., Himeno, H., Muto, A., Gesteland, R.F., McCloskey, J.A. and Crain, P.F. (1998) <I>EMBO J.</I>, <B>17</B>, 3188-3196.
-<LI><A NAME="11"></A>Ray, B. K. and Apirion, D. (1979) Molec. Gen. Genet., <B>174</B>, 25-32.
-<LI><A NAME="12"></A>Jain, S.K., Gurevitz, M. and Apirion, D. (1982) <I>J. Mol. Biol.</I>, <B>162</B>, 515-533.
-<LI><A NAME="13"></A>Reddy, R., Ro-Choi, T.S., Henning, D., Shibata, H., Choi, Y.C. and Busch, H. (1972) <I>J. Biol. Chem.</I>, <B>247</B>, 7245-7250.
-<LI><A NAME="14"></A>Reddy, R., Henning, D., Liu, M.-H., Spector, D. and Busch, H. (1985) <I>Biochem. Biophys. Res. Commun.</I>, <B>127</B>, 552-557.
-<LI><A NAME="15"></A>Yu, C.-T. and Allen, F.W. (1959) <I>Biochim. Biophys. Acta</I>, <B>32</B>, 393-405.
-<LI><A NAME="16"></A>Cohn, W.E. (1959) <I>Biochim. Biophys. Acta</I>, <B>32</B>, 569-571.
-<LI><A NAME="17"></A>Shapiro, R. and Chambers, R.W. (1961) <I>J. Am. Chem. Soc.</I>, <B>83</B>, 3920-3921.
-<LI><A NAME="18"></A>Charette, M. and Gray, M.W. (2000) <I>IUBMB Life</I>, <B>49</B>, 341-351.
+<LI><A NAME="2"></A>Ofengand, J. and Bakin, A. (1997) <I>J. Mol. Biol.</I> <B>266</B>, 246-268. [doi:10.1006/jmbi.1996.0737]
+<LI><A NAME="3"></A>Dubin, D.T. and G&uuml;nalp, A. (1967) <I>Biochim. Biophys. Acta</I>, <B>134</B>, 106-123. [doi:10.1016/0005-2787(67)90094-9]
+<LI><A NAME="4"></A>Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>34</B>, 286-287. [doi:10.1016/0006-3002(59)90274-4]
+<LI><A NAME="5"></A>Brawerman, G. and Chargaff, E. (1959) <I>Biochim. Biophys. Acta</I>, <B>31</B>, 172-177. [doi:10.1016/0006-3002(59)90453-6]
+<LI><A NAME="6"></A>Miyazaki, M. (1974) <I>J. Biochem.</I>, <B>75</B>, 1407-1410. [doi:10.1093/oxfordjournals.jbchem.a130532]
+<LI><A NAME="7"></A>Lau, R.Y., Kennedy, T.D. and Lane, B.G. (1974) <I>Can. J. Biochem.</I>, <B>52</B>, 1110-1122. [doi:10.1139/o74-155]
+<LI><A NAME="8"></A>Rubin, G.M. (1974) <I>J. Biol. Chem.</I>, <B>248</B>, 3860-3875. [doi:10.1016/S0021-9258(19)43814-3]
+<LI><A NAME="9"></A>Amaldi, F. and Attardi, G. (1968) <I>J. Mol. Biol.</I>, <B>32</B>, 737-755. [doi:10.1016/0022-2836(68)90317-3]
+<LI><A NAME="10"></A>Felden, B., Hanawa, K., Atkins, J.F., Himeno, H., Muto, A., Gesteland, R.F., McCloskey, J.A. and Crain, P.F. (1998) <I>EMBO J.</I>, <B>17</B>, 3188-3196. [doi:10.1093/emboj/17.11.3188]
+<LI><A NAME="11"></A>Ray, B. K. and Apirion, D. (1979) Molec. Gen. Genet., <B>174</B>, 25-32. [doi:10.1007/BF00433301]
+<LI><A NAME="12"></A>Jain, S.K., Gurevitz, M. and Apirion, D. (1982) <I>J. Mol. Biol.</I>, <B>162</B>, 515-533. [doi:10.1007/BF00433301]
+<LI><A NAME="13"></A>Reddy, R., Ro-Choi, T.S., Henning, D., Shibata, H., Choi, Y.C. and Busch, H. (1972) <I>J. Biol. Chem.</I>, <B>247</B>, 7245-7250. [doi:10.1016/S0021-9258(19)44620-6]
+<LI><A NAME="14"></A>Reddy, R., Henning, D., Liu, M.-H., Spector, D. and Busch, H. (1985) <I>Biochem. Biophys. Res. Commun.</I>, <B>127</B>, 552-557. [doi:10.1016/s0006-291x(85)80195-9]
+<LI><A NAME="15"></A>Yu, C.-T. and Allen, F.W. (1959) <I>Biochim. Biophys. Acta</I>, <B>32</B>, 393-406. [doi:10.1016/0006-3002(59)90612-2]
+<LI><A NAME="16"></A>Cohn, W.E. (1959) <I>Biochim. Biophys. Acta</I>, <B>32</B>, 569-571. [doi:10.1016/0006-3002(59)90644-4]
+<LI><A NAME="17"></A>Shapiro, R. and Chambers, R.W. (1961) <I>J. Am. Chem. Soc.</I>, <B>83</B>, 3920-3921. [doi:10.1021/ja01479a057]
+<LI><A NAME="18"></A>Charette, M. and Gray, M.W. (2000) <I>IUBMB Life</I>, <B>49</B>, 341-351. [doi:10.1080/152165400410182]
 </OL>
 
