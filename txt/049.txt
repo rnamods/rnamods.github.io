@@ -22,8 +22,8 @@ The bacterial nucleoside preQ_0</A> is a biosynthetic precursor of G#+ [<A HREF=
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Gregson, J.M., Crain, P.F., Edmonds, C.G., Gupta, R., Hashizume, T., Phillipson, D.W. and McCloskey, J.A. (1993) <I>J. Biol. Chem.</I> <B>268</B>, 10076-10086.
-<LI><A NAME="2"></A>Kilpatrick, M.W. and Walker, R.T. (1982) <I>Zentralbl. Bakteriol. Mikrobiol. Hyg. 1 Abt. Orig. C</I> <B>3</B>, 79-89.
+<LI><A NAME="1"></A>Gregson, J.M., Crain, P.F., Edmonds, C.G., Gupta, R., Hashizume, T., Phillipson, D.W. and McCloskey, J.A. (1993) <I>J. Biol. Chem.</I> <B>268</B>, 10076-10086. [doi:10.1016/S0021-9258(18)82174-3]
+<LI><A NAME="2"></A>Kilpatrick, M.W. and Walker, R.T. (1982) <I>Zentralbl. Bakteriol. Mikrobiol. Hyg. 1 Abt. Orig. C</I> <B>3</B>, 79-89. [doi:10.1016/S0721-9571(82)80056-2]
 <LI><A NAME="3"></A>Hashizume, T. and McCloskey, J.A. (1994) <I>Nucleic Acids Res. Symp. Ser.</I> <B>31</B>, 137-138.
-<LI><A NAME="4"></A>Watanabe, M., Matsuo, M., Tanaka, S., Akimoto, H., Asahi, S., Nishimura, S., Katze, J.R., Hashizume, T., Crain, P.F., McCloskey, J.A. and Okada, N. (1997) <I>J. Biol. Chem.</I> <B>272</B>, 20146-20151.
+<LI><A NAME="4"></A>Watanabe, M., Matsuo, M., Tanaka, S., Akimoto, H., Asahi, S., Nishimura, S., Katze, J.R., Hashizume, T., Crain, P.F., McCloskey, J.A. and Okada, N. (1997) <I>J. Biol. Chem.</I> <B>272</B>, 20146-20151. [doi:10.1074/jbc.272.32.20146]
 </OL>
