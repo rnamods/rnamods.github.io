@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one, 2-amino-5-(aminomethyl)-1,7-dihydro- 7-!b-&D-ribofuranosyl-
+CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one, 2-amino-5-(aminomethyl)-1,7-dihydro-7-!b-&D-ribofuranosyl-
 CANUR=66048-70-2
 CANUB=69251-45-2
 COMPO=C12H17N5O5
