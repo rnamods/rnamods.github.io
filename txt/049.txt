@@ -12,7 +12,7 @@ COMPO=C12H16N6O5
 <P>
 <B>Structure:</B> [<A HREF="#1">1</A>]
 <P>
-<B>Synthesis:</B> [<A HREF="#1">1</A>,v <A HREF="#2">2</A>]
+<B>Synthesis:</B> [<A HREF="#1">1</A>, <A HREF="#2">2</A>]
 <P>
 <B>Comment:</B> Symbol G#+ was assigned based on the positive charge carried by the nucleoside, as noted at the time of its original discovery [<A HREF="#3">3</A>];
 G* or G*-15 have been used but are no longer preferred. Alternate name is 7-formamidino-7-deazaguanosine.
