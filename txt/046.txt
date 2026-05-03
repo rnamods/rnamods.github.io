@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one-, 2-amino-1,7-dihydro- 5-[[[4-hydroxy-5-(!b-&D-mannopyranosyloxy)- 2-cyclopenten-1-yl]amino]methyl]-7-!b-&D-ribofuranosyl-, [1?S-(1!a,4!b,5!b)]
+CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one-, 2-amino-1,7-dihydro-5-[[[4-hydroxy-5-(!b-&D-mannopyranosyloxy)-2-cyclopenten-1-yl]amino]methyl]-7-!b-&D-ribofuranosyl-, [1?S-(1!a,4!b,5!b)]
 CANUR=60398-20-1
 CANUB=90501-23-8
 COMPO=C23H33N5O12
@@ -18,5 +18,5 @@ COMPO=C23H33N5O12
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kasai, H., Nakanishi, K., Macfarlane, R.D., Torgerson, D.F., Ohashi, Z., McCloskey, J.A., Gross, H.J. and Nishimura, S. (1976) <I>J. Am. Chem. Soc.</I>, <B>98</B>, 5044-5046. 
+<LI><A NAME="1"></A>Kasai, H., Nakanishi, K., Macfarlane, R.D., Torgerson, D.F., Ohashi, Z., McCloskey, J.A., Gross, H.J. and Nishimura, S. (1976) <I>J. Am. Chem. Soc.</I>, <B>98</B>, 5044-5046. [10.1021/ja00432a071]
 </OL>
