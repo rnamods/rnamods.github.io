@@ -16,5 +16,5 @@ COMPO=C17H23N5O8
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Phillipson, D.W., Edmonds, C.G., Crain, P.F., Smith, D.L., Davis, D.R. and McCloskey, J.A. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 3462-3471. [doi:10.1021/ja00432a071]
+<LI><A NAME="1"></A>Phillipson, D.W., Edmonds, C.G., Crain, P.F., Smith, D.L., Davis, D.R. and McCloskey, J.A. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 3462-3471. [doi:10.1016/S0021-9258(18)61373-0]
 </OL>
