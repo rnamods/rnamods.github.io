@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one, 2-amino-5-[[(3,4-dihydroxy-6-oxobicyclo[3.1.0]hex-2-yl) amino]methyl]- 1,7-dihydro-7-!b-&D-ribofuranosyl-
+CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one, 2-amino-5-[[(3,4-dihydroxy-6-oxobicyclo[3.1.0]hex-2-yl)amino]methyl]-1,7-dihydro-7-!b-&D-ribofuranosyl-
 CANUR=107865-20-3
 CANUB=
 COMPO=C17H23N5O8
@@ -16,5 +16,5 @@ COMPO=C17H23N5O8
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Phillipson, D.W., Edmonds, C.G., Crain, P.F., Smith, D.L., Davis, D.R. and McCloskey, J.A. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 3462-3471. 
+<LI><A NAME="1"></A>Phillipson, D.W., Edmonds, C.G., Crain, P.F., Smith, D.L., Davis, D.R. and McCloskey, J.A. (1987) <I>J. Biol. Chem.</I>, <B>262</B>, 3462-3471. [doi:10.1021/ja00432a071]
 </OL>
