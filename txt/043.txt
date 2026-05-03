@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one, 2-amino- 5-[[(4,5-dihydroxy-2-cyclopenten-1-yl)amino]methyl]- 1,7-dihydro- 7-!b-&D-ribofuranosyl-, [1?S-(1!a,4!b,5!b>)]-
+CANAM=4?H-Pyrrolo[2,3-?d]pyrimidin-4-one,2-amino-5-[[(4,5-dihydroxy-2-cyclopenten-1-yl)amino]methyl]-1,7-dihydro-7-!b-&D-ribofuranosyl-,[1?S-(1!a,4!b,5!b>)]-
 CANUR=57072-36-3
 CANUB=72496-59-4
 COMPO=C17H23N5O7
@@ -18,9 +18,9 @@ COMPO=C17H23N5O7
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kasai, H., Ohashi, Z., Harada, F., Nishimura, S., Oppenheimer, N.J., Crain, P.F., Liehr, J.G., von Minden, D.L. and McCloskey, J.A. (1975) <I>Biochemistry</I>, <B>14</B>, 4198-4208.
-<LI><A NAME="2"></A>Ohgi, T., Kondo, T. and Goto, T. (1977) <I>Tetrahedron Lett.</I>, 4051-4054.
-<LI><A NAME="3"></A>Crain, P.F., Sethi, S.K., Katze, J.R. and McCloskey, J.A. (1980) <I>J. Biol. Chem.</I>, <B>255</B>, 8405-8407. 
-<LI><A NAME="4"></A>Iwata-Reuyl, D. (2003) <I>Bioorg. Chem.</I>, <B>31</B>, 24-43. 
+<LI><A NAME="1"></A>Kasai, H., Ohashi, Z., Harada, F., Nishimura, S., Oppenheimer, N.J., Crain, P.F., Liehr, J.G., von Minden, D.L. and McCloskey, J.A. (1975) <I>Biochemistry</I>, <B>14</B>, 4198-4208. [doi:10.1021/bi00690a008]
+<LI><A NAME="2"></A>Ohgi, T., Kondo, T. and Goto, T. (1977) <I>Tetrahedron Lett.</I>, 4051-4054. [doi:10.1016/S0040-4039(01)83424-9]
+<LI><A NAME="3"></A>Crain, P.F., Sethi, S.K., Katze, J.R. and McCloskey, J.A. (1980) <I>J. Biol. Chem.</I>, <B>255</B>, 8405-8407. [doi:10.1016/S0021-9258(18)43509-0]
+<LI><A NAME="4"></A>Iwata-Reuyl, D. (2003) <I>Bioorg. Chem.</I>, <B>31</B>, 24-43. [doi:10.1016/s0045-2068(02)00513-8]
 </OL>
 
