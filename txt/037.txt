@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=3?H-Imidazo[1,2-?a]purine-7-butanoic acid, 4,9-dihydro- !a-[(methoxycarbonyl)amino]- 4,6-dimethyl-9-oxo- 3-!b-&D-ribofuranosyl-, methyl ester, (?S)-
+CANAM=3?H-Imidazo[1,2-?a]purine-7-butanoic acid, 4,9-dihydro-!a-[(methoxycarbonyl)amino]-4,6-dimethyl-9-oxo-3-!b-&D-ribofuranosyl-, methyl ester ,(?S)-
 CANUR=55196-46-8
 CANUB=35693-91-5
 COMPO=C21H28N6O9
@@ -20,8 +20,8 @@ Structural characterization was made from the acid-liberated base. A Chemical Ab
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Nakanishi, K., Furutachi, N., Funamizu, M., Grunberger, D. and Weinstein, I.B. (1970) <I>J. Am. Chem. Soc.</I>, <B>92</B>, 7617-7619.
-<LI><A NAME="2"></A>Funamizu, M., Terahara, A., Feinberg, A.M. and Nakanishi, K. (1971) <I>J. Am. Chem. Soc.</I>, <B>93</B>, 6706-6708.
-<LI><A NAME="3"></A>Blobstein, S.H., Grunberger, D., Weinstein, I.B. and Nakanishi, K. (1973) <I>Biochemistry</I>, <B>12</B>, 188-193.
-<LI><A NAME="4"></A>Kasai, H., Goto, M., Ikeda, K., Zama, M., Mizuno, Y., Takemura, S., Matsuura, S., Sugimoto, T. and Goto, T. (1976) <I>Biochemistry</I>, <B>15</B>, 898-904. 
+<LI><A NAME="1"></A>Nakanishi, K., Furutachi, N., Funamizu, M., Grunberger, D. and Weinstein, I.B. (1970) <I>J. Am. Chem. Soc.</I>, <B>92</B>, 7617-7619. [doi:10.1021/ja00729a035]
+<LI><A NAME="2"></A>Funamizu, M., Terahara, A., Feinberg, A.M. and Nakanishi, K. (1971) <I>J. Am. Chem. Soc.</I>, <B>93</B>, 6706-6708. [doi:doi.org/10.1021/ja00753a080]
+<LI><A NAME="3"></A>Blobstein, S.H., Grunberger, D., Weinstein, I.B. and Nakanishi, K. (1973) <I>Biochemistry</I>, <B>12</B>, 188-193. [doi:10.1021/bi00726a002]
+<LI><A NAME="4"></A>Kasai, H., Goto, M., Ikeda, K., Zama, M., Mizuno, Y., Takemura, S., Matsuura, S., Sugimoto, T. and Goto, T. (1976) <I>Biochemistry</I>, <B>15</B>, 898-904. [doi:10.1021/bi00649a027]
 </OL>
