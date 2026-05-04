@@ -18,5 +18,5 @@ COMPO=C12H17N5O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Edmonds, C.G., Crain, P.F., Gupta, R., Hashizume, T., Hocart, C.H., Kowalak, J.A., Pomerantz, S.C., Stetter, K.O. and McCloskey, J.A. (1991) <I>J. Bacteriol.</I>, <B>173</B>, 3138-3148.
+<LI><A NAME="1"></A>Edmonds, C.G., Crain, P.F., Gupta, R., Hashizume, T., Hocart, C.H., Kowalak, J.A., Pomerantz, S.C., Stetter, K.O. and McCloskey, J.A. (1991) <I>J. Bacteriol.</I>, <B>173</B>, 3138-3148. [doi:10.1128/jb.173.10.3138-3148.1991]
 </OL>
