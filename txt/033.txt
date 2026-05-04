@@ -18,9 +18,9 @@ COMPO=C12H17N5O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Woese, C.R., Gutell, R., Gupta, R. and Noller, H.F. (1983) <I>Microbiol. Rev.</I>, <B>47</B>, 621-669.
-<LI><A NAME="2"></A>Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>34</B>, 286-287.
-<LI><A NAME="3"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15.
-<LI><A NAME="4"></A>Smith, J.D. and Dunn, D.B. (1959) <I>Biochem. J.</I>, <B>72</B>, 294-301.
-<LI><A NAME="5"></A>Gerster, J.F. and Robins, R.K. (1965) <I>J. Am. Chem. Soc.</I>, <B>87</B>, 3752-3759.
+<LI><A NAME="1"></A>Woese, C.R., Gutell, R., Gupta, R. and Noller, H.F. (1983) <I>Microbiol. Rev.</I>, <B>47</B>, 621-669. [doi:10.1128/mr.47.4.621-669.1983]
+<LI><A NAME="2"></A>Dunn, D.B. (1959) <I>Biochim. Biophys. Acta</I>, <B>34</B>, 286-287. [doi:10.1016/0006-3002(59)90274-4]
+<LI><A NAME="3"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15. [doi:10.1016/0003-9861(68)90553-5]
+<LI><A NAME="4"></A>Smith, J.D. and Dunn, D.B. (1959) <I>Biochem. J.</I>, <B>72</B>, 294-301. [doi:10.1042/bj0720294]
+<LI><A NAME="5"></A>Gerster, J.F. and Robins, R.K. (1965) <I>J. Am. Chem. Soc.</I>, <B>87</B>, 3752-3759. [doi:10.1021/ja01094a037]
 </OL>
