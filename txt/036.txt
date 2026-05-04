@@ -19,7 +19,7 @@ Gr registry number: 148711-49-3, Chemical Abstracts Index Name: Guanosine, 2'-?O
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Kiesewetter, S., Ott, G. and Sprinzl, M. (1990) <I>Nucleic Acids Res.</I>, <B>18</B>, 4677-4682.
-<LI><A NAME="2"></A>Glasser, A.-L., Desgres, J., Heitzler, J., Gehrke, C.W. and Keith, G. (1991) <I>Nucleic Acids Res.</I>, <B>19</B>, 5199-5203.
-<LI><A NAME="3"></A>Efimtseva, E.V., Shelkunova, A.A., Mikhailov, S.N., Nauwelaerts, K., Rozenski, J., Lescrinier, E., Herdewijn, P. (2003) <I>Helvetica Chim. Acta.</I>, <B>86</B>, 504-514.
+<LI><A NAME="1"></A>Kiesewetter, S., Ott, G. and Sprinzl, M. (1990) <I>Nucleic Acids Res.</I>, <B>18</B>, 4677-4682. [doi:10.1093/nar/18.16.4677]
+<LI><A NAME="2"></A>Glasser, A.-L., Desgres, J., Heitzler, J., Gehrke, C.W. and Keith, G. (1991) <I>Nucleic Acids Res.</I>, <B>19</B>, 5199-5203. [doi:doi.org/10.1093/nar/19.19.5199]
+<LI><A NAME="3"></A>Efimtseva, E.V., Shelkunova, A.A., Mikhailov, S.N., Nauwelaerts, K., Rozenski, J., Lescrinier, E., Herdewijn, P. (2003) <I>Helvetica Chim. Acta.</I>, <B>86</B>, 504-514. [doi:10.1002/hlca.200390050]
 </OL>
