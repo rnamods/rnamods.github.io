@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=3?H-Imidazo[1,2-?a]purine-7-butanoic acid, 4,9-dihydro-!b-hydroperoxy- !a-[(methoxycarbonyl)amino]- 4,6-dimethyl-9-oxo-3-!b-&D-ribofuranosyl-, methyl ester
+CANAM=3?H-Imidazo[1,2-?a]purine-7-butanoic acid, 4,9-dihydro-!b-hydroperoxy-!a-[(methoxycarbonyl)amino]-4,6-dimethyl-9-oxo-3-!b-&D-ribofuranosyl-, methyl ester
 CANUR=78355-49-4
 CANUB=36238-44-5
 COMPO=C21H28N6O11
