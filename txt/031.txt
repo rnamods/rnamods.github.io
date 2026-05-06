@@ -1,5 +1,5 @@
 UPDAT=1998.12.16
-CANAM=1?H-Purinium, 2-amino-6,9-dihydroxy-7-methyl-6-oxo- 9-!b-&D-ribofuranosyl-
+CANAM=1?H-Purinium, 2-amino-6,9-dihydroxy-7-methyl-6-oxo-9-!b-&D-ribofuranosyl-
 CANUR=20244-86-4
 CANUB=578-76-7
 COMPO=C11H15N5O5
@@ -27,14 +27,14 @@ later studies showed it to be confined to the 18S rRNA [<A HREF="#6">6</A>].
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Zueva, V.S., Mankin, A.S., Bogdanov, A.A., Thurlow, D.L. and Zimmermann, R.A. (1985) <I>FEBS Lett.</I>, <B>188</B>, 233-238.
-<LI><A NAME="2"></A>Isaksson, L.A. and Phillips, J.H. (1968) <I>Biochim. Biophys. Acta</I>, <B>115</B>, 63-71.
-<LI><A NAME="3"></A>Thomas, G., Gordon, J. and Rogg, H. (1978) <I>J. Biol. Chem.</I>, <B>253</B>, 1101-1105.
-<LI><A NAME="4"></A>Cecchini, J.P. and Miassod, R. (1979) <I>Eur. J. Biochem.</I>, <B>98</B>, 203-214.
-<LI><A NAME="5"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15.
-<LI><A NAME="6"></A>Maden, B.E.H. and Salim, M. (1974) <I>J. Mol. Biol.</I>, <B>88</B>, 133-164.
-<LI><A NAME="7"></A>Rottman, F., Shatkin, A.J. and Perry, R.P. (1974) <I>Cell</I>, <B>3</B>, 197-199.
-<LI><A NAME="8"></A>Dunn, D.B. (1961) <I>Biochim. Biophys. Acta</I>, <B>46</B>, 198-200.
-<LI><A NAME="9"></A>Haines, J.A., Reese, C.B. and Todd, L. (1962) <I>J. Chem. Soc.</I>, 5281-5287.
+<LI><A NAME="1"></A>Zueva, V.S., Mankin, A.S., Bogdanov, A.A., Thurlow, D.L. and Zimmermann, R.A. (1985) <I>FEBS Lett.</I>, <B>188</B>, 233-238. [doi:10.1016/0014-5793(85)80378-1
+<LI><A NAME="2"></A>Isaksson, L.A. and Phillips, J.H. (1968) <I>Biochim. Biophys. Acta</I>, <B>115</B>, 63-71. [doi:10.1016/0005-2787(68)90335-3]
+<LI><A NAME="3"></A>Thomas, G., Gordon, J. and Rogg, H. (1978) <I>J. Biol. Chem.</I>, <B>253</B>, 1101-1105. [doi:10.1016/S0021-9258(17)38117-6]
+<LI><A NAME="4"></A>Cecchini, J.P. and Miassod, R. (1979) <I>Eur. J. Biochem.</I>, <B>98</B>, 203-214. [doi:10.1111/j.1432-1033.1979.tb13178.x]
+<LI><A NAME="5"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15. [doi:10.1016/0003-9861(68)90553-5]
+<LI><A NAME="6"></A>Maden, B.E.H. and Salim, M. (1974) <I>J. Mol. Biol.</I>, <B>88</B>, 133-164. [doi:10.1016/0022-2836(74)90299-X]
+<LI><A NAME="7"></A>Rottman, F., Shatkin, A.J. and Perry, R.P. (1974) <I>Cell</I>, <B>3</B>, 197-199. [doi:10.1016/0092-8674(74)90131-7]
+<LI><A NAME="8"></A>Dunn, D.B. (1961) <I>Biochim. Biophys. Acta</I>, <B>46</B>, 198-200. [doi:10.1016/0006-3002(61)90668-0]
+<LI><A NAME="9"></A>Haines, J.A., Reese, C.B. and Todd, L. (1962) <I>J. Chem. Soc.</I>, 5281-5287. [doi:10.1039/JR9620005281]
 <LI><A NAME="10"></A>Dunn, D.B. (1963) <I>Biochem. J.</I>, <B>86</B>, 14P-15P.
 </OL>
