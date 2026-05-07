@@ -18,5 +18,5 @@ COMPO=C11H17N3O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Edmonds, C.G., Crain, P.F., Hashizume, T., Gupta, R., Stetter, K.O. and McCloskey, J.A. (1987) <I>J. Chem. Soc., Chem. Commun.</I>, <B>1987</B>, 909-910.
+<LI><A NAME="1"></A>Edmonds, C.G., Crain, P.F., Hashizume, T., Gupta, R., Stetter, K.O. and McCloskey, J.A. (1987) <I>J. Chem. Soc., Chem. Commun.</I>, <B>1987</B>, 909-910. [doi:10.1039/C39870000909]
 </OL>
