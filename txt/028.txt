@@ -20,5 +20,5 @@ neutral nucleoside are less effective in retrieval of lysidine literature. Alter
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Muramatsu, T., Yokoyama, S., Horie, N., Matsuda, A., Ueda, T., Yamaizumi, Z., Kuchino, Y., Nishimura, S. and Miyazawa, T. (1988) <I>J. Biol. Chem.</I>, <B>263</B>, 9261-9267.
+<LI><A NAME="1"></A>Muramatsu, T., Yokoyama, S., Horie, N., Matsuda, A., Ueda, T., Yamaizumi, Z., Kuchino, Y., Nishimura, S. and Miyazawa, T. (1988) <I>J. Biol. Chem.</I>, <B>263</B>, 9261-9267. [doi:10.1351/pac198961030573]
 </OL>
