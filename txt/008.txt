@@ -19,6 +19,6 @@ The name zeatin riboside refers to the <I>trans</I>-isomer, a cytokinin (registr
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Hall, R.H., Csonka, L., David, H. and McLennan, B. (1967) <I>Science</I>, <B>156</B>, 69-70.
-<LI><A NAME="2"></A>Playtis, A.J. and Leonard, N.J. (1971) <I>Biochem. Biophys. Res. Commun.</I>, <B>45</B>, 1-5. 
+<LI><A NAME="1"></A>Hall, R.H., Csonka, L., David, H. and McLennan, B. (1967) <I>Science</I>, <B>156</B>, 69-70. [doi:10.1126/science.156.3771.69]
+<LI><A NAME="2"></A>Playtis, A.J. and Leonard, N.J. (1971) <I>Biochem. Biophys. Res. Commun.</I>, <B>45</B>, 1-5. [doi:10.1016/0006-291x(71)90041-6]
 </OL>
