@@ -1,5 +1,5 @@
 UPDAT=1998.10.15
-CANAM=5-Pyrimidineacetic acid, 1,2,3,4-tetrahydro-!a-hydroxy-2,4-dioxo- 1-!b-&D-ribofuranosyl-, (?S)-
+CANAM=5-Pyrimidineacetic acid, 1,2,3,4-tetrahydro-!a-hydroxy-2,4-dioxo-1-!b-&D-ribofuranosyl-,(?S)-
 CANUR=89708-80-5
 CANUB=
 COMPO=C11H14N2O9
