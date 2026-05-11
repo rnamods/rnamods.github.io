@@ -1,5 +1,5 @@
 UPDAT=2000.01.15
-CANAM=&L-Threonine, ?N-[[(9-!b-&D-ribofuranosyl- 9?H-purin-6-yl) amino]carbonyl]-
+CANAM=&L-Threonine, ?N-[[(9-!b-&D-ribofuranosyl-9?H-purin-6-yl)amino]carbonyl]-
 CANUR=24719-82-2
 CANUB=33422-66-1
 COMPO=C15H20N6O8
