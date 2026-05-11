@@ -28,5 +28,5 @@ Ar registry number: 28269-89-8, Chemical Abstracts Index Name: Adenosine, 2'-?O-
 <LI><A NAME="3"></A>Lis, A.W. and Passarge, W.E. (1969) <I>Physiol. Chem. Phys.</I>, <B>1</B>, 68-71.
 <LI><A NAME="4"></A>Rodionov, A.A., Efimtseva, E.V., Mikhailov, S.M., Rozenski, J., Luyten, I. and Herdewijn, P. (2000) <I>Nucleosides, Nucleotides Nucleic Acids</I>, <B>19</B>, 1847-1859. [doi:10.1080/15257770008045465]
 <LI><A NAME="5"></A>Hall, R.H. (1965) <I>Biochemistry</I>, <B>4</B>, 661-670. [doi:10.1021/bi00880a008]
-<LI><A NAME="6"></A>Hall, R.H. (1971) The Modified Nucleosides in Nucleic Acids. Columbia University Press, New York, p. 111. [link:https://lccn.loc.gov/73122745]
+<LI><A NAME="6"></A>Hall, R.H. (1971) The Modified Nucleosides in Nucleic Acids. Columbia University Press, New York, p. 111. [link:lccn.loc.gov/73122745]
 </OL>
