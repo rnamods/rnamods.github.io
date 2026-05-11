@@ -1,5 +1,5 @@
 UPDAT=1998.10.14
-CANAM=Glycine, ?N-[[(9-!b-&D-ribofuranosyl- 9?H-purin-6-yl) amino]carbonyl]-
+CANAM=Glycine, ?N-[[(9-!b-&D-ribofuranosyl-9?H-purin-6-yl)amino]carbonyl]-
 CANUR=29902-55-4
 CANUB=32459-91-9
 COMPO=C13H16N6O7
