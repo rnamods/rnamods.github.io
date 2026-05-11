@@ -16,5 +16,5 @@ COMPO=C16H23N5O5S
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Hecht, S.M., Leonard, N.J., Burrows, W.J., Armstrong, D.J., Skoog, F. and Occolowitz, J. (1969) <I>Science</I>, <B>166</B>, 1272-1274. 
+<LI><A NAME="1"></A>Hecht, S.M., Leonard, N.J., Burrows, W.J., Armstrong, D.J., Skoog, F. and Occolowitz, J. (1969) <I>Science</I>, <B>166</B>, 1272-1274. [doi:10.1126/science.166.3910.1272]
 </OL>
