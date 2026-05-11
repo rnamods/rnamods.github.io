@@ -9,7 +9,7 @@ COMPO=C11H15N5O4
 <TH ROWSPAN=2>rRNA</TH><TD>&nbsp;</TD><TD>[<A HREF="#1">1</A>]</TD>
 <TD>16+25S [<A HREF="#2">2</A>]<BR>18, 28S [<A HREF="#3">3</A>]<BR>26, 28S [<A HREF="#4">4</A>]</TD>
 </TR><TR>
-<TD COLSPAN=3 class='comment'>Comment:  This nucleoside is not reported in the sequence of 18S rRNA from HeLa cells [<A HREF="#5">5</A>].</TD>
+<TD COLSPAN=3 class='comment'>Comment: This nucleoside is not reported in the sequence of 18S rRNA from HeLa cells [<A HREF="#5">5</A>].</TD>
 </TR>
 </TABLE>
 <P>
