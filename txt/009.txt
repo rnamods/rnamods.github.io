@@ -1,5 +1,5 @@
 UPDAT=1998.10.14
-CANAM=Adenosine, ?N-(4-hydroxy-3-methyl-2-butenyl)- 2-(methylthio)-, (?Z)
+CANAM=Adenosine, ?N-(4-hydroxy-3-methyl-2-butenyl)-2-(methylthio)-,(?Z)
 CANUR=52049-48-6
 CANUB=52020-11-8
 COMPO=C16H23N5O5S
