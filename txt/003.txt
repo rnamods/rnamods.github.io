@@ -31,6 +31,6 @@ COMPO=C11H15N5O4
 <LI><A NAME="6"></A>Iwanami, Y. and Brown, G. (1968) <I>Arch. Biochem. Biophys.</I>, <B>126</B>, 8-15. [doi:10.1016/0003-9861(68)90553-5]
 <LI><A NAME="7"></A>Desrosiers, R., Friderici, K. and Rottman, F. (1974) <I>Proc. Natl. Acad. Sci. USA</I>, <B>71</B>, 3971-3975. [doi:10.1073/pnas.71.10.3971]
 <LI><A NAME="8"></A>Reddy, R., Ro-Choi, T.S., Henning, D., Shibata, H., Choi, Y.C. and Busch, H. (1972) <I>J. Biol. Chem.</I>, <B>247</B>, 7245-7250. [doi:10.1016/S0021-9258(19)44620-6]
-<LI><A NAME="9"></A>Adler, M., Weissmann, B. and Gutman, A.B. (1958) <I>J. Biol. Chem.</I>, <B> 230</B>, 717-723.
-<LI><A NAME="10"></A>Johnson, J.A., Thomas, H.J. and Schaeffer, H.J. (1958) <I>J. Am. Chem. Soc.</I>, <B>80</B>, 699-702. 
+<LI><A NAME="9"></A>Adler, M., Weissmann, B. and Gutman, A.B. (1958) <I>J. Biol. Chem.</I>, <B> 230</B>, 717-723. [doi:10.1016/S0021-9258(18)70494-8]
+<LI><A NAME="10"></A>Johnson, J.A., Thomas, H.J. and Schaeffer, H.J. (1958) <I>J. Am. Chem. Soc.</I>, <B>80</B>, 699-702. [doi:10.1021/ja01536a044]
 </OL>
