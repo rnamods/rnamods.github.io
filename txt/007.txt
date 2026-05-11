@@ -18,6 +18,6 @@ COMPO=C16H23N5O4S
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Burrows, W.J., Armstrong, D.J., Skoog, F., Hecht, S.M., Boyle, J.T.A., Leonard, N.J. and Occolowitz, J. (1968) <I>Science</I>, <B>161</B>, 691-693.
-<LI><A NAME="2"></A>Harada, F., Gross, H.J., Kimura, F., Chang, S.H., Nishimura, S. and RajBhandary, U.L. (1968) <I>Biochem. Biophys. Res. Commun.</I>, <B>33</B>, 299-306.
+<LI><A NAME="1"></A>Burrows, W.J., Armstrong, D.J., Skoog, F., Hecht, S.M., Boyle, J.T.A., Leonard, N.J. and Occolowitz, J. (1968) <I>Science</I>, <B>161</B>, 691-693. [doi:10.1126/science.161.3842.691]
+<LI><A NAME="2"></A>Harada, F., Gross, H.J., Kimura, F., Chang, S.H., Nishimura, S. and RajBhandary, U.L. (1968) <I>Biochem. Biophys. Res. Commun.</I>, <B>33</B>, 299-306. [doi:10.1016/0006-291X(68)90784-5]
 </OL>
