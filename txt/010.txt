@@ -16,5 +16,5 @@ COMPO=C13H16N6O7
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Schweizer, M.P., McGrath, K. and Baczynskyj, L. (1970) <I>Biochem. Biophys. Res. Commun.</I>, <B>40</B>, 1046-1052. 
+<LI><A NAME="1"></A>Schweizer, M.P., McGrath, K. and Baczynskyj, L. (1970) <I>Biochem. Biophys. Res. Commun.</I>, <B>40</B>, 1046-1052. [doi:10.1016/0006-291x(70)90899-5]
 </OL>
