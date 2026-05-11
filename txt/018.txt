@@ -16,6 +16,6 @@ COMPO=C11H14N4O5
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Hall, R.H. (1963) <I>Biochem. Biophys. Res. Commun.</I>, <B>13</B>, 394-398.
-<LI><A NAME="2"></A>Bredereck, H. and Martini, A. (1947) <I>Chem. Ber.</I>, <B>80</B>, 401-407.
+<LI><A NAME="1"></A>Hall, R.H. (1963) <I>Biochem. Biophys. Res. Commun.</I>, <B>13</B>, 394-398. [doi:10.1016/0006-291X(63)90354-1]
+<LI><A NAME="2"></A>Bredereck, H. and Martini, A. (1947) <I>Chem. Ber.</I>, <B>80</B>, 401-407. [doi:10.1002/cber.19470800505]
 </OL> 
