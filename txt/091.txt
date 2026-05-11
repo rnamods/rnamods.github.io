@@ -28,11 +28,11 @@ More rigorous characterization of the synthetic nucleoside used for comparison i
 <P><HR>
 <B>References</B>
 <OL>
-<LI><A NAME="1"></A>Liou, R. and Blumenthal, T. (1990) <I>Mol. Cell Biol.</I>, <B>10</B>, 1764-1768.
-<LI><A NAME="2"></A>Hsu-Chen, C.C. and Dubin, D.T. (1976) <I>Nature</I>, <B>264</B>, 190-191.
-<LI><A NAME="3"></A>Saponara, A.G. and Enger, M.D. (1969) <I>Nature</I>, <B>223</B>, 1365-1366.
+<LI><A NAME="1"></A>Liou, R. and Blumenthal, T. (1990) <I>Mol. Cell Biol.</I>, <B>10</B>, 1764-1768. [doi:10.1128/mcb.10.4.1764-1768.1990]
+<LI><A NAME="2"></A>Hsu-Chen, C.C. and Dubin, D.T. (1976) <I>Nature</I>, <B>264</B>, 190-191. [doi:10.1038/264190a0]
+<LI><A NAME="3"></A>Saponara, A.G. and Enger, M.D. (1969) <I>Nature</I>, <B>223</B>, 1365-1366. [doi:10.1038/2231365a0]
 <LI><A NAME="4"></A>Reddy, R., Ro-Choi, T.S., Henning, D., Shibata, H., Choi, Y.C. and Busch, H. (1972) <I>J. </I> <I>Biol. Chem.</I>, <B>247</B>, 7245-7250. [doi:10.1016/S0021-9258(19)44620-6]
-<LI><A NAME="5"></A>Ro-Choi, T.S., Choi, Y.C., Henning, D., McCloskey, J.A. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3921-3928.
-<LI><A NAME="6"></A>Ro-Choi, T.S. (1999) <I>Crit. Rev. Eukaryot. Gene Expr.</I>, <B>9</B>, 107-158.
+<LI><A NAME="5"></A>Ro-Choi, T.S., Choi, Y.C., Henning, D., McCloskey, J.A. and Busch, H. (1975) <I>J. Biol. Chem.</I>, <B>250</B>, 3921-3928. [doi:10.1016/S0021-9258(19)41486-5]
+<LI><A NAME="6"></A>Ro-Choi, T.S. (1999) <I>Crit. Rev. Eukaryot. Gene Expr.</I>, <B>9</B>, 107-158. [doi:10.1615/critreveukargeneexpr.v9.i2.20]
 </OL>
   
